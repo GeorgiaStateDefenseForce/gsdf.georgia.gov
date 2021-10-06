@@ -1,27 +1,42 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: About GSDF
+description: About the GSDF
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## The Georgia State Defense Force
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+### Ready to Serve!
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+_By Maj. William Carraway, Historian, Georgia Army National Guard_
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+_2nd Lt. Beverly Shepard, Public Affairs Branch Chief, Georgia State Defense Force, contributed to this report._
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+Seventy men and six women swore into the newly organized the Georgia State Defense Force (GSDF) during a ceremony at the Georgia National Guard headquarters in Atlanta, August 24, 1985. Maj. Gen. Joseph W. Griffin, then Adjutant General of Georgia, presided over the ceremony and addressed the new GSDF volunteers.
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+“I applaud each and every one of you as true patriots,” said Maj. Gen. Griffin. “Because you are volunteers, you are showing the true spirit and dedication to tradition first displayed in Lexington and Concord in 1775.”
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+<span class="image left"><img src="{{ "/images/GSDF-About-Us-Photo.png" | absolute_url }}" alt="" /></span>
+
+During his remarks, Maj. Gen. Griffin noted that one of the main considerations in establishing the GSDF was the anticipation of an increased role of the National Guard and Reserve as deployable forces to augment active service components. This concern echoed the events of 1940 when Governor E. D. Rivers established the State Defense Corps (SDC), forerunner of the SDF, in anticipation of the possible deployment of 5,100 Georgia National Guard Soldiers.
+
+Ryburn G. Clay was appointed to command the SDC on June 23, 1940. Less than three  months later, Georgia’s National Guard units activated into federal service and dispatched to training camps, such as Fort Jackson and Camp Blanding. Volunteers of the Georgia SDC, which was re-designated as the Georgia State Guard in 1942, trained for homeland defense, guarded Georgia’s coast, and stood ready to respond to natural disasters. Thousands of volunteers passed through the ranks of the Georgia State Guard before it was disbanded in 1947.
+
+
+
+### Ready to Serve!
+
+Since its re-establishment in 1985 under the command of Brig. Gen. John Gillette, the GSDF has supported the Georgia Department of Defense during state emergencies. The GSDF provides support in many areas, including communications, disaster relief and reconnaissance, law, medical support, public affairs, search and rescue, traffic control, and training and education. The GSDF also provides field training assistance to the Georgia National Guard.
+
+
+### COVID-19
+
+<span class="image right"><img src="{{ "/images/GSDF-Food-Bank-300x199.jpg" | absolute_url }}" alt="" /></span>
+
+In 2020, under the leadership of former GSDF Commander Brig. Gen. Thomas H. Blackstock Jr., the organization performed an unprecedented variety of response missions. These missions included the GSDF’s assistance with the state’s response to the coronavirus (COVID-19) pandemic.
+
+“The Georgia State Defense Force has literally made history in its sustained response to the COVID-19 pandemic,” said Georgia Adjutant General Maj. Gen. Thomas M. Carden Jr. “The men and women of the GSDF worked tirelessly at food banks, hospitals, nursing homes, and at COVID-19 sample points of collection to alleviate suffering and save lives. Members of our GSDF are volunteers in the truest sense of the word. I am both inspired and honored to serve with them.”
+

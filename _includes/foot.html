@@ -2,16 +2,20 @@
   <section>
     <form method="POST" action="https://api.slapform.com/{{site.email}}">
       <div class="field">
-        <label for="name">Name</label>
-        <input type="text" name="name" id="name" />
+        <label for="fname">First Name</label>
+        <input type="text" name="fname" id="fname" />
+      </div>
+      <div class="field">
+        <label for="lname">Last Name</label>
+        <input type="text" name="lname" id="lname" />
       </div>
       <div class="field">
         <label for="email">Email</label>
         <input type="email" name="slap_replyto" id="email" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
       </div>
       <div class="field">
-        <label for="message">Message</label>
-        <textarea name="message" id="message" rows="3"></textarea>
+        <label for="phone">Phone Number</label>
+        <input type="text" name="phone" id="phone" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
       </div>
       <ul class="actions">
         <li><input type="submit" value="Send Message" /></li>

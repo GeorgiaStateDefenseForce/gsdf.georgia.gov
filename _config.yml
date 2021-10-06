@@ -1,7 +1,7 @@
 # Site
 title:              Georgia State Guard
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'The Georgia State Defense Force is an auxiliary unit of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of Georgia.The Georgia State Defense Force is an auxiliary unit of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of Georgia.'
+description:        "The Georgia State Defense Force is an auxiliary unit of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of Georgia."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -12,14 +12,14 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+facebook:           GeorgiaSDF
+instagram:          georgiastatedefenseforce
+github:             GA-StateGuard
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           Atlanta, GA
+phone:              770-750-4232
+email:              join@gasdf.us # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
