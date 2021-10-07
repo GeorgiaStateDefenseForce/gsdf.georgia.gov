@@ -10,10 +10,10 @@
     {% include head.html %}
 	</head>
 	<body class="is-loading">
-		{% include top-notice.html %}
 
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
+				{% include top-notice.html %}
 
 				<!-- Header -->
 				<header id="header">
@@ -35,13 +35,7 @@
 						<p>{{content}}</p>
 					</section>
 
-					
 
-
-					<!-- Footer -->
-						<footer>
-							
-						</footer>
 
 						{% include articles.html %}
 
@@ -53,7 +47,7 @@
 
 			</div>
 
-			{% include top-notice.html %}
+			{% include bottom-notice.html %}
 
 			<!-- Scripts -->
 			{% include scripts-main.html %}

@@ -16,15 +16,18 @@ sitemap:
 -->
 <html>
 	<head>
+
     {% include head.html %}
 
 
 	</head>
 	<body class="is-loading">
-		{% include top-notice.html %}
+		
 
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
+				{% include top-notice.html %}
+				
 
 				<!-- Intro -->
 					<div id="intro">
@@ -118,7 +121,7 @@ sitemap:
         {% include foot.html %}
 
 			</div>
-			{% include top-notice.html %}
+			{% include bottom-notice.html %}
 		<!-- Scripts -->
 		{% include scripts-main.html %}
     {% include tracking.html %}

@@ -6,6 +6,27 @@ p.notice {
     text-shadow: 1px 1px #000000;
 }
 
-.static-top {
+.static-notice {
     background-color: #15581a;
+    //position: fixed;
+    width: 100%;
+    margin: 0 auto; /* Center the DIV horizontally */
+    padding: 1px 0;
+    z-index:1000
+
+}
+
+.static-bottom {
+    bottom: 0;
+
+}
+
+.static-top {
+    top: 0;
+
+}
+
+body.is-loading {
+    padding-top: 0px;
+    padding-bottom: 50px;
 }
