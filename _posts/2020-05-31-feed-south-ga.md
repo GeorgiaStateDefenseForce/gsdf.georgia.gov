@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "COVID-19 Pandemic Response—Feeding South Georgians"
-date:   2017-10-31
+date:   2020-05-31
 excerpt: "In the past few years, south Georgia has dealt with various natural disasters, including tornadoes and hurricanes. Now, a different force of nature persists—a pandemic."
 image: "/images/49762041936_070e33423f_c.jpg"
 ---
@@ -84,5 +84,13 @@ GSDF Soldiers assist the state by serving on missions that include those involvi
 <a href="https://www.flickr.com/photos/georgia_state_defense_force/49879296888/in/album-72157713833106521/">
     <span class="image fit">
         <img src="{{ "/images/49879296888_e1705a47a9_c_short.jpg" | absolute_url }}" alt="" />
+    </span>
+</a>
+
+### Watch CBS 46 coverage
+
+<a href="https://www.cbs46.com/news/national-guard-deploys-units-to-help-at-food-pantries-during-pandemic/article_4c704b4e-7ac5-11ea-bb93-17ea2099d996.html">
+    <span class="image fit">
+        <img src="{{ "/images/cbs46_covid_screen_cap.png" | absolute_url }}" alt="" />
     </span>
 </a>
