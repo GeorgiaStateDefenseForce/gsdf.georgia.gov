@@ -11,7 +11,7 @@ p.notice {
     //position: fixed;
     width: 100%;
     margin: 0 auto; /* Center the DIV horizontally */
-    padding: 1px 0;
+    padding: 0px 0;
     z-index:1000
 
 }
@@ -28,5 +28,8 @@ p.notice {
 
 body.is-loading {
     padding-top: 0px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
+}
+#intro {
+    
 }
