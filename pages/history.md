@@ -31,13 +31,17 @@ In 1861, as civil war broke out in the United States, Georgia Governor Joseph Br
 
 During World War I, the Georgia Militia was again called upon to serve the state. During this activation Militia units were assigned to guard key military targets around the state and take an active role in patrolling the Georgia coastline. In the 1940’s, Georgia Governor E.D. Rivers activated the Georgia Militia under a new name, the Georgia State Defense Corps. In addition to guarding key military targets in Georgia during World War II the State Defense Corps was also assigned to undergo training that would necessitate preventing an invasion by one of the Axis powers. As World War II came to a close, the State Defense Corps, now re-designated as the Georgia State Guard, reached a record strength of almost 5,000.
 
+<span class="image fill"><img src="{{ "/images/186532502_10218270835193862_4320301694477267041_n.jpg" | absolute_url }}" alt="" /></span>
 
+<span class="image right"><img src="{{ "/images/152254925_10217777019568780_3414825137490488249_n.jpg" | absolute_url }}" alt="" /></span>
 
 In 1947, the Georgia State Guard was inactivated and remained inactive for the next thirty seven years. It was not until 1985 that a new breath of life was given to the State Guard when it was reactivated and authorized as the Georgia State Defense Force. Since its reactivation the Georgia State Defense Force has served the citizens of Georgia alongside the Georgia National Guard in every mission given from search and rescue to natural disaster relief. Currently the Georgia State Defense Force supports the state in the wake of the federal activation of the Georgia National Guard in military operations overseas.
 
+<span class="image left"><img src="{{ "/images/150604908_10217777011408576_8228314492096165739_n.jpg" | absolute_url }}" alt="" /></span>
+
 Throughout its history, the Georgia State Defense Force has played a variety of roles in the state’s proud history. Whether as an armed force or in a support role, the primary mission of the Georgia State Defense Force has not changed in more than 270 years. From its colonial roots to the present day, the Georgia State Defense Force continues to be “ready to serve” the needs of Georgia.
 
- 
+ <span class="image fill"><img src="{{ "/images/187937244_10218288038503934_5384944778932966247_n.jpg" | absolute_url }}" alt="" /></span>
 
 
 
