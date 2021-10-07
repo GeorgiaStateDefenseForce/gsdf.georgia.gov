@@ -10,6 +10,7 @@
     {% include head.html %}
 	</head>
 	<body class="is-loading">
+		{% include top-notice.html %}
 
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
@@ -34,18 +35,25 @@
 						<p>{{content}}</p>
 					</section>
 
+					
+
+
 					<!-- Footer -->
 						<footer>
-              <ul class="actions">
-								<li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-              </ul>
+							
 						</footer>
+
+						{% include articles.html %}
+
+						
 					</div>
 
 				<!-- Footer -->
         {% include foot.html %}
 
 			</div>
+
+			{% include top-notice.html %}
 
 			<!-- Scripts -->
 			{% include scripts-main.html %}

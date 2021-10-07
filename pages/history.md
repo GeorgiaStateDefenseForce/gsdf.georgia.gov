@@ -29,7 +29,11 @@ In 1861, as civil war broke out in the United States, Georgia Governor Joseph Br
 
 <span class="image left"><img src="{{ "/images/GSDF-About-Us-Photo.png" | absolute_url }}" alt="" /></span>
 
-During World War I, the Georgia Militia was again called upon to serve the state. During this activation Militia units were assigned to guard key military targets around the state and take an active role in patrolling the Georgia coastline. In the 1940’s, Georgia Governor E.D. Rivers activated the Georgia Militia under a new name, the Georgia State Defense Corps. In addition to guarding key military targets in Georgia during World War II the State Defense Corps was also assigned to undergo training that would necessitate preventing an invasion by one of the Axis powers. As World War II came to a close, the State Defense Corps, now re-designated as the Georgia State Guard, reached a record strength of almost 5,000.
+During World War I, the Georgia Militia was again called upon to serve the state. During this activation Militia units were assigned to guard key military targets around the state and take an active role in patrolling the Georgia coastline. In the 1940’s, Georgia Governor E.D. Rivers activated the Georgia Militia under a new name, the Georgia State Defense Corps. In addition to guarding key military targets in Georgia during World War II the State Defense Corps was also assigned to undergo training that would necessitate preventing an invasion by one of the Axis powers. As World War II came to a close, the State Defense Corps, now re-designated as the Georgia State Guard, reached a record strength of almost 5,000. 
+<div class="box">
+<p><a href="https://artsandculture.google.com/search/asset?q=georgia%20state%20guard&p=life-photo-collection">Click here to see Life Magzine's archive of GA State Guard WWII photos</a></p>
+</div>
+
 
 <span class="image fit"><img src="{{ "/images/186532502_10218270835193862_4320301694477267041_n.jpg" | absolute_url }}" alt="" /></span>
 

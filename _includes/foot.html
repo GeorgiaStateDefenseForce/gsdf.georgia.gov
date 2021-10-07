@@ -1,6 +1,6 @@
 <footer id="footer">
   <section>
-    <form method="GET" action="">
+    <form method="POST" action="https://usebasin.com/f/7e787d660ec7">
       <div class="field">
         <label for="fname">First Name</label>
         <input type="text" name="fname" id="fname" />
@@ -11,16 +11,20 @@
       </div>
       <div class="field">
         <label for="email">Email</label>
-        <input type="email" name="slap_replyto" id="email" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
+        <input type="email" name="email" id="email" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
       </div>
       <div class="field">
         <label for="phone">Phone Number</label>
         <input type="text" name="phone" id="phone" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
       </div>
+      <div class="field messager">
+        <label for="message">Message</label>
+        <input type="text" name="message" id="message" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
+      </div>
       <ul class="actions">
         <li><input type="submit" value="Send Message" /></li>
       </ul>
-      <input type="hidden" name="slap_redirect" value="{{site.url}}{{site.slapform_thankyou_page}}" /> <!-- slap_redirect allows you to set a custom redirect/thank you page -->
+      <!-- <input type="hidden" name="slap_redirect" value="{{site.url}}{{site.slapform_thankyou_page}}" />  slap_redirect allows you to set a custom redirect/thank you page -->
     </form>
   </section>
   <section class="split contact">

@@ -69,3 +69,5 @@ $background_image: '{{site.background_image}}';
 	@import 'layout/main';
 	@import 'layout/footer';
 	@import 'layout/navPanel';
+
+	@import 'components/gsdf.scss'

@@ -14,6 +14,10 @@
 		width: calc(100% + #{$gutter * 2});
 		margin: ($gutter * -1) 0 _size(element-margin) ($gutter * -1);
 
+		> .messager {
+			display: none;
+		}
+
 		> .field {
 			@include vendor('flex-grow', '0');
 			@include vendor('flex-shrink', '0');
@@ -152,7 +156,7 @@
 	}
 
 	input[type="checkbox"],
-	input[type="radio"], {
+	input[type="radio"] {
 		@include vendor('appearance', 'none');
 		display: block;
 		float: left;
@@ -263,7 +267,7 @@
 		}
 
 		input[type="checkbox"],
-		input[type="radio"], {
+		input[type="radio"] {
 			& + label {
 				color: _palette($p, fg);
 
