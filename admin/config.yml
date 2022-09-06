@@ -11,6 +11,7 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: true
+    create: true
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
@@ -24,10 +25,12 @@ collections:
         search_fields: [display_name],
         value_field: 'name',
       }
+      - { label: 'Top Image', name: 'image', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
     folder: 'pages/'
+    create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - { label: "Body", name: "body", widget: "markdown" }
