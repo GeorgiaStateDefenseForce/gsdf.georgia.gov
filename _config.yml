@@ -34,6 +34,11 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     author:
+- scope:
+    path: ""
+    type: authors
+  values:
+    layout: author
 
 # Jekyll
 permalink:          /blog/:title/
@@ -66,3 +71,9 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+
+
+collections:
+  authors:
+    output: true
+    permalink: author/:title/
