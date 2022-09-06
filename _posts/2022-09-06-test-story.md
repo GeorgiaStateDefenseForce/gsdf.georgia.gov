@@ -3,8 +3,9 @@ layout: post
 title: Test Story
 date: 2022-09-06T15:52:34.657Z
 author: vladtimchenko
+image: /images/49762041936_070e33423f_c.jpg
 ---
-![](/images/49762041936_070e33423f_c.jpg)
+
 
 
 
