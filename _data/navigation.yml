@@ -1,0 +1,9 @@
+items:
+  - name: Home
+    link: /
+  - name: Join
+    link: /pages/join
+  - name: History
+    link: /pages/history
+  - name: What We Do
+    link: /pages/about

@@ -5,6 +5,21 @@ backend:
   publish_mode: editorial_workflow
 media_folder: 'images'
 collections:
+  - name: 'config'
+    label: 'Config'
+    editor:
+      preview: false
+    files:
+      - label: 'Navigation'
+        name: 'navigation'
+        file: '_data/navigation.yml'
+        fields:
+          - label: 'Navigation Items'
+            name: 'items'
+            widget: 'list'
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Link, name: link, widget: string }
   - name: 'blog'
     label: 'Frontline News'
     folder: '_posts/'
