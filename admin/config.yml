@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: GeorgiaStateDefenseForce/gastateguard.com
-  branch: main # Branch to update (optional; defaults to master)
+  branch: test # Branch to update (optional; defaults to master)
   publish_mode: editorial_workflow
 media_folder: 'images'
 collections:
