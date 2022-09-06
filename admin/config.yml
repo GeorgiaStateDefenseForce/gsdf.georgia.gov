@@ -1,8 +1,10 @@
 backend:
+  site_domain: gastateguard.com
   name: github
   repo: GeorgiaStateDefenseForce/gastateguard.com
   branch: test # Branch to update (optional; defaults to master)
   publish_mode: editorial_workflow
+  preview_context: cloudflare-pages/deployment
 media_folder: 'images'
 collections:
   - name: 'config'
