@@ -1,10 +1,19 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: GeorgiaStateDefenseForce/gastateguard.com
   branch: main # Branch to update (optional; defaults to master)
-media_folder: 'assets/uploads'
+  publish_mode: editorial_workflow
+media_folder: 'images'
 collections:
   - name: 'blog'
-    label: 'Blog'
+    label: 'Frontline News'
     folder: '_posts/'
     fields:
-      - { name: Title }
+      - {label: "Title", name: "title", widget: "string"}
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'pages/'
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - { label: "Body", name: "body", widget: "markdown" }
