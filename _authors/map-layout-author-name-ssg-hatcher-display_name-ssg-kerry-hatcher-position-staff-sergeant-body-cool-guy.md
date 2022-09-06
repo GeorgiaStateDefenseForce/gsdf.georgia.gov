@@ -1,6 +1,6 @@
 ---
 layout: author
-name: SSG Hatcher
+name: kerryhatcher
 display_name: SSG Kerry Hatcher
 position: Staff Sergeant
 ---
