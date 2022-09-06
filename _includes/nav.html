@@ -1,8 +1,15 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+  <!--<li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/join' %} active {% endif %}"><a href="{{ "/pages/join" | absolute_url }}">Join</a></li>
   <li class="{% if page.url contains '/history' %} active {% endif %}"><a href="{{ "/pages/history" | absolute_url }}">History</a></li>
-  <li class="{% if page.url contains '/about' %} active {% endif %}"><a href="{{ "/pages/about" | absolute_url }}">What We Do</a></li>
+  <li class="{% if page.url contains '/about' %} active {% endif %}"><a href="{{ "/pages/about" | absolute_url }}">What We Do</a></li> -->
+    {% for item in site.data.navigation.items %}
+    <li class="{% if page.url == item.link %}" active {% endif %}">
+      <a href="{{ site.baseurl }}{{ item.link }}" >
+        {{ item.name }}
+      </a>
+    </li>
+    {% endfor %}
 </ul>
 
 <ul class="icons">
