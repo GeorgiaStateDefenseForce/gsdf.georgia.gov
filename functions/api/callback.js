@@ -1,16 +1,23 @@
 function renderBody(status, content) {
     const html = `
-    <script>
-      const receiveMessage = (message) => {
-        window.opener.postMessage(
-          'authorization:github:${status}:${JSON.stringify(content)}',
-          message.origin
-        );
-        window.removeEventListener("message", receiveMessage, false);
-      }
-      window.addEventListener("message", receiveMessage, false);
-      window.opener.postMessage("authorizing:github", "*");
-    </script>
+    <html>
+        <head>
+        </head>
+        <body>
+            <h1> Logging in.... </h1>
+            <script>
+            const receiveMessage = (message) => {
+                window.opener.postMessage(
+                'authorization:github:${status}:${JSON.stringify(content)}',
+                message.origin
+                );
+                window.removeEventListener("message", receiveMessage, false);
+            }
+            window.addEventListener("message", receiveMessage, false);
+            window.opener.postMessage("authorizing:github", "*");
+            </script>
+        </body>
+    </html>
     `
     const blob = new Blob([html])
     return blob
