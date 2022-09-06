@@ -119,20 +119,20 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 
 <div class="box alt">
     <div class="row 50% ">
-        <div class="4u"><span class="image fit"><img src="{{ "/images/0610141148.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u$"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
         <!-- Break -->
-        <div class="4u"><span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u$"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
     </div>
 </div>
 
 
 <a href="https://www.flickr.com/photos/ganatlguard/30228019605/in/album-72157674930747785/">
     <span class="image right">
-        <img src="{{ "/images/2016-06-11_170838781_6410C_iOS.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 <header>
@@ -146,13 +146,13 @@ Often Georgia National Guard units will request role players from the GSDF to en
 
 <div class="box alt">
     <div class="row 50% ">
-        <div class="4u"><span class="image fit"><a href="https://www.flickr.com/photos/ganatlguard/7851754414/in/album-72157623488340432/"><img src="{{ "/images/7851754414_b2f1931834_c.jpg" | absolute_url }}" alt="" /></a></span></div>
-        <div class="4u"><span class="image fit"><a href="https://www.flickr.com/photos/ganatlguard/7851754614/in/album-72157623488340432/"><img src="{{ "/images/7851754614_f72d695a2f_c.jpg" | absolute_url }}" alt="" /></a></span></div>
-        <div class="4u"><span class="image fit"><a href="https://www.flickr.com/photos/ganatlguard/6009326982/in/album-72157623488340432/"><img src="{{ "/images/6009326982_8bf09447e9_c.jpg" | absolute_url }}" alt="" /></a></span></div>
+        <div class="4u"><span class="image fit"><a href="https://www.flickr.com/photos/ganatlguard/7851754414/in/album-72157623488340432/"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></a></span></div>
+        <div class="4u"><span class="image fit"><a href="https://www.flickr.com/photos/ganatlguard/7851754614/in/album-72157623488340432/"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></a></span></div>
+        <div class="4u"><span class="image fit"><a href="https://www.flickr.com/photos/ganatlguard/6009326982/in/album-72157623488340432/"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></a></span></div>
         <!-- Break -->
-        <div class="4u"><span class="image fit"><img src="{{ "/images/IMG_0102.JPG" | absolute_url }}" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ "/images/IMG_1680.JPG" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u$"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
     </div>
 </div>
 
@@ -167,9 +167,9 @@ Often Georgia National Guard units will request role players from the GSDF to en
 <div class="box alt">
     <div class="row 50% ">
         <!-- Break -->
-        <div class="4u"><span class="image fit"><img src="{{ "/images/IMG_1862.JPG" | absolute_url }}" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ "/images/IMG_5761.JPG" | absolute_url }}" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ "/images/IMG_0347.JPG" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u$"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
     </div>
 </div>
 
@@ -181,7 +181,7 @@ Often Georgia National Guard units will request role players from the GSDF to en
 
 <a href="https://www.flickr.com/photos/ganatlguard/30228019605/in/album-72157674930747785/">
     <span class="image fit">
-        <img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 <p>CLAY NATIONAL GUARD CENTER, Marietta, Ga. October 9, 2016 - Pellentesque rhoncus fermentum metus tristique laoreet. Quisque feugiat mauris ut est fringilla, vitae imperdiet lorem faucibus.</p> 
@@ -200,9 +200,9 @@ Often Georgia National Guard units will request role players from the GSDF to en
 <div class="box alt">
     <div class="row 50% ">
         <!-- Break -->
-        <div class="4u"><span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u$"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
     </div>
 </div>
 
@@ -215,7 +215,7 @@ Often Georgia National Guard units will request role players from the GSDF to en
 
 <a href="https://www.flickr.com/photos/ganatlguard/30228019605/in/album-72157674930747785/">
     <span class="image fit">
-        <img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 <p>CLAY NATIONAL GUARD CENTER, Marietta, Ga. October 9, 2016 - Pellentesque rhoncus fermentum metus tristique laoreet. Quisque feugiat mauris ut est fringilla, vitae imperdiet lorem faucibus.</p> 
@@ -234,8 +234,8 @@ Often Georgia National Guard units will request role players from the GSDF to en
 <div class="box alt">
     <div class="row 50% ">
         <!-- Break -->
-        <div class="4u"><span class="image fit"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
+        <div class="4u$"><span class="image fit"><img src="{{ "/images/49762041936_070e33423f_c.jpg" | absolute_url }}" alt="" /></span></div>
     </div>
 </div>
