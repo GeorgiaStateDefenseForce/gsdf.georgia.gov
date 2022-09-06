@@ -1,6 +1,6 @@
 ---
 layout: author
-name: LTC V. Timchenko
+name: vladtimchenko
 display_name: LTC V. Timchenko
 position: "Lieutenant Colonel "
 ---
