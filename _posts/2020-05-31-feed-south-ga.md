@@ -6,7 +6,7 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Volutpat odio facilisis
   mauris sit amet massa.
 image: /images/49762041936_070e33423f_c.jpg
-author: SSG Hatcher
+author: kerryhatcher
 ---
 
 _Article By Capt. Patricia daCosta_
