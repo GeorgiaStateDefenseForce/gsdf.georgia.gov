@@ -4,7 +4,7 @@ backend:
   repo: GeorgiaStateDefenseForce/gastateguard.com
   branch: main # Branch to update (optional; defaults to master)
   preview_context: cloudflare-pages/deployment
-  base_url: https://www.gastateguard.com
+  #base_url: https://www.gastateguard.com
   #auth_endpoint: /api/auth
 publish_mode: editorial_workflow
 media_folder: 'images'
