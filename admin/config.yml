@@ -7,6 +7,11 @@ backend:
   #base_url: https://www.gastateguard.com
   #auth_endpoint: /api/auth
 publish_mode: editorial_workflow
+# media_library:
+#   name: cloudinary
+#   config:
+#     cloud_name: duzjtbani
+#     api_key: 929843138668987
 media_folder: 'images'
 collections:
   - name: 'config'
