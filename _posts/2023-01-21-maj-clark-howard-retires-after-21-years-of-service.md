@@ -4,7 +4,7 @@ title: " Maj. Clark Howard Retires After 21 Years of Service"
 date: 2023-01-16T22:02:01.418Z
 excerpt: Well-Known Syndicated Media Personality Inspired One-Third of the GSDF
   Force to Join
-author: kerryhatcher
+author: gsdf
 image: https://imagedelivery.net/X2G8U-A7962XEeDR3Zm43Q/fadb6339-329c-4470-f486-5baba92c0e00/fullsize
 ---
 Maj. Clark Howard retires after serving 21 years in the Georgia State Defense Force (GSDF) during a ceremony held at Georgia National Guard headquarters, Clay National Guard Center, Marietta, Ga., Jan. 7, 2023.
