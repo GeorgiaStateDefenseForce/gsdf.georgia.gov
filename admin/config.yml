@@ -1,5 +1,5 @@
 backend:
-  site_domain: gastateguard.com
+  site_domain: gasdf.org
   name: github
   repo: GeorgiaStateDefenseForce/gastateguard.com
   branch: main # Branch to update (optional; defaults to master)
@@ -12,62 +12,62 @@ publish_mode: editorial_workflow
 #   config:
 #     cloud_name: duzjtbani
 #     api_key: 929843138668987
-media_folder: 'images'
+media_folder: "images"
 collections:
-  - name: 'config'
-    label: 'Config'
+  - name: "config"
+    label: "Config"
     editor:
       preview: false
     files:
-      - label: 'Navigation'
-        name: 'navigation'
-        file: '_data/navigation.yml'
+      - label: "Navigation"
+        name: "navigation"
+        file: "_data/navigation.yml"
         fields:
-          - label: 'Navigation Items'
-            name: 'items'
-            widget: 'list'
+          - label: "Navigation Items"
+            name: "items"
+            widget: "list"
             fields:
               - { label: Name, name: name, widget: string }
               - { label: Link, name: link, widget: string }
-  - name: 'blog'
-    label: 'Frontline News'
-    folder: '_posts/'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+  - name: "blog"
+    label: "Frontline News"
+    folder: "_posts/"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: true
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }  
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Excerpt", name: "excerpt", widget: "string" }
       - {
-        label: 'Author',
-        name: 'author',
-        widget: 'relation',
-        collection: 'authors',
-        display_fields: [display_name],
-        search_fields: [display_name],
-        value_field: 'name',
-      }
-      - { label: 'Top Image', name: 'image', widget: 'image'}
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'pages'
-    label: 'Pages'
-    folder: 'pages/'
+          label: "Author",
+          name: "author",
+          widget: "relation",
+          collection: "authors",
+          display_fields: [display_name],
+          search_fields: [display_name],
+          value_field: "name",
+        }
+      - { label: "Top Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    folder: "pages/"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: 'authors'
-    label: 'Authors'
-    folder: '_authors/'
+  - name: "authors"
+    label: "Authors"
+    folder: "_authors/"
     create: true
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
-      - { label: 'Short Name', name: 'name', widget: 'string' }
-      - { label: 'Display Name', name: 'display_name', widget: 'string' }
-      - { label: 'Position', name: 'position', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "author" }
+      - { label: "Short Name", name: "name", widget: "string" }
+      - { label: "Display Name", name: "display_name", widget: "string" }
+      - { label: "Position", name: "position", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

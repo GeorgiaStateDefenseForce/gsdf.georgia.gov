@@ -1,59 +1,59 @@
 # Site
-title:              Georgia State Defense Force
-bio:                'The Georgia State Defense Force is an auxiliary unit of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of Georgia.The Georgia State Defense Force is an auxiliary unit of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of Georgia.'
-description:        "The Georgia State Defense Force is an auxiliary unit of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of Georgia."
-locale:             en_US
+title: Georgia State Defense Force
+bio: "The Georgia State Defense Force is an auxiliary unit of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of Georgia.The Georgia State Defense Force is an auxiliary unit of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of Georgia."
+description: "The Georgia State Defense Force is an auxiliary unit of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of Georgia."
+locale: en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Comments
-disqus_shortname:   default
+disqus_shortname: default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           GeorgiaSDF
-instagram:          georgiastatedefenseforce
-github:             GA-StateGuard
+analytics-id: "default"
+twitter: default
+facebook: GeorgiaSDF
+instagram: georgiastatedefenseforce
+github: GA-StateGuard
 
 # personal
-location:           Atlanta, GA
-phone:              770-750-4232
-email:              join@gasdf.us # change this to your email to receive free emails for your contact submissions via Slapform.com
+location: Atlanta, GA
+phone: 833-715-4733
+email: join@gasdf.us # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image:   /images/bg.jpg
+background_image: https://imagedelivery.net/X2G8U-A7962XEeDR3Zm43Q/13103170-8c16-4a58-6ff4-751b6b7e8400/fullsize
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author:
-- scope:
-    path: ""
-    type: authors
-  values:
-    layout: author
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: "/blog/:title/"
+      layout: post
+      author:
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
 
 # Jekyll
-permalink:          /blog/:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink: /blog/:title/
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir: _sass
+  style: compressed
 
 # Gems
 gems:
@@ -67,11 +67,25 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
-
+exclude:
+  [
+    README.md,
+    Gemfile,
+    Gemfile.lock,
+    node_modules,
+    gulpfile.js,
+    package.json,
+    _site,
+    src,
+    vendor,
+    CNAME,
+    LICENSE,
+    Rakefile,
+    old,
+  ]
 
 collections:
   authors:
