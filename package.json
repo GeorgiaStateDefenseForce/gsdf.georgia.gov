@@ -1,0 +1,22 @@
+{
+  "name": "gastateguard.com",
+  "version": "1.0.0",
+  "description": "> This is Massively, a text-heavy, article-oriented design built around a huge background image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgiaStateDefenseForce/gastateguard.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgiaStateDefenseForce/gastateguard.com/issues"
+  },
+  "homepage": "https://github.com/GeorgiaStateDefenseForce/gastateguard.com#readme",
+  "dependencies": {
+    "@cloudflare/pages-plugin-static-forms": "^1.0.0"
+  }
+}
