@@ -1,6 +1,6 @@
 <section class="posts">
-    {% for post in site.posts %}
-    {% assign mod3 = forloop.index | modulo: 3 %}
+    {% for post in site.posts limit:2 %}
+    {% assign mod3 = for loop.index | modulo: 3 %}
         <article>
             <header>
                 <span class="date">{{ post.date | date_to_string }}</span>
