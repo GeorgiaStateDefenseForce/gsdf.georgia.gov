@@ -59,7 +59,7 @@ export const onRequest = [
       return new Response(null, {
         status: 302,
         headers: { Location: "/pages/join_form_message/" },
-      }),
+      })
     },
 })
 ];
