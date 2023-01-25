@@ -8,11 +8,20 @@ sitemap:
   changefreq: weekly
 ---
 
-<a href="https://www.flickr.com/photos/georgia_state_defense_force/37153644215/">
+<!-- <a href="https://www.flickr.com/photos/georgia_state_defense_force/37153644215/">
     <span class="image fit">
         <img src="{{ "/images/37153644215_4f507abda9_c_short.jpg" | absolute_url }}" alt="" />
     </span>
-</a>
+</a> -->
+<section class="posts">
+<article>
+  <div class="image fit">
+    <div class="video-container">
+<iframe src="https://www.youtube.com/embed/ab4Qmbe4S6o" title="Partners #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+  </div>
+</article>
+</section>
 
 ### Mission
 
