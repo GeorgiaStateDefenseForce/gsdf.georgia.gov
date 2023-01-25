@@ -91,6 +91,10 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 
 ---
 
+{% include instagram.html %}
+
+---
+
 <header>
 
 <h2> Supporting The Georgia National Guard </h2>
