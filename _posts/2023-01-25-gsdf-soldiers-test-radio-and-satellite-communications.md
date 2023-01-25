@@ -18,6 +18,4 @@ Men and woman age 18 to 65 are eligible to join us in service. (Special age cons
 
 Prior military experience is not necessary—we’ll train you.
 
-Call 770-750-4232.
-
-Sign up and join us for [adventure](/pages/join/)!
+Call 833-715-4733 to sign up and join us for [adventure](/pages/join/)!
