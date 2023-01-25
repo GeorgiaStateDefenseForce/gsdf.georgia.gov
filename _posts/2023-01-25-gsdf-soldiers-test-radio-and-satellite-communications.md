@@ -10,8 +10,8 @@ The Georgia State Defense Force (GSDF) worked with the [Georgia Amateur Radio Em
 
 GSDF annual training occurred at Volunteer Training Site Catoosa, Tunnel Hill, Ga., September 22-25, 2022.
 
-This portion of the annual training demonstrated that GSDF can maintain mission-critical communications via email, internet, and radio under adverse conditions when deployed to support the people of the state of Georgia during urban and wilderness search and rescue missions, adverse weather events, like hurricanes and tornadoes, and other humanitarian relief efforts.\
-\
+This portion of the annual training demonstrated that GSDF can maintain mission-critical communications via email, internet, and radio under adverse conditions when deployed to support the people of the state of Georgia during urban and wilderness search and rescue missions, adverse weather events, like hurricanes and tornadoes, and other humanitarian relief efforts.
+
 The GSDF is an all-volunteer military component of the Georgia Department of Defense, along with the Georgia Air National Guard and Georgia Army National Guard.
 
 Men and woman age 18 to 65 are eligible to join us in service. (Special age considerations are available upon request.)
