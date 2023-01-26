@@ -50,7 +50,7 @@ As a sponsor of Habitat for Humanity, Team Clark volunteers have built 92 homes 
 
 For 32 years, his Clark’s Christmas Kids has partnered with the Georgia foster care system to help every foster child in the state receive holiday gifts. The program has served a quarter of a million children over the years.
 
-# Background
+# Back
 
 Maj. Clark Howard is a native of Atlanta. He graduated from the American University in 1976 with a Bachelor of Arts in Urban Government. He earned his Master of Arts in Business Management in 1977 from Central Michigan University.
 
