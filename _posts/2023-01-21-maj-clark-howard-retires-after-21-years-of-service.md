@@ -10,8 +10,6 @@ excerpt: Maj. Clark Howard retires after serving 21 years in the Georgia State
 author: gsdf
 image: https://imagedelivery.net/X2G8U-A7962XEeDR3Zm43Q/fadb6339-329c-4470-f486-5baba92c0e00/fullsize
 ---
-
-
 Because he encouraged Georgia citizens to join either the GSDF or the Georgia National Guard, both organizations highly regard his commitment.
 
 Georgia Adjutant General Maj. Gen. Thomas M. Carden Jr., GSDF Commanding General Brig. Gen. Mark D. Gelhardt Sr., and military personnel from both the National Guard and the GSDF joined Maj. Howard’s family and friends in attendance at his retirement ceremony.
@@ -39,6 +37,8 @@ Maj. Howard (promoted from Captain during the ceremony) received a Georgia comme
 The GSDF presented a plaque. The Public Affairs Office (PAO) presented a military musket and a certificate bearing the names of PAO personnel past and present.
 
 During the ceremony, Maj. Howard also received numerous other medals and certificates.
+
+![](https://live.staticflickr.com/65535/52615130448_e4b4a6886e_o_d.jpg)
 
 # Community Service
 
