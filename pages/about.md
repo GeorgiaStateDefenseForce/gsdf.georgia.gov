@@ -7,12 +7,12 @@ sitemap:
   lastmod: 2017-11-02
   changefreq: weekly
 ---
-
 <!-- <a href="https://www.flickr.com/photos/georgia_state_defense_force/37153644215/">
     <span class="image fit">
         <img src="{{ "/images/37153644215_4f507abda9_c_short.jpg" | absolute_url }}" alt="" />
     </span>
 </a> -->
+
 <section class="posts">
 <article>
   <div class="image fit">
@@ -35,8 +35,6 @@ When ordered by the Adjutant General, provide an organized, trained, disciplined
 
 ### Authorization
 
-
-
 <a href="https://www.flickr.com/photos/georgia_state_defense_force/30095984446/in/photostream/">
     <span class="image right">
         <img src="{{ "/images/30095984446_3468a6d270_c.jpg" | absolute_url }}" alt="" />
@@ -52,8 +50,6 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 
 ### BASIC MISSION ESSENTIAL TASK LIST (BMETL)
 
-
-
 <a href="https://www.flickr.com/photos/georgia_state_defense_force/36770203940/">
     <span class="image right">
         <img src="{{ "/images/36770203940_c8dd1cd2db_c.jpg" | absolute_url }}" alt="" />
@@ -65,7 +61,6 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 2. Provide professional skills to the Georgia Department of Defense.
 3. Assist Georgia communities.
 
-
 ### EXPANDED MISSION ESSENTIAL TASK LIST (EMETL)
 
 <a href="https://www.flickr.com/photos/georgia_state_defense_force/49843369601/in/photostream/">
@@ -74,6 +69,8 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
     </span>
 </a>
 	
+
+![](/images/gsdf-trailer-_img_2184-1-.jpg)
 
 1. General Military Knowledge
 2. Law Enforcement Assistance
@@ -85,11 +82,11 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 8. Disaster Relief Support
 9. Search and Rescue Operations
 10. Military Operations
-<a href="https://www.flickr.com/photos/georgia_state_defense_force/51176003641/">
-    <span class="image right">
-        <img src="{{ "/images/51176003641_9f68053ca1_c.jpg" | absolute_url }}" alt="" />
-    </span>
-</a>
+    <a href="https://www.flickr.com/photos/georgia_state_defense_force/51176003641/">
+        <span class="image right">
+            <img src="{{ "/images/51176003641_9f68053ca1_c.jpg" | absolute_url }}" alt="" />
+        </span>
+    </a>
 11. Anti-Terrorism
 12. Liaison Officer Operations
 13. Chaplain Support
@@ -98,17 +95,15 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 16. Concept of Operations Plan (CONPLAN) 3500 Taskings
 17. Other Tasks as Authorized by The Adjutant General (TAG) – Georgia
 
----
+- - -
 
 {% include instagram.html %}
 
----
+- - -
 
 <header>
 
 <h2> Supporting The Georgia National Guard </h2>
-
-
 
 <a href="https://www.flickr.com/photos/ganatlguard/30228019605/in/album-72157674930747785/">
     <span class="image fit">
@@ -118,8 +113,3 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 <p>CLAY NATIONAL GUARD CENTER, Marietta, Ga. October 9, 2016 - Members of the three components of the Georgia Department of Defense monitor Hurricane Matthew response operations during the overnight shift at the Joint Operations Center.</p> 
 <p>Georgia National Guard photo by Capt. William Carraway</p>
 </header>
-
-
-
-
-
