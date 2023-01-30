@@ -12,4 +12,4 @@ gem 'open_uri_redirections'
 gem 'safe_yaml'
 
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
