@@ -94,10 +94,11 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
 
 
 
-<figure>
-<img src="/images/177th_Engineers.png" alt="177th AT-20" class'"center">
-<figcaption align="center"><b>Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers</b></figcation>
+<figure align="center">
+<img src="/images/177th_Engineers.png" alt="177th AT-20">
+<figcaption><b>Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers</b></figcation>
 </figure.>
+
 
 
 
