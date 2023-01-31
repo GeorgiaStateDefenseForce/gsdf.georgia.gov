@@ -11,7 +11,7 @@ sitemap:
 
 # Vikings "Always Forward!"
 <p align="center">
-  <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" style="float:left;width:265px;height:390px;">
+  <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" style="width:265px;height:390px;">
 </p>
 
 
@@ -89,14 +89,16 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
 
 <p align="center">
   <img src="/images/177th_Engineers.png" alt="Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers">
-  Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers
+  <div class="content">
+    <p>Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers.</p>
+  </div>
 </p>
 
 
 
 <figure align="center">
 <img src="/images/177th_Engineers.png" alt="177th AT-20">
-<figcaption><b>Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers</b></figcation>
+<figcaption align="center"><b>Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers</b></figcation>
 </figure.>
 
 
