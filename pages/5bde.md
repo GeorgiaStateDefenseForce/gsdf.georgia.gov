@@ -10,7 +10,9 @@ sitemap:
 ---
 
 # Vikings "Always Forward!"
-<img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" style="float:left;width:265px;height:390px;">
+<p align="center">
+   ![5BDE Shield] (/images/5th_BDE_shield.png) "The shield of Vikings!"
+</p>
 
 
 Georgia State Defense Force's 5th Brigade (5BDE) was the first GSDF unit to be fully embedded with a National Guard Unit over 10 years ago and has been leading the way ever since.
