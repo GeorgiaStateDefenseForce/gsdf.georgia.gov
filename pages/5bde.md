@@ -92,7 +92,7 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
 </p>
 
 
-| ![/images/177th_Engineers.png] |
+| ![images/177th_Engineers.png] |
 |:--:|
 | <b>GSDF celebrates the end of a week long role playing missionn to help the 177th Engineers during their AT in 2020</b>|
 
