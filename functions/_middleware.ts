@@ -1,9 +1,6 @@
 import staticFormsPlugin from "@cloudflare/pages-plugin-static-forms";
 import mailChannelsPlugin from "@cloudflare/pages-plugin-mailchannels";
 
-import { CFP_ALLOWED_PATHS } from './constants';
-import { getCookieKeyValue } from './utils';
-import { getTemplate } from './template';
 
 async function password_site(context: {
   request: Request;
