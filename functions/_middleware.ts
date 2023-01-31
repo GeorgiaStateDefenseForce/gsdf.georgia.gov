@@ -29,7 +29,7 @@ export const onRequest: PagesFunction = mailChannelsPlugin({
       
     return new Response(null, {
       status: 302,
-      headers: { Location: "/pages/join_form_message/" },
+      headers: { Location: "/pages/joinform/" },
     });
   },
 });
