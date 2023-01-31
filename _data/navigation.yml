@@ -5,7 +5,7 @@ items:
     link: /pages/join
   - name: History
     link: /pages/history
-  - name: What We Do
+  - name: About Us
     link: /pages/about
   - name: Soldiers Portal
-    link: https://sites.google.com/1stbn.us/gsdf-members-portal/home
+    link: /pages/portal
