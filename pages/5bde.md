@@ -88,9 +88,11 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
 
 
 <p align="center">
-<img src="/images/177th_engineers.png" alt="177th engineers at-20"><br>
-Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers.
+<img src="/images/177th_Engineers.png" alt="177th engineers at-20">
 </p>
+Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers.
+
+<br>
 
 | ![177th_Engineers.png](/images/177th_Engineers.png) | 
 |:--:| 
@@ -105,11 +107,12 @@ DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In ad
   - Urban and Wilderness Search and Rescue (USAR / WSAR)
   - COVID-19 related missions embedded with National Guard units.
 
+<br>
 
 <p align="center">
-<img src="/images/Forklift_training.png" alt="Articulated industrial truck training"><br>
-Forklift training facilitates supply movement for Points of Distribution (PODs). Faster re-supply means more poeple helped when they need it most.
+<img src="/images/Forklift_training.png" alt="Articulated industrial truck training">
 </p>
+Forklift training facilitates supply movement for Points of Distribution (PODs). Faster re-supply means more poeple helped when they need it most.
 
 <br>
 
