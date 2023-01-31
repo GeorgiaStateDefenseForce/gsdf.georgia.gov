@@ -21,11 +21,11 @@ Georgia State Defense Force's 5th Brigade (5BDE) was the first GSDF unit to be f
 Designated as "Vikings" in late 2020, 5BDE prides itself on attacking challenges and finding innovative ways to solve problems (just like the Northmen of old). We've gained a solid reputation across the state and are now requested by numerous Georgia Army National Guard (GAANG) units looking for an exceptional training partner that gets the job done whatever may come.
 
 
-5BDE also leads the way in response to natural disasters. We maintain high training standards for all METL **(link back to METL list)** elements and work hard to ensure we have the right gear in the right place when mother nature throws a tantrum. Our troops have reponded in times of need after hurricanes, tornados, icy roads and river floods. We strive to be the first boots on the ground setting up the most effective response possible.
+5BDE also leads the way in response to natural disasters. We maintain high training standards for all elements of [our METL](/pages/about.md/#basic-mission-essential-task-list-bmetl) and work hard to ensure we have the right gear in the right place when mother nature throws a tantrum. Our troops have reponded in times of need after hurricanes, tornados, icy roads and river floods. We strive to be the first boots on the ground setting up the most effective response possible.
 
 
 The 5th brigade is made up of volunteers with variety of skillsets including law enforcement, electricians, IT professionals, engineers, truck drivers, chemists and educators. There is a place to use your professional skills and blend them with new skills to serve the citizens of Georgia in their greatest times of need.
-**(insert "join now" link)**
+[Contact a Recruiter](/pages/join.md)
 
 
 While all GSDF units can operate anywhere in the state the Vikings Area of Operations (AO) runs across the state below I-2o and north of Albany. You could draw a loop including Carrollton, Lagrange, Columbus, Cordele, Hinesville and Augusta and just about encompass the area. With such a large geographic area to cover we have more than one drill station to work with. Our primary drill stations are shown below.
