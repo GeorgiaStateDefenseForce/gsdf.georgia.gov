@@ -24,11 +24,11 @@ Designated as "Vikings" in late 2020, 5BDE prides itself on attacking challenges
 5BDE also leads the way in response to natural disasters. We maintain high training standards for all elements of [our METL](/pages/about.md/#basic-mission-essential-task-list-bmetl) and work hard to ensure we have the right gear in the right place when mother nature throws a tantrum. Our troops have reponded in times of need after hurricanes, tornados, icy roads and river floods. We strive to be the first boots on the ground setting up the most effective response possible.
 
 
-The 5th brigade is made up of volunteers with variety of skillsets including law enforcement, electricians, IT professionals, engineers, truck drivers, chemists and educators. There is a place to use your professional skills and blend them with new skills to serve the citizens of Georgia in their greatest times of need.
+The 5th brigade is made up of volunteers with variety of skillsets including law enforcement, electricians, IT professionals, engineers, truck drivers, chemists and educators. No matter what you background, there's a place to use your professional skills and blend them with new skills to serve the citizens of Georgia in their greatest times of need.
 [Contact a Recruiter](/pages/join.md)
 
 
-While all GSDF units can operate anywhere in the state the Vikings Area of Operations (AO) runs across the state below I-2o and north of Albany. You could draw a loop including Carrollton, Lagrange, Columbus, Cordele, Hinesville and Augusta and just about encompass the area. With such a large geographic area to cover we have more than one drill station to work with. Our primary drill stations are shown below.
+While all GSDF units can operate anywhere in the state, the Vikings Area of Operations (AO) runs across the state below I-2o and north of Albany. You could draw a loop including Carrollton, Lagrange, Columbus, Cordele, Hinesville and Augusta and just about encompass the area. With such a large geographic area to cover we have more than one drill station to work with. Our primary drill stations are shown below.
 
 
 <table>
@@ -59,14 +59,14 @@ While all GSDF units can operate anywhere in the state the Vikings Area of Opera
     <td>Lagrange National Guard Armory</td>
     <td>LaGrange, GA</td>
     <td><b>Montlhy drill support for 1177th Transportation Company</b><br>
-    <b>Driver training / night driver traing</b><br>
+    <b>Driver training / night driver training</b><br>
     <b>Weapons qualifications (individual and crew served)</b><br>
     </td>
   </tr>
   <tr>
     <td>Fort Bennings</td>
     <td>Columbus, GA</td>
-    <td><b>Role player support the quarterly training exercises of 1-54 Security Forces Assistance Brigades (SFAB)<b></td>
+    <td><b>Role player support for the quarterly training exercises of 1-54 Security Forces Assistance Brigades (SFAB)<b></td>
   </tr>
   <tr>
     <td>Fort Gordon</td>
@@ -83,7 +83,7 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
 
  - Pre-mobilization Training and Assistance Element (PTAE) means helping troops identify areas of improvement as a starting point for advanced deployment training.
  - Small Arms Leaders Course (SALC) allows soldiers to support National Guard units as they advance their skills on live-fire ranges.
- - Andrew Sullens Marksmanship Competition lets soldiers engage in range support and includes a chance to compete if selected for the GSDF competitive marksmanship team.
+ - Andrew Sullens Marksmanship Competition lets soldiers engage in range support and includes a chance to compete if selected for the GSDF Competitive Marksmanship Team (CMT).
  - 1/54th Security Forces Assistance Brigade (SFAB) missions provide in-depth training in traditional combat tactics and small unit tactics as an avenue for SFAB soldiers to hone their skills before deployment to assist in training security forces for our allies in developing nations.
 
 
@@ -92,10 +92,10 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
 </p>
 
 
-<p>
+<p align="center">
 <figure>
 <img src="/images/177th_Engineers.png" alt="177th AT-20">
-<figcaption align = "center"><b>Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers</b></figcation>
+<figcaption align="center"><b>Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers</b></figcation>
 </figure.>
 </p>
 
@@ -112,7 +112,7 @@ DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In ad
 <p align="center">
 <img src="/images/Forklift_training.png" alt="Articulated industrial truck training">
 </p>
-Forklift training facilitates supply movement for Points of Distribution (PODs). Faster re-supply means more poepl helped when they need it most.
+Forklift training facilitates supply movement for Points of Distribution (PODs). Faster re-supply means more poeple helped when they need it most.
 
 
 <p align="center">
