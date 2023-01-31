@@ -90,7 +90,7 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
 <p align="center">
 <img src="/images/177th_Engineers.png" alt="177th ESC AT-20">
 </p>
-Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers.
+<p align="center">Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers.</p>
 
 
 <br>
@@ -116,11 +116,11 @@ DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In ad
 <p align="center">
 <img src="/images/Forklift_training.png" alt="Articulated industrial truck training">
 </p>
-Forklift training facilitates supply movement for Points of Distribution (PODs). Faster re-supply means more poeple helped when they need it most.
+<p align="center">Forklift training facilitates supply movement for Points of Distribution (PODs). Faster re-supply means more poeple helped when they need it most.</p>
 
 <br>
 
 <p align="center">
 <img src="/images/TY21_AT.jpg" alt="USAR Training">
 </p>
-Practice of Urban Search and Rescue (USAR) hones the skills needed to respond to a natural disaster and work with other agencies for large scale relief efforts.
+<p align="center">Practice of Urban Search and Rescue (USAR) hones the skills needed to respond to a natural disaster and work with other agencies for large scale relief efforts.</p>
