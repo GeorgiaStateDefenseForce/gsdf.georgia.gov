@@ -88,9 +88,9 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
 
 
 <p align="center">
-<img src="/images/Forklift_training.png" alt="Articulated industrial truck training">
+<img src="/images/177th_Engineers" alt="177th ESC AT-20">
 </p>
-Forklift training facilitates supply movement for Points of Distribution (PODs). Faster re-supply means more poeple helped when they need it most.
+Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers.
 
 <br>
 
