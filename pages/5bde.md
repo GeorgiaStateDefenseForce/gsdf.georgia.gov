@@ -9,8 +9,9 @@ sitemap:
     changefreq: yearly
 ---
 
-# Vikings "Always Forward!"
+<
 <p align="center">
+# Vikings "Always Forward!"
   <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" style="width:265px;height:390px;">
 </p>
 
