@@ -11,7 +11,7 @@ sitemap:
 
 # Vikings "Always Forward!"
 <p align="center">
-   ![5BDE Shield] (/images/5th_BDE_shield.png) "The shield of Vikings!"
+  <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" style="float:left;width:265px;height:390px;">
 </p>
 
 
