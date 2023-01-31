@@ -87,9 +87,9 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
  - 1/54th Security Forces Assistance Brigade (SFAB) missions provide in-depth training in traditional combat tactics and small unit tactics as an avenue for SFAB soldiers to hone their skills before deployment to assist in training security forces for our allies in developing nations.
 
 
+<p align="center">
   <img src="/images/177th_Engineers.png" alt="Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers">
-
-
+</p>
 DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In addition to cooperating with multiple Emergency Management Agencies (EMAs) we work with numerous government agencies and non-government organizations (NGOs). Some recent examples include:
 
   - Points of Distribution (PODs) operation
@@ -99,11 +99,13 @@ DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In ad
   - COVID-19 related missions embedded with National Guard units.
 
 
+<p align="center">
 <img src="/images/Forklift_training.png" alt="Articulated industrial truck training">
-
+</p>
 Forklift training facilitates supply movement for Points of Distribution (PODs). Faster re-supply means more poepl helped when they need it most.
 
 
+<p align="center">
 <img src="/images/TY21_AT.jpg" alt="USAR Training">
-
+</p>
 Practice of Urban Search and Rescue (USAR) hones the skills needed to respond to a natural disaster and work with other agencies for large scale relief efforts.
