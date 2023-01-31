@@ -87,11 +87,10 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
  - 1/54th Security Forces Assistance Brigade (SFAB) missions provide in-depth training in traditional combat tactics and small unit tactics as an avenue for SFAB soldiers to hone their skills before deployment to assist in training security forces for our allies in developing nations.
 
 
-<center>
-  <img src="/images/177th_Engineers.png" alt="Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers"><br>
-    <b>Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers.</b>
-</center>
-
+<p align="center">
+<img src="/images/177th_engineers.png" alt="177th engineers at-20"><br>
+Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers.
+</p>
 
 | ![177th_Engineers.png](/images/177th_Engineers.png) | 
 |:--:| 
