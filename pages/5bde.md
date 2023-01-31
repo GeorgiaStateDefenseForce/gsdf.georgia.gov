@@ -92,10 +92,12 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
 </p>
 
 
+<p>
 <figure>
 <img src="/images/177th_Engineers.png" alt="177th AT-20">
 <figcaption align = "center"><b>Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers</b></figcation>
 </figure.>
+</p>
 
 
 DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In addition to cooperating with multiple Emergency Management Agencies (EMAs) we work with numerous government agencies and non-government organizations (NGOs). Some recent examples include:
