@@ -13,6 +13,11 @@ sitemap:
     </span>
 </a> -->
 
+# About Us
+
+
+
+
 <section class="posts">
 <article>
   <div class="image fit">
@@ -23,7 +28,22 @@ sitemap:
 </article>
 </section>
 
-### Mission
+## Units
+
+Click on a unit's name to learn more.
+
+|           |       |  
+|--------------|-----------|
+| ![](/images/TRADOCLOGO-e1605319963366.png ) | [TRADOC](/pages/tradoc) | 
+| ![](/images/OPFOR-gold-patch-on-Black-arrow-icon-e1646752628316.jpg )  | [OPFOR Battalion](/pages/opfor) | 
+| ![](/images/1BDELogo-e1605319549785.jpg )  | [1st BDE](/pages/1bde) |
+| ![](/images/4BDELogo1-e1605714540671.jpg )  | [4th BDE](/pages/4bde) |
+| ![](/images/5th-bridage-coin-back-e1608700902617.png )  | [5th BDE](/pages/5bde) |
+| ![](/images/76thCoin-e1605320174988.jpg )  | [76th Spt. BDE](/pages/76bde)
+| ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pages/pao) |
+| ![](/images/logo_tr_bg_sm1.png )  | HQ/HHGC|
+
+## Mission
 
 <a href="https://www.flickr.com/photos/georgia_state_defense_force/29835528430/in/photostream/">
     <span class="image right">
@@ -70,7 +90,6 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 </a>
 	
 
-![](/images/gsdf-trailer-_img_2184-1-.jpg)
 
 1. General Military Knowledge
 2. Law Enforcement Assistance

@@ -19,5 +19,9 @@
   "dependencies": {
     "@cloudflare/pages-plugin-mailchannels": "^0.1.1",
     "@cloudflare/pages-plugin-static-forms": "^1.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20230115.0",
+    "typescript": "^4.9.5"
   }
 }
