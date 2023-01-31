@@ -10,3 +10,98 @@ sitemap:
 ---
 
 # Vikings "Always Forward!"
+<img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" style="float:left;width:400px;height:400px;"><br>
+
+<p>
+Georgia State Defense Force's 5th Brigade (5BDE) was the first GSDF unit to be fully embedded with a National Guard Unit over 10 years ago and has been leading the way ever since.</p> 
+Designated as "Vikings" in late 2020, 5BDE prides itself on attacking challenges and finding innovative ways to solve problems (just like the Northmen of old). We've gained a solid reputation across the state and are now requested by numerous Georgia Army National Guard (GAANG) units looking for an exceptional training partner that gets the job done whatever may come.</p>
+5BDE also leads the way in response to natural disasters. We maintain high training standards for all METL <b>(link back to METL list)</b> elements and work hard to ensure we have the right gear in the right place when mother nature throws a tantrum. Our troops have reponded in times of need after hurricanes, tornados, icy roads and river floods. We strive to be the first boots on the ground setting up the most effective response possible.</p>
+The 5th brigade is made up of volunteers with variety of skillsets including law enforcement, electricians, IT professionals, engineers, truck drivers, chemists and educators. There is a place to use your professional skills and blend them with new skills to serve the citizens of Georgia in their greatest times of need.<br>
+<b>(insert "join now" link)</b>
+</p>
+
+<p>
+While all GSDF units can operate anywhere in the state the Vikings Area of Operations (AO) runs across the state below I-2o and north of Albany. You could draw a loop including Carrollton, Lagrange, Columbus, Cordele, Hinesville and Augusta and just about encompass the area. With such a large geographic area to cover we have more than one drill station to work with. Our primary drill stations are shown below.
+</p>
+
+<table>
+  <tr>
+    <th>Drill station</th>
+    <th>City</th>
+    <th>Activities</th>
+  </tr>
+  <tr>
+    <td>Georgia Garrison Training Center (GGTC), Fort Stewart</td>
+    <td>Hinesville, GA</td>
+    <td><b>Support of a variety of Georgia Army National Guard (GAANG) units including:</b><br>
+    - Opposition Force (OpFor) exercises<br>
+    - Role players for GAANG training exercises<br>
+    - Firing range operations (individual and crew served weapons)<br>
+    <b>METL training including:</b><br>
+    - Search and Rescue (urban and wilderness)<br>
+    - Debris clearing (chainsaw operations)<br>
+    - Medevac operations (including helicopter landing zone setup)<br>
+    - Communications (radio operations)</td>
+  </tr>
+  <tr>
+    <td>48 IBCT Headquarters</td>
+    <td>Macon, GA</td>
+    <td><b>GSDF METL training activities</b></td>
+  </tr>
+  <tr>
+    <td>Lagrange National Guard Armory</td>
+    <td>LaGrange, GA</td>
+    <td><b>Montlhy drill support for 1177th Transportation Company</b><br>
+    <b>Driver training / night driver traing</b><br>
+    <b>Weapons qualifications (individual and crew served)</b><br>
+    </td>
+  </tr>
+  <tr>
+    <td>Fort Bennings</td>
+    <td>Columbus, GA</td>
+    <td><b>Role player support the quarterly training exercises of 1-54 Security Forces Assistance Brigades (SFAB)<b></td>
+  </tr>
+  <tr>
+    <td>Fort Gordon</td>
+    <td>Augusta, GA</td>
+    <td><b>Support of GAANG unis as requested</b><br>
+    </td>
+  </tr>
+</table>
+
+<p>
+All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Community Engagement (COMENG), and Military to Military Support (MTMS).<br>
+5th Brigade leads the way in MTMS. The missions we undertake are highly varied and offer a challenging array of engagement involving opportunities for soldiers at all levels to develop skills, build relationships and contribute in a meaningful way to the citizens of Georgia when they need help most. Some examples of MTMS missions include:
+</p>
+
+<ul>
+  <li>Pre-mobilization Training and Assistance Element (PTAE) means helping troops identify areas of improvement as a starting point for advanced deployment training.</li>
+  <li>Small Arms Leaders Course (SALC) allows soldiers to support National Guard units as they advance their skills on live-fire ranges.</li>
+  <li>Andrew Sullens Marksmanship Competition lets soldiers engage in range support and includes a chance to compete if selected for the GSDF competitive marksmanship team.</li>
+  <li>1/54th Security Forces Assistance Brigade (SFAB) missions provide in-depth training in traditional combat tactics and small unit tactics as an avenue for SFAB soldiers to hone their skills before deployment to assist in training security forces for our allies in developing nations.</li>
+</ul>
+
+<p>
+  <img src="/images/177th_Engineers" alt="Members of GSDF celebrate the end of a week long training exercise at Ft. Stewart for the 177th Engineers">
+</p>
+
+<p>
+DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In addition to cooperating with multiple Emergency Management Agencies (EMAs) we work with numerous government agencies and non-government organizations (NGOs). Some recent examples include:
+<ul>
+  <li>Points of Distribution (PODs) operation</li>
+  <li>Food Bank relief box packing</li>
+  <li>Hurricane evacuation shelter support</li>
+  <li>Urban and Wilderness Search and Rescue (USAR / WSAR)</li>
+  <li>COVID-19 related missions embedded with National Guard units.</li>
+</ul>
+</p>
+
+<img src="/images/forklift_training.png" alt="Articulated industrial truck training"><br>
+
+<p>Forklift training facilitates supply movement for Points of Distribution (PODs). Faster re-supply means more poepl helped when they need it most.
+</p>
+
+<img src="/images/TY21_AT.jpg" alt="USAR Training"><br>
+
+<p>Practice of Urban Search and Rescue (USAR) hones the skills needed to respond to a natural disaster and work with other agencies for large scale relief efforts.
+</p>
