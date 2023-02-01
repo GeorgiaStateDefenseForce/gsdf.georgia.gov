@@ -47,11 +47,13 @@ Click on a unit's name to learn more.
 
 <a>
     <span class="image right">
-        <img src="{{ "/images/49758140448_7147c42484_c.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/GSDF_Image_Soldiers_in_Formation_51854055_2308571755861350_108599729843077120_n.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 
 When ordered by the Adjutant General, provide an organized, trained, disciplined, rapid response volunteer force to assist state and local government agencies, and civil relief organizations in impending or actual emergencies to assure the welfare and safety of the citizens of Georgia.
+
+---
 
 ### Authorization
 
@@ -102,9 +104,9 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 8. Disaster Relief Support
 9. Search and Rescue Operations
 10. Military Operations
-    <a href="https://www.flickr.com/photos/georgia_state_defense_force/51176003641/">
+    <a>
         <span class="image right">
-            <img src="{{ "/images/51176003641_9f68053ca1_c.jpg" | absolute_url }}" alt="" />
+            <img src="{{ "/images/GSDF Soldier Walking Toward Plane_311956512_481150017389853_4080600061043775694_n.jpg" | absolute_url }}" alt="" />
         </span>
     </a>
 11. Anti-Terrorism
