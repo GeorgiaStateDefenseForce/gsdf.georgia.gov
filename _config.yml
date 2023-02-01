@@ -19,11 +19,11 @@ flickr: georgia_state_defense_force
 
 # personal
 location: Ellenwood, Georgia
-phone: 833-715-4733
+phone: 833-715-GSDF (4733)
 email: join@gasdf.us # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
-background_image: https://imagedelivery.net/X2G8U-A7962XEeDR3Zm43Q/13103170-8c16-4a58-6ff4-751b6b7e8400/fullsize
+background_image: /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
