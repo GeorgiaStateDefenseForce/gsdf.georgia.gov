@@ -45,9 +45,9 @@ Click on a unit's name to learn more.
 
 ## Mission
 
-<a href="https://www.flickr.com/photos/georgia_state_defense_force/29835528430/in/photostream/">
+<a>
     <span class="image right">
-        <img src="{{ "/images/29835528430_d09a35fc0c_c.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/49758140448_7147c42484_c.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 
@@ -55,9 +55,10 @@ When ordered by the Adjutant General, provide an organized, trained, disciplined
 
 ### Authorization
 
-<a href="https://www.flickr.com/photos/georgia_state_defense_force/30095984446/in/photostream/">
+
+<a>
     <span class="image right">
-        <img src="{{ "/images/30095984446_3468a6d270_c.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/GSDF_2_People_51616385339_3f2035db23_o.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 								
@@ -70,9 +71,9 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 
 ### BASIC MISSION ESSENTIAL TASK LIST (BMETL)
 
-<a href="https://www.flickr.com/photos/georgia_state_defense_force/36770203940/">
+<a>
     <span class="image right">
-        <img src="{{ "/images/36770203940_c8dd1cd2db_c.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/GSDF_Photo_2_325372090_1916434092032200_6541789607323624113_n.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 		
@@ -85,7 +86,7 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 
 <a href="https://www.flickr.com/photos/georgia_state_defense_force/49843369601/in/photostream/">
     <span class="image right">
-        <img src="{{ "/images/49843369601_bd736863c8_c.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/COVID_POD_Cans_104167301_3317506181634564_2720087401230414448_n.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 	
