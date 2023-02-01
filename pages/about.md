@@ -28,20 +28,7 @@ sitemap:
 </article>
 </section>
 
-## Units
 
-Click on a unit's name to learn more.
-
-|           |       |  
-|--------------|-----------|
-| ![](/images/TRADOCLOGO-e1605319963366.png ) | [TRADOC](/pages/tradoc) | 
-| ![](/images/OPFOR-gold-patch-on-Black-arrow-icon-e1646752628316.jpg )  | [OPFOR Battalion](/pages/opfor) | 
-| ![](/images/1BDELogo-e1605319549785.jpg )  | [1st BDE](/pages/1bde) |
-| ![](/images/4BDELogo1-e1605714540671.jpg )  | [4th BDE](/pages/4bde) |
-| ![](/images/5th-bridage-coin-back-e1608700902617.png )  | [5th BDE](/pages/5bde) |
-| ![](/images/76thCoin-e1605320174988.jpg )  | [76th Spt. BDE](/pages/76bde)
-| ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pages/pao) |
-| ![](/images/logo_tr_bg_sm1.png )  | [HQ/HHG](/pages/hhc)|
 
 ## Mission
 
@@ -51,7 +38,27 @@ Click on a unit's name to learn more.
     </span>
 </a>
 
-When ordered by the Adjutant General, provide an organized, trained, disciplined, rapid response volunteer force to assist state and local government agencies, and civil relief organizations in impending or actual emergencies to assure the welfare and safety of the citizens of Georgia.
+When ordered by the Adjutant General, provide an organized, trained, disciplined, rapid response volunteer force to assist state and local government agencies, and civil relief organizations in impending or actual emergencies to assure the welfare and safety of the citizens of Georgia.  
+  
+    
+  
+<!-- ---
+
+## Current Leadership
+
+
+<div class="box alt">
+    <div class="row 50% ">
+        <div class="6u">
+            Brig. Gen. Mark D. Gelhardt Sr.
+        <span class="image fit"><img src="{{ "/images/BG-Gelhardt-Photo-227x300.jpg" | absolute_url }}" alt="Commanding General Brig. Gen. Mark D. Gelhardt Sr." /></span>
+        </div>
+        <div class="6u$">
+            Command Sgt. MAJ Robert Bayne
+        <span class="image fit"><img src="{{ "/images/CSM_Bayne_CMD_20220907.jpg" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
+        </div>
+    </div>
+</div> -->
 
 ---
 
@@ -69,6 +76,25 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 <a href="https://law.justia.com/codes/us/2018/title-32/chapter-1/sec-109/">32 U.S.C. § 109 (2018)</a>
 
 <a href="https://law.justia.com/codes/georgia/2019/title-38/chapter-2/article-1/part-3/section-38-2-50/">GA Code § 38-2-50 (2019)</a>
+
+   
+---
+   
+   
+## Units
+
+Click on a unit's name to learn more.
+
+|           |       |  
+|--------------|-----------|
+| ![](/images/TRADOCLOGO-e1605319963366.png ) | [TRADOC](/pages/tradoc) | 
+| ![](/images/OPFOR-gold-patch-on-Black-arrow-icon-e1646752628316.jpg )  | [OPFOR Battalion](/pages/opfor) | 
+| ![](/images/1BDELogo-e1605319549785.jpg )  | [1st BDE](/pages/1bde) |
+| ![](/images/4BDELogo1-e1605714540671.jpg )  | [4th BDE](/pages/4bde) |
+| ![](/images/5th-bridage-coin-back-e1608700902617.png )  | [5th BDE](/pages/5bde) |
+| ![](/images/76thCoin-e1605320174988.jpg )  | [76th Spt. BDE](/pages/76bde)
+| ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pages/pao) |
+| ![](/images/logo_tr_bg_sm1.png )  | [HQ/HHG](/pages/hhc)|
 								
 
 ### BASIC MISSION ESSENTIAL TASK LIST (BMETL)
