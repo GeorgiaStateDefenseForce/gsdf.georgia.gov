@@ -41,7 +41,7 @@ Click on a unit's name to learn more.
 | ![](/images/5th-bridage-coin-back-e1608700902617.png )  | [5th BDE](/pages/5bde) |
 | ![](/images/76thCoin-e1605320174988.jpg )  | [76th Spt. BDE](/pages/76bde)
 | ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pages/pao) |
-| ![](/images/logo_tr_bg_sm1.png )  | HQ/HHGC|
+| ![](/images/logo_tr_bg_sm1.png )  | [HQ/HHG](/pages/hhc)|
 
 ## Mission
 
@@ -135,3 +135,9 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 <p>CLAY NATIONAL GUARD CENTER, Marietta, Ga. October 9, 2016 - Members of the three components of the Georgia Department of Defense monitor Hurricane Matthew response operations during the overnight shift at the Joint Operations Center.</p> 
 <p>Georgia National Guard photo by Capt. William Carraway</p>
 </header>
+
+- - -
+
+## Recomended Youtube Playlist
+
+{% include youtube.html %}
