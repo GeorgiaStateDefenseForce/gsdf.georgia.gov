@@ -16,6 +16,12 @@ sitemap:
 <p>
   <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" align="left" style="float:left;width:265px;height:390px" hspace="25" vspace="25">
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **5BDE Mission Statement**:
 
