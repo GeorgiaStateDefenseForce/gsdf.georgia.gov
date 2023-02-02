@@ -42,9 +42,9 @@ Designated "Vikings" in late 2020, 5BDE prides itself on attacking challenges an
 The Vikings also lead the way in response to natural disasters. 5BDE maintains high training standards for all elements of the [Mission Essential Task List (METL)](/pages/about.md/#basic-mission-essential-task-list-bmetl) and works hard to ensure that the right gear is in the right place when mother nature throws a tantrum. The troops have reponded in times of need after hurricanes, tornados, icy roads and river floods. They strive to be the first boots on the ground setting up the most effective response possible.
 
 
-The 5th brigade is made up of volunteers coming from a variety of backgrounds including law enforcement, electricians, IT professionals, engineers, truck drivers, chemists and educators. No matter what your background, there's a place to use your professional knowledge blended with new skills to serve the citizens of Georgia in their greatest times of need.
-[Contact a Recruiter](/pages/join.md)
-
+The 5th brigade is made up of volunteers coming from a variety of backgrounds including law enforcement, electricians, IT professionals, engineers, truck drivers, chemists and educators. No matter what your background, there's a place to use your professional knowledge blended with new skills to serve the citizens of Georgia in their greatest times of need.<br>
+<br>
+<p align="center">[Contact a Recruiter](/pages/join.md)</p>
 
 While all GSDF units can operate anywhere in Georgia, the Vikings Area of Responsibility (AOR) covers a very large portion of the state. Drawing a loop including Carrollton, Lagrange, Columbus, Cordele, Hinesville and Augusta just about encompass the entire area. With such a large geographic span to cover we have more than one drill station to work with. Our primary drill stations are shown below.
 
@@ -77,14 +77,14 @@ While all GSDF units can operate anywhere in Georgia, the Vikings Area of Respon
     <td>Lagrange National Guard Armory</td>
     <td>LaGrange, GA</td>
     <td><b>Monthly drill support for 1177th Transportation Company</b><br>
-    <b>Driver training / night driver training</b><br>
+    <b>Driver training / Night driver training</b><br>
     <b>Weapons qualifications (individual and crew served)</b><br>
     </td>
   </tr>
   <tr>
     <td>Fort Benning</td>
     <td>Columbus, GA</td>
-    <td><b>Role player support for the quarterly training exercises of 1-54 Security Forces Assistance Brigade (SFAB)<b></td>
+    <td><b>Role player support for the quarterly training exercises of 1-54th Security Forces Assistance Brigade (SFAB)<b></td>
   </tr>
   <tr>
     <td>Fort Gordon</td>
@@ -93,6 +93,7 @@ While all GSDF units can operate anywhere in Georgia, the Vikings Area of Respon
     </td>
   </tr>
 </table>
+<br>
 
 
 All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Community Engagement (COMENG), and Military to Military Support (MTMS).
@@ -102,7 +103,7 @@ All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Com
  - Pre-mobilization Training and Assistance Element (PTAE) means helping troops identify areas of improvement as a starting point for advanced deployment training.
  - Small Arms Leaders Course (SALC) allows soldiers to support National Guard units as they advance their skills on live-fire ranges.
  - Andrew Sullens Marksmanship Competition lets soldiers engage in range support and includes a chance to compete if selected for the GSDF Competitive Marksmanship Team (CMT).
- - 1/54th Security Forces Assistance Brigade (SFAB) missions provide in-depth training in traditional combat tactics and small unit tactics. This enables SFAB soldiers to hone their skills before deployment to assist in training security forces for our allies in developing nations.
+ - 1/54th Security Forces Assistance Brigade (SFAB) missions provide in-depth training in traditional combat tactics and small unit tactics. This enables SFAB advisors to hone their skills before deployment to assist in training our allies in developing nations.
 
 
 <p align="center">
@@ -130,7 +131,11 @@ DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In ad
 
 <br>
 
+
 <p align="center">
 <img src="/images/TY21_AT.jpg" alt="USAR Training">
 </p>
 <p align="center">Urban Search and Rescue (USAR) training hones the skills needed to respond to a natural disaster and work with other agencies for large scale relief efforts.</p>
+
+
+<p align="center">[Contact a Recruiter](/pages/join.md)</p>
