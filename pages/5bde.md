@@ -14,7 +14,7 @@ sitemap:
 # Vikings "Always Forward!"
 <p align="center">
   <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" style="width:265px;height:390px;">
-  <img src="/images/5bde_coin_front.png" alt="5BDE coin front" style="width:390px;height:390px;">
+  <img src="/images/5bde_coin_front.png" alt="5BDE coin front" style="width:300px;height:300px;">
 </p>
 
 
