@@ -11,20 +11,24 @@ sitemap:
 
 
 
-# Vikings
-# "1st in Georgia!"
-<p align="left">
-  <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" style="width:265px;height:390px;">
+# VIKINGS
+# "FIRST IN GEORGIA!"
+<p>
+  <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" style="float:left;width:265px;height:390px;">
 </p>
+5BDE Mission Statement:
 
 
-Georgia State Defense Force's 5th Brigade (5BDE) was the first to have fully embedded unit with a National Guard unit over 10 years ago and has been leading the way ever since.
+The mission of 5BDE, GSDF is to provide mission-ready military forces to assist state and local authorities in times of state emergencies (man-made, natural disasters, pandemic), to conduct homeland security and community service activities under the umbrella of Defense Support to Civil Authorities, and to augment the Georgia Army and Air National Guard as required.
 
 
-Designated as "Vikings" in late 2020, 5BDE prides itself on attacking challenges and finding innovative ways to solve problems (just like the Northmen of old). We've gained a solid reputation across the state and are now requested by numerous Georgia Army National Guard (GAANG) units looking for an exceptional training partner that gets the job done whatever may come.
+Georgia State Defense Force's 5th Brigade (5BDE) was the first to have a fully embedded unit with the Georgia Army National Guard (GAARNG) over 10 years ago and has been leading the way ever since.
 
 
-5BDE also leads the way in response to natural disasters. We maintain high training standards for all elements of [our Mission Essential Task List (METL)](/pages/about.md/#basic-mission-essential-task-list-bmetl) and work hard to ensure we have the right gear in the right place when mother nature throws a tantrum. Our troops have reponded in times of need after hurricanes, tornados, icy roads and river floods. We strive to be the first boots on the ground setting up the most effective response possible.
+Designated "Vikings" in late 2020, 5BDE prides itself on attacking challenges and finding innovative ways to solve problems (just like the Northmen of old). 5BDE has earned a solid reputation across the state and is now requested by numerous GAARNG units looking for an exceptional training partner that gets the job done whatever may come.
+
+
+The Vikings also lead the way in response to natural disasters. 5BDE maintains high training standards for all elements of the [Mission Essential Task List (METL)](/pages/about.md/#basic-mission-essential-task-list-bmetl) and works hard to ensure that the right right gear is in the right place when mother nature throws a tantrum. The troops have reponded in times of need after hurricanes, tornados, icy roads and river floods.  They strive to be the first boots on the ground setting up the most effective response possible.
 
 
 The 5th brigade is made up of volunteers coming from a variety of backgrounds including law enforcement, electricians, IT professionals, engineers, truck drivers, chemists and educators. No matter what your background, there's a place to use your professional knowledge blended with new skills to serve the citizens of Georgia in their greatest times of need.
