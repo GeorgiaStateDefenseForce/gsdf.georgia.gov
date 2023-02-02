@@ -11,7 +11,7 @@ sitemap:
 
 
 
-# VIKINGS
+# **VIKINGS**
 # "FIRST IN GEORGIA!"
 <p>
   <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" align="center" style="float:left;width:265px;height:390px" hspace="25" vspace="25">
