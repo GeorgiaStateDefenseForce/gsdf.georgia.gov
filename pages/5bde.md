@@ -49,7 +49,6 @@ The 5th brigade is made up of volunteers coming from a variety of backgrounds in
 <a href="/pages/join.md">Contact a Recruiter</a>
 </div>
 <br>
-<br>
 While all GSDF units can operate anywhere in Georgia, the Vikings Area of Responsibility (AOR) covers a very large portion of the state. Drawing a loop including Carrollton, Lagrange, Columbus, Cordele, Hinesville and Augusta just about encompass the entire area. With such a large geographic span to cover we have more than one drill station to work with. Our primary drill stations are shown below.
 
 
