@@ -21,7 +21,6 @@ sitemap:
 <br>
 <br>
 <br>
-<br>
 
 **5BDE Mission Statement**:
 
@@ -32,6 +31,8 @@ sitemap:
 <br>
 <br>
 <br>
+<br>
+
 Georgia State Defense Force's 5th Brigade (5BDE) was the first to have a fully embedded unit with the Georgia Army National Guard (GAARNG) over 10 years ago and has been leading the way ever since.
 
 
