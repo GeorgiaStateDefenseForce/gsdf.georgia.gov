@@ -14,7 +14,7 @@ sitemap:
 # VIKINGS
 # "FIRST IN GEORGIA!"
 <p>
-  <img src="/images/5th_BDE_shield.png" align=center alt="Shield of Warriors" style="float:left;padding:25;width:265px;height:390px;">
+  <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" align="left" style="float:left;width:265px;height:390px" hspace="25" vspace="25">
   5BDE Mission Statement:
   The mission of 5BDE, GSDF is to provide mission-ready military forces to assist state and local authorities in times of state emergencies (man-made, natural disasters, pandemic), to conduct homeland security and community service activities under the umbrella of Defense Support to Civil Authorities, and to augment the Georgia Army and Air National Guard as required.
 </p>
