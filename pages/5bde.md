@@ -42,9 +42,12 @@ Designated "Vikings" in late 2020, 5BDE prides itself on attacking challenges an
 The Vikings also lead the way in response to natural disasters. 5BDE maintains high training standards for all elements of the [Mission Essential Task List (METL)](/pages/about.md/#basic-mission-essential-task-list-bmetl) and works hard to ensure that the right gear is in the right place when mother nature throws a tantrum. The troops have reponded in times of need after hurricanes, tornados, icy roads and river floods. They strive to be the first boots on the ground setting up the most effective response possible.
 
 
-The 5th brigade is made up of volunteers coming from a variety of backgrounds including law enforcement, electricians, IT professionals, engineers, truck drivers, chemists and educators. No matter what your background, there's a place to use your professional knowledge blended with new skills to serve the citizens of Georgia in their greatest times of need.<br>
-<br>
-[Contact a Recruiter](/pages/join.md)
+The 5th brigade is made up of volunteers coming from a variety of backgrounds including law enforcement, electricians, IT professionals, engineers, truck drivers, chemists and educators. No matter what your background, there's a place to use your professional knowledge blended with new skills to serve the citizens of Georgia in their greatest times of need.
+
+
+<div align="center">
+<a href="/pages/join.md">Contact a Recruiter</a>
+</div>
 
 
 While all GSDF units can operate anywhere in Georgia, the Vikings Area of Responsibility (AOR) covers a very large portion of the state. Drawing a loop including Carrollton, Lagrange, Columbus, Cordele, Hinesville and Augusta just about encompass the entire area. With such a large geographic span to cover we have more than one drill station to work with. Our primary drill stations are shown below.
@@ -138,5 +141,9 @@ DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In ad
 </p>
 <p align="center">Urban Search and Rescue (USAR) training hones the skills needed to respond to a natural disaster and work with other agencies for large scale relief efforts.</p>
 
+<div align="center">
+<a href="/pages/join.md">Contact a Recruiter</a>
+</div>
 
-[Contact a Recruiter](/pages/join.md)
+<br>
+<br>
