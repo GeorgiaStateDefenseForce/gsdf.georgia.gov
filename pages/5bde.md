@@ -14,14 +14,18 @@ sitemap:
 # **VIKINGS**
 # "FIRST IN GEORGIA!"
 <p>
-  <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" align="center" style="float:left;width:265px;height:390px" hspace="25" vspace="25">
+  <img src="/images/5th_BDE_shield.png" alt="Shield of Warriors" align="left" style="float:left;width:265px;height:390px" hspace="25" vspace="25">
 </p>
 
 **5BDE Mission Statement**:
 
   *The mission of 5BDE, GSDF is to provide mission-ready military forces to assist state and local authorities in times of state emergencies (man-made, natural disasters, pandemic), to conduct homeland security and community service activities under the umbrella of Defense Support to Civil Authorities, and to augment the Georgia Army and Air National Guard as required*.
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 Georgia State Defense Force's 5th Brigade (5BDE) was the first to have a fully embedded unit with the Georgia Army National Guard (GAARNG) over 10 years ago and has been leading the way ever since.
 
 
