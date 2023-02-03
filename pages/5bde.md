@@ -128,7 +128,7 @@ DSCA and COMENG are also significant parts of 5th Brigade’s mission set. In ad
 <br>
 
 <p align="center" >
-<img src="/images/Forklift_training.png" alt="Articulated industrial truck training">
+<img src="/images/Forklift_training_3.jpeg" alt="Articulated industrial truck training">
 </p>
 <p align="center">Forklift training facilitates supply movement for Points of Distribution (PODs).<br>Faster re-supply means more poeple helped when they need it most.</p>
 
