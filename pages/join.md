@@ -20,6 +20,10 @@ sitemap:
 While there are minimum requirements to join the GSDF, it is recommended to speak with a recruiter even if you think you may not be eligible. Often candidates who assume they are ineligible are eligible. 
 </div>
 
+<section>
+	{% include joinform.html %}
+	</section>
+
 <a href="{{ "/pages/join#join-today" | absolute_url }}">
     <span class="image right">
         <img src="{{ "/images/2016-06-15_022207000_CF994_iOS.jpg" | absolute_url }}" alt="" />

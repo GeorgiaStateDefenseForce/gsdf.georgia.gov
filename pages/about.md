@@ -28,6 +28,59 @@ sitemap:
 </article>
 </section>
 
+
+
+## Mission
+
+<a>
+    <span class="image right">
+        <img src="{{ "/images/GSDF_Image_Soldiers_in_Formation_51854055_2308571755861350_108599729843077120_n.jpg" | absolute_url }}" alt="" />
+    </span>
+</a>
+
+When ordered by the Adjutant General, provide an organized, trained, disciplined, rapid response volunteer force to assist state and local government agencies, and civil relief organizations in impending or actual emergencies to assure the welfare and safety of the citizens of Georgia.  
+  
+    
+  
+<!-- ---
+
+## Current Leadership
+
+
+<div class="box alt">
+    <div class="row 50% ">
+        <div class="6u">
+            Brig. Gen. Mark D. Gelhardt Sr.
+        <span class="image fit"><img src="{{ "/images/BG-Gelhardt-Photo-227x300.jpg" | absolute_url }}" alt="Commanding General Brig. Gen. Mark D. Gelhardt Sr." /></span>
+        </div>
+        <div class="6u$">
+            Command Sgt. MAJ Robert Bayne
+        <span class="image fit"><img src="{{ "/images/CSM_Bayne_CMD_20220907.jpg" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
+        </div>
+    </div>
+</div> -->
+
+---
+
+### Authorization
+
+
+<a>
+    <span class="image right">
+        <img src="{{ "/images/GSDF_2_People_51616385339_3f2035db23_o.jpg" | absolute_url }}" alt="" />
+    </span>
+</a>
+								
+The Georgia State Defense Force is a legally constituted element of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of the State of Georgia.</p>
+
+<a href="https://law.justia.com/codes/us/2018/title-32/chapter-1/sec-109/">32 U.S.C. § 109 (2018)</a>
+
+<a href="https://law.justia.com/codes/georgia/2019/title-38/chapter-2/article-1/part-3/section-38-2-50/">GA Code § 38-2-50 (2019)</a>
+
+   
+---
+   
+   
 ## Units
 
 Click on a unit's name to learn more.
@@ -41,38 +94,14 @@ Click on a unit's name to learn more.
 | ![](/images/5th-bridage-coin-back-e1608700902617.png )  | [5th BDE](/pages/5bde) |
 | ![](/images/76thCoin-e1605320174988.jpg )  | [76th Spt. BDE](/pages/76bde)
 | ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pages/pao) |
-| ![](/images/logo_tr_bg_sm1.png )  | HQ/HHGC|
-
-## Mission
-
-<a href="https://www.flickr.com/photos/georgia_state_defense_force/29835528430/in/photostream/">
-    <span class="image right">
-        <img src="{{ "/images/29835528430_d09a35fc0c_c.jpg" | absolute_url }}" alt="" />
-    </span>
-</a>
-
-When ordered by the Adjutant General, provide an organized, trained, disciplined, rapid response volunteer force to assist state and local government agencies, and civil relief organizations in impending or actual emergencies to assure the welfare and safety of the citizens of Georgia.
-
-### Authorization
-
-<a href="https://www.flickr.com/photos/georgia_state_defense_force/30095984446/in/photostream/">
-    <span class="image right">
-        <img src="{{ "/images/30095984446_3468a6d270_c.jpg" | absolute_url }}" alt="" />
-    </span>
-</a>
-								
-The Georgia State Defense Force is a legally constituted element of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of the State of Georgia.</p>
-
-<a href="https://law.justia.com/codes/us/2018/title-32/chapter-1/sec-109/">32 U.S.C. § 109 (2018)</a>
-
-<a href="https://law.justia.com/codes/georgia/2019/title-38/chapter-2/article-1/part-3/section-38-2-50/">GA Code § 38-2-50 (2019)</a>
+| ![](/images/logo_tr_bg_sm1.png )  | [HQ/HHG](/pages/hhc)|
 								
 
 ### BASIC MISSION ESSENTIAL TASK LIST (BMETL)
 
-<a href="https://www.flickr.com/photos/georgia_state_defense_force/36770203940/">
+<a>
     <span class="image right">
-        <img src="{{ "/images/36770203940_c8dd1cd2db_c.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/GSDF_Photo_2_325372090_1916434092032200_6541789607323624113_n.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 		
@@ -85,7 +114,7 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 
 <a href="https://www.flickr.com/photos/georgia_state_defense_force/49843369601/in/photostream/">
     <span class="image right">
-        <img src="{{ "/images/49843369601_bd736863c8_c.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/COVID_POD_Cans_104167301_3317506181634564_2720087401230414448_n.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 	
@@ -101,9 +130,9 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 8. Disaster Relief Support
 9. Search and Rescue Operations
 10. Military Operations
-    <a href="https://www.flickr.com/photos/georgia_state_defense_force/51176003641/">
+    <a>
         <span class="image right">
-            <img src="{{ "/images/51176003641_9f68053ca1_c.jpg" | absolute_url }}" alt="" />
+            <img src="{{ "/images/GSDF Soldier Walking Toward Plane_311956512_481150017389853_4080600061043775694_n.jpg" | absolute_url }}" alt="" />
         </span>
     </a>
 11. Anti-Terrorism
@@ -132,3 +161,9 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 <p>CLAY NATIONAL GUARD CENTER, Marietta, Ga. October 9, 2016 - Members of the three components of the Georgia Department of Defense monitor Hurricane Matthew response operations during the overnight shift at the Joint Operations Center.</p> 
 <p>Georgia National Guard photo by Capt. William Carraway</p>
 </header>
+
+- - -
+
+## Recomended Youtube Playlist
+
+{% include youtube.html %}
