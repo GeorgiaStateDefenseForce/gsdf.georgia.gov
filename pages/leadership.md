@@ -27,7 +27,7 @@ sitemap:
 
 --- 
 
-# Past Leadership
+# Commanding Generals
 
 | Commanders | Dates |
 |----------------|-------|
