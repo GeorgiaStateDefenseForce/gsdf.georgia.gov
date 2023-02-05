@@ -7,5 +7,7 @@ items:
     link: /pages/history
   - name: About Us
     link: /pages/about
+  - name: Leadership
+    link: /pages/leadership/
   - name: Soldiers Portal
     link: /pages/portal

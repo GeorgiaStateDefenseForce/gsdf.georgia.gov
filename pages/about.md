@@ -42,23 +42,7 @@ When ordered by the Adjutant General, provide an organized, trained, disciplined
   
     
   
----
 
-## Current Leadership
-
-
-<div class="box alt">
-    <div class="row 50% ">
-        <div class="6u">
-            Brig. Gen. Mark D. Gelhardt Sr.
-        <span class="image fit"><img src="{{ "/images/2020-10-09_BG_Gelhardt-offical_Photo_edit.jpg" | absolute_url }}" alt="Commanding General Brig. Gen. Mark D. Gelhardt Sr." /></span>
-        </div>
-        <div class="6u$">
-            Command Sgt. MAJ Robert Bayne
-        <span class="image fit"><img src="{{ "/images/CSM_Bayne_CMD_20220907_edit.jpg" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
-        </div>
-    </div>
-</div>
 
 ---
 
