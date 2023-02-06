@@ -49,7 +49,7 @@ The 5th brigade is made up of volunteers coming from a variety of backgrounds in
 <a href="/pages/join.md">Contact a Recruiter</a>
 </div>
 <br>
-While all GSDF units can operate anywhere in Georgia, the Vikings Area of Responsibility (AOR) covers a very large portion of the state. Drawing a loop including Carrollton, Lagrange, Columbus, Cordele, Hinesville and Augusta just about encompass the entire area. With such a large geographic span to cover we have more than one drill station to work with. Our primary drill stations are shown below.
+While all GSDF units can operate anywhere in Georgia, the Vikings Area of Responsibility (AOR) covers a very large portion of the state. A loop including Carrollton, LaGrange, Columbus, Cordele, Hinesville and Augusta would encompass nearly the entire area. With such a large geographic span to cover we have more than one drill station to work with. Our primary drill stations are shown below.
 
 
 <table>
@@ -77,7 +77,7 @@ While all GSDF units can operate anywhere in Georgia, the Vikings Area of Respon
     <td><b>GSDF METL training activities</b></td>
   </tr>
   <tr>
-    <td>Lagrange National Guard Armory</td>
+    <td>LaGrange National Guard Armory</td>
     <td>LaGrange, GA</td>
     <td><b>Monthly drill support for 1177th Transportation Company</b><br>
     <b>Driver training / Night driver training</b><br>
