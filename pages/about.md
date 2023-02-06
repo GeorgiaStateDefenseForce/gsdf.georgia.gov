@@ -34,7 +34,7 @@ sitemap:
 | ![](/images/OPFOR-gold-patch-on-Black-arrow-icon-e1646752628316.jpg )  | [OPFOR Battalion](/pages/opfor) | 
 | ![](/images/1BDELogo-e1605319549785.jpg )  | [1st BDE](/pages/1bde) |
 | ![](/images/4BDELogo1-e1605714540671.jpg )  | [4th BDE](/pages/4bde) |
-| ![](/images/5bde_coin_70x65.png )  | [5th BDE](/pages/5bde) |
+| ![](/images/5bde_coin_65x60.png )  | [5th BDE](/pages/5bde) |
 | ![](/images/76thCoin-e1605320174988.jpg )  | [76th Spt. BDE](/pages/76bde)
 | ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pages/pao) |
 | ![](/images/logo_tr_bg_sm1.png )  | HQ/HHGC|
