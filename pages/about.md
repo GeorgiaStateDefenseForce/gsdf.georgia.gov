@@ -76,11 +76,14 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 8. Disaster Relief Support
 9. Search and Rescue Operations
 10. Military Operations
+
+
 <a href="https://www.flickr.com/photos/georgia_state_defense_force/51176003641/">
     <span class="image right">
         <img src="{{ "/images/51176003641_9f68053ca1_c.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
+
 11. Anti-Terrorism
 12. Liaison Officer Operations
 13. Chaplain Support
