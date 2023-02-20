@@ -37,7 +37,7 @@ PAO seeks UPARs to assist in various disciplines, including story submission, ph
 
 Become a UPAR!
 
-For more information, contact the GSDF Public Affairs Branch Chief (PAO)
+For more information, contact the GSDF Public Affairs Branch Chief (PAO).
 
  
 
