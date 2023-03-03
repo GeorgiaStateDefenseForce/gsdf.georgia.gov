@@ -38,7 +38,9 @@ The GSDF presented a plaque. The Public Affairs Office (PAO) presented a militar
 
 During the ceremony, Maj. Howard also received numerous other medals and certificates.
 
+<span class="image fit">
 ![](https://live.staticflickr.com/65535/52615130448_e4b4a6886e_o_d.jpg)
+</span>
 
 # Community Service
 
