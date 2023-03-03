@@ -59,5 +59,3 @@ Maj. Clark Howard is a native of Atlanta. He graduated from the American Univers
 Maj. Howard and his wife, Lane, have three children, Rebecca, Stephi, and Grant, and two grandchildren, Clark and Max.
 
 “I am so grateful. This has been the experience of a lifetime for me,” Maj. Howard said during the ceremony. “My heart remains right here in Georgia and with the Georgia State Defense Force.”  
-
-.
