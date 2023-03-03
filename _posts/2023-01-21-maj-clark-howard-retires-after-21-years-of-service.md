@@ -38,7 +38,9 @@ The GSDF presented a plaque. The Public Affairs Office (PAO) presented a militar
 
 During the ceremony, Maj. Howard also received numerous other medals and certificates.
 
+<span class="image fit">
 ![](https://live.staticflickr.com/65535/52615130448_e4b4a6886e_o_d.jpg)
+</span>
 
 # Community Service
 
@@ -56,4 +58,6 @@ Maj. Clark Howard is a native of Atlanta. He graduated from the American Univers
 
 Maj. Howard and his wife, Lane, have three children, Rebecca, Stephi, and Grant, and two grandchildren, Clark and Max.
 
-“I am so grateful. This has been the experience of a lifetime for me,” Maj. Howard said during the ceremony. “My heart remains right here in Georgia and with the Georgia State Defense Force.”
+“I am so grateful. This has been the experience of a lifetime for me,” Maj. Howard said during the ceremony. “My heart remains right here in Georgia and with the Georgia State Defense Force.”  
+
+.
