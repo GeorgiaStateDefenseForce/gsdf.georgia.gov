@@ -92,3 +92,8 @@ https://imagedelivery.net/X2G8U-A7962XEeDR3Zm43Q/f896160e-64e2-4f1c-79ee-b6e0d9d
 https://imagedelivery.net/X2G8U-A7962XEeDR3Zm43Q/f465e259-ba98-4bb9-b263-155be02d5400/public "Command Sgt. Maj. Patrick O’Leary (center) during his retirement ceremony, Nov. 5, 2022. Georgia State Defense Force photo")
 
 ![](https://imagedelivery.net/X2G8U-A7962XEeDR3Zm43Q/4e5ef29b-7c2b-483a-e5ec-19214ee1bf00/public "Georgia State Defense Force (GSDF) Soldiers signed this keepsake banner for retiring Command Sgt. Maj. Patrick O’Leary. He retired from the GSDF on Nov. 5, 2022, Ellenwood, Ga.")
+
+
+
+
+
