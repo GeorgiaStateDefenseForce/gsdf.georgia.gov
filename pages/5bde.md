@@ -100,19 +100,19 @@ While all GSDF units can operate anywhere in Georgia, the Vikings Area of Respon
 
 
 All 5th Brigade units support Direct Support of Civilian Authorities (DSCA), Community Engagement (COMENG), and Military to Military Support (MTMS).
-5th Brigade leads the way in MTMS. The missions we undertake are highly varied and offer a challenging array of engagement. This provides opportunities for soldiers at all levels to develop skills, build relationships and contribute in a meaningful way to the citizens of Georgia when they need help most. Some examples of MTMS missions include:
+5th Brigade leads the way in MTMS. The missions we undertake are highly varied and offer a challenging array of engagement. This provides opportunities for Soldiers at all levels to develop skills, build relationships and contribute in a meaningful way to the citizens of Georgia when they need help most. Some examples of MTMS missions include:
 
 
  - Pre-mobilization Training and Assistance Element (PTAE) means helping troops identify areas of improvement as a starting point for advanced deployment training.
- - Small Arms Leaders Course (SALC) allows soldiers to support National Guard units as they advance their skills on live-fire ranges.
- - Andrew Sullens Marksmanship Competition lets soldiers engage in range support and includes a chance to compete if selected for the GSDF Competitive Marksmanship Team (CMT).
+ - Small Arms Leaders Course (SALC) allows Soldiers to support National Guard units as they advance their skills on live-fire ranges.
+ - Andrew Sullens Marksmanship Competition lets Soldiers engage in range support and includes a chance to compete if selected for the GSDF Competitive Marksmanship Team (CMT).
  - 1/54th Security Forces Assistance Brigade (SFAB) missions provide in-depth training in traditional combat tactics and small unit tactics. This enables SFAB advisors to hone their skills before deployment to assist in training our allies in developing nations.
 
 
 <p align="center">
 <img src="/images/177th_Engineers.png" alt="177th ESC AT-20">
 </p>
-<p align="center">Members of GSDF celebrate the end of a week long training exercise supporting 177th Engineers at Ft. Stewart.</p>
+<p align="center">Soldiers of GSDF celebrate the end of a week long training exercise supporting 177th Engineers at Fort Stewart.</p>
 
 
 <br>
