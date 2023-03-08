@@ -6,9 +6,6 @@ excerpt: "Soldiers pratice for real world disasters with amateur radio operators
 author: gsdf
 image: /images/gsdf-radio-photo-1-kimg2559-1024x765.jpg
 ---
-
-
-
 The Georgia State Defense Force (GSDF) worked with the [Georgia Amateur Radio Emergency Service](https://www.gaares.org) to test radio and satellite communications in the north Georgia mountains on September 24, 2022. See [page 6](https://drive.google.com/file/d/1fP-kcoS7DfWq2PmXIXLePumaQqv2bcDu/view) of the Amateur Radio Relay League Georgia Section newsletter for details.
 
 GSDF annual training occurred at Volunteer Training Site Catoosa, Tunnel Hill, Ga., September 22-25, 2022.
@@ -22,9 +19,3 @@ Men and woman age 18 to 65 are eligible to join us in service. (Special age cons
 Prior military experience is not necessary—we’ll train you.
 
 Call 833-715-4733 to sign up and join us for [adventure](/pages/join/)!
-
-
- 
-   
-   
-   .
