@@ -5,9 +5,11 @@ items:
     link: /pages/join
   - name: History
     link: /pages/history
-  - name: About Us
+  - name: About
     link: /pages/about
-  - name: Leadership
+  - name: Leaders
     link: /pages/leadership/
-  - name: Soldiers Portal
+  - name: Soldiers
     link: /pages/portal
+  - name: Contact us
+    link: /pages/contact
