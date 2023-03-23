@@ -18,5 +18,6 @@ With the recent response to the Covid-19 pandemic, 4BDE spent 6 weeks packing me
 
 4BDE welcomes all interested recruits to contact MSG William Kearns at WILLIAM.KEARNS@GASDF.US for any questions you may have or Join 4th Brigade Now!
 
+## History
 
- ;olskdfjglaoisjgflo;asikdj
+Four score and 7 years ago.. 
