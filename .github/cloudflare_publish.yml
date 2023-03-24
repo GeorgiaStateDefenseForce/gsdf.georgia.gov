@@ -1,11 +1,12 @@
-name: Deploy Jekyll site to Pages
+name: Deploy Jekyll site to Cloudflare
 
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
+    branches:
+      - main
+  pull_request:
+    branches:    
+      - main
   workflow_dispatch: 
 
 
