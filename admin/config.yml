@@ -1,7 +1,7 @@
 backend:
-  site_domain: gasdf.org
+  site_domain: gasdf.com
   name: github
-  repo: GeorgiaStateDefenseForce/gastateguard.com
+  repo: GeorgiaStateDefenseForce/gasdf.org
   branch: main # Branch to update (optional; defaults to master)
   preview_context: cloudflare-pages/deployment
   #base_url: https://www.gastateguard.com
