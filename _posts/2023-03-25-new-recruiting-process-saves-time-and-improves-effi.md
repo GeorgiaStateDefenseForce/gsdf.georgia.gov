@@ -14,7 +14,7 @@ For example, orientation sessions for potential candidates used to occur in pers
 Since 2020, orientations sessions have been virtual.
 This change has allowed potential candidates the convenience of learning about the GSDF—from their computer screens—free of parking pains and traffic snarls.
 
-Scan and Send: Another Change Comes to Recruiting
+### Scan and Send: Another Change Comes to Recruiting
 
 Previously, potential candidates had only one option—to mail in the paperwork for their application.
 That, too, has changed.
