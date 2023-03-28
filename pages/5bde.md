@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 5BDE
+title: 5th Brigade | 5BDE
 description: About the 5BDE
 
 sitemap:
