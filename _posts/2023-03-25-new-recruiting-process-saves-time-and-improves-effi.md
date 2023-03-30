@@ -44,7 +44,7 @@ The GSDF recruiting team has set a goal to receive most applications digitally b
 
 ### Q4. How did the idea come about?
 
-1st Sadir and Staff Sgt. Badrinath Gandavadi comprise the GSDF recruiting team.
+1st Lt. Sadir and Staff Sgt. Badrinath Gandavadi comprise the GSDF recruiting team.
 
 They wondered why so many candidates never sent in their application following the online orientation session. Was it the hassle of going to a post office? Was it the cost of mailing? Or was it mere procrastination?
 
