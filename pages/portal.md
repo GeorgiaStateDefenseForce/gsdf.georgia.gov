@@ -13,6 +13,6 @@ sitemap:
 
 | Link |
 |---|
-|[Document Control](https://sites.google.com/1stbn.us/gsdf-members-portal/home)|
+|[Document Control](https://sites.google.com/gasdf.us/gsdfdocumentcontrol/home)|
 | [Open Positions](https://docs.google.com/document/d/1y7LAQrMQUdXOCXZD24yXep3U3ZSvqf6OiuoG5R6kSZ0/edit?usp=sharing)
 | [GA License Plates](/pages/tag) | [![](/images/GSDF_Plate.jpg)](/pages/tag) |
