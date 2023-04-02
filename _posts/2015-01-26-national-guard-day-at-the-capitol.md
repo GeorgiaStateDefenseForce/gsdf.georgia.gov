@@ -2,7 +2,7 @@
 layout: post
 title: "National Guard Day at the Capitol"
 date: 2015-01-26T22:22:14.059Z
-excerpt: <p><strong>CLAY NATIONAL GUARD CENTER, Marietta, Georgia, January 26, 2015, By PV2 Michael Chapman  –</strong> The Georgia General Assembly designated January 26, 2015 as National Guard Day at the State Capitol.</p>
+excerpt: CLAY NATIONAL GUARD CENTER, Marietta, Georgia, January 26, 2015, By PV2 Michael Chapman The Georgia General Assembly designated January 26, 2015 as National Guard Day at the State Capitol.
 author: gsdf
 image: /images/2015/01/Georgia_State_Capitol_Chapman-300x300.jpg
 ---
