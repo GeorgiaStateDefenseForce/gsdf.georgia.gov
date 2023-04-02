@@ -1,6 +1,6 @@
 
     
-    <form data-static-form-name="join"  action="/pages/joinform/" method="post">
+    <form id="join" data-static-form-name="join"  action="/pages/joinform/" method="post">
       <div class="field">
         <label for="fname">First Name</label>
         <input type="text" name="fname" id="fname" />
@@ -32,6 +32,22 @@
       <div class="field">
         <label for="findout">How did you find out about us?</label>
         <input type="text" name="findout" id="findout" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
+      </div>
+      <div class="field">
+        <label for="preferred">Preferred Unit</label>
+        <select name="preferred" id="preferred" form_id="join">
+          <option value="No Preference">No Preference</option>
+          <option value="1st Brigade">1st Brigade</option>
+          <option value="4th Brigade">4th Brigade</option>
+          <option value="5th Brigade">5th Brigade</option>
+          <option value="76th Support Brigade">76th Support Brigade</option>
+          <option value="132nd Medical Battalion">132nd Medical Battalion</option>
+          <option value="Chaplain Corps">Chaplain Corps</option>
+          <option value="JAG">JAG</option>
+          <option value="OPFOR Battalion">OPFOR Battalion</option>
+          <option value="Public Affairs Office">Public Affairs Office</option>
+          <option value="TRADOC">TRADOC</option>
+        </select>
       </div>
       <ul class="actions">
         <li><input type="Submit" value="Contact Recruiter" /></li>

@@ -13,6 +13,6 @@ sitemap:
 
 | Link |
 |---|
-|[Document Control](https://sites.google.com/1stbn.us/gsdf-members-portal/home)|
+|[Document Control](https://sites.google.com/gasdf.us/gsdfdocumentcontrol/home)|
 | [Open Positions](https://docs.google.com/document/d/1y7LAQrMQUdXOCXZD24yXep3U3ZSvqf6OiuoG5R6kSZ0/edit?usp=sharing)
-| [GA License Plates](https://docs.google.com/document/d/0Bzr2LXnXc6UpWWc4OU9vcmNLeGs/edit?usp=sharing&ouid=116033939342881164773&resourcekey=0-x4UxT0yLeaBpi9XVU0eJSw&rtpof=true&sd=true) | [![](/images/GSDF_Plate.jpg)](https://docs.google.com/document/d/0Bzr2LXnXc6UpWWc4OU9vcmNLeGs/edit?usp=sharing&ouid=116033939342881164773&resourcekey=0-x4UxT0yLeaBpi9XVU0eJSw&rtpof=true&sd=true) |
+| [GA License Plates](/pages/tag) | [![](/images/GSDF_Plate.jpg)](/pages/tag) |
