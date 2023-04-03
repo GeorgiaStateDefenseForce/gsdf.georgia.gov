@@ -2,7 +2,7 @@
 layout: post
 title: "New Recruiting Process Saves Time and Improves Efficiencies"
 date: 2023-03-25T22:22:14.059Z
-excerpt: An Interview with 1st Lt. Sadir Guillermo, Branch Chief, GSDF Recruiting
+excerpt: An Interview with 1st Lt. Guillermo Sadir, Branch Chief, GSDF Recruiting
 author: gsdf
 image: /images/GSDF_Recruiting_Team_25_32_IMG_1666a.jpg
 ---
