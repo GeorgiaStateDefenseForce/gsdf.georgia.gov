@@ -11,18 +11,14 @@ export const onRequest: PagesFunction = mailChannelsPlugin({
   ],
     from: { name: "Website Form", email: "noreply@gasdf.us" },
     subject: (formData) => { 
+      const message = formData.get("message");
 
-
-
-        try {
-            const message = formData.get('message')
-            return "<SPAM> New contact form submission <SPAM>"
-        }
-        catch (e) {
-            return "New contact form submission"
-        }
-
-        
+      if (message && message.trim().length > 0) {
+        return "<SPAM> New contact form submission <SPAM>";
+      } else {
+        return "New contact form submission";
+      }
+      
         
 
     },
