@@ -11,10 +11,10 @@ sitemap:
 
 # OPFOR Battalion
 
-Area of Operations: Ft Stewart, Forsyth County and Fulton County, Georgia
+Area of Operations: Ft. Stewart, Forsyth County and Fulton County, Georgia
 
-Opposing Force (OPFOR): a special unit tasked with emulating the enemy tactics for the purposes of military training
-OPFOR Battalion is a separate unit that was established by the Georgia State Defense Force in 2018 to conduct support operations to Georgia  Army National Guard during the combat training.
+Opposing Force (OPFOR): a special unit tasked with emulating the enemy tactics for the purposes of military training.
+OPFOR Battalion is a separate unit that was established by the Georgia State Defense Force in 2018 to conduct support operations to Georgia Army National Guard during pre-deployment preparation and training.
 
 OPFOR Battalion soldiers drill monthly and participate in regular training at armories and military installations throughout Georgia.
 To simulate Conventional and Irregular Warfare scenarios in Potential Operational Environments, OPFOR soldiers have to be physically fit, mentally strong and be able to deploy at short notice.
