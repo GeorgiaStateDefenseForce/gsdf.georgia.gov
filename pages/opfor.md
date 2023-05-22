@@ -19,6 +19,8 @@ OPFOR Battalion is a separate unit that was established by the Georgia State Def
 OPFOR Battalion soldiers drill monthly and participate in regular training at armories and military installations throughout Georgia.
 To simulate Conventional and Irregular Warfare scenarios in Potential Operational Environments, OPFOR soldiers have to be physically fit, mentally strong and be able to deploy at short notice.
 
+![The San Juan Mountains were tough for OPFOR to climb!](/images/sanjuanmountains.png "OPFOR Crushed the San Juan Mountains")
+
 OPFOR Battalion is composed of the following:
 
 Headquarters and Headquarters Company (Husky). Located in Cumming, GA, and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team, the HQ oversees operations, intelligence, personnel and recruiting.
