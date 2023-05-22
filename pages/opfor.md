@@ -19,7 +19,7 @@ OPFOR Battalion is a separate unit that was established by the Georgia State Def
 OPFOR Battalion soldiers drill monthly and participate in regular training at armories and military installations throughout Georgia.
 To simulate Conventional and Irregular Warfare scenarios in Potential Operational Environments, OPFOR soldiers have to be physically fit, mentally strong and be able to deploy at short notice.
 
-![The San Juan Mountains were tough for OPFOR to climb!](/images/sanjuanmountains.png "OPFOR Crushed the San Juan Mountains")
+<span class="image fit"><img src="{{ "/images/sanjuanmountains.png" | absolute_url }}" alt="The San Juan Mountains were tough for OPFOR to climb!" /></span>
 
 OPFOR Battalion is composed of the following:
 
