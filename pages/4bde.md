@@ -8,6 +8,8 @@ sitemap:
     changefreq: yearly
 ---
 
+![arch](/images/4BDELogo1-e1605714540671.jpg)
+
 # 4th Brigade
 
 4th Brigade is Headquartered in Ashburn, Georgia. Our Area of Operation covers all South Georgia from the Alabama Line to the Coast and from Crisp County to Florida.
