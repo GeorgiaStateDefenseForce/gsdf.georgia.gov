@@ -2,7 +2,7 @@
 layout: post
 title: "Soldiers at the Big Shanty Festival "
 date: 2023-04-22T17:17:12.560Z
-excerpt: "Soldiers conduct walking patrols during the Big Shanty Festival "
+excerpt: "Soldiers Conduct Walking Patrols During The Big Shanty Festival "
 author: gsdf
 image: /images/346627477_1253028495585317_8791833766945600801_n.jpg
 ---
