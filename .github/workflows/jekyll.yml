@@ -53,12 +53,15 @@ jobs:
           directory: _site
           # Optional: Enable this if you want to have GitHub Deployments triggered
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Show URL
+        run: echo ${{ steps.cloudflare_publish.outputs.url }}
 
       - name: Set final commit status
         uses: myrotvorets/set-commit-status-action@v1.1.7
         if: always()
         with:
+          targetUrl: ${{ steps.cloudflare_publish.outputs.url }}
           token: ${{ secrets.GITHUB_TOKEN }}
           status: ${{ job.status }}
           context: Build Jekyll and Deploy to Cloudflare Pages
-          targetUrl: ${{ steps.cloudflare_publish.outputs.url }}
