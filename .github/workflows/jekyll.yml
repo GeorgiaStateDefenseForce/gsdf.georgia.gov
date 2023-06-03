@@ -44,7 +44,8 @@ jobs:
         env:
           JEKYLL_ENV: production
         
-      - name: cloudflare_publish
+      - name: Cloudflare Pages Publish
+        id: cloudflare
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -55,13 +56,13 @@ jobs:
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Show URL
-        run: echo ${{ steps.cloudflare_publish.outputs.url }}
+        run: echo ${{ steps.cloudflare.outputs.url }}
 
       - name: Set final commit status
         uses: myrotvorets/set-commit-status-action@v1.1.7
         if: always()
         with:
-          targetUrl: ${{ steps.cloudflare_publish.outputs.url }}
+          targetUrl: ${{ steps.cloudflare.outputs.url }}
           token: ${{ secrets.GITHUB_TOKEN }}
           status: ${{ job.status }}
           context: Build Jekyll and Deploy to Cloudflare Pages
