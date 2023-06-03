@@ -22,6 +22,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
+      - name: Set initial commit status
+        uses: myrotvorets/set-commit-status-action@v1.1.7
+        if: always()
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          status: pending
+          context: Build Jekyll and Deploy to Cloudflare Pages     
+          
       - uses: actions/setup-node@v3
         with:
           node-version: lts/*
