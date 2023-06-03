@@ -2,7 +2,7 @@
 layout: post
 title: Senator Rick Williams and Georgia Representative Karen Mathiak visit a
   NCO graduation
-date: 2023-06-03T16:44:38.197Z
+date: 2023-05-13T16:44:38.197Z
 excerpt: Senator Rick Williams and Georgia Rep. Karen Mathiak visit a graduation
   course in Forsyth, Ga
 author: gsdf
