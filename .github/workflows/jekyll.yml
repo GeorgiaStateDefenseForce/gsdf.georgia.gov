@@ -16,6 +16,7 @@ jobs:
     permissions:
       contents: read
       deployments: write
+      statuses: write
     name: Publish to Cloudflare Pages
     steps:
       - name: Checkout
