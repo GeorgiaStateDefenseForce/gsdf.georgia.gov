@@ -33,7 +33,7 @@ collections:
     label: "Frontline News"
     folder: "_posts/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "news/{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "news/{{slug}}"
     preview_path_date_field: "date"
     editor:
       preview: true
