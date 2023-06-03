@@ -6,7 +6,7 @@ excerpt: "Soldiers conduct walking patrols during the Big Shanty Festival "
 author: gsdf
 image: /images/346627477_1253028495585317_8791833766945600801_n.jpg
 ---
-[Georgia State Defense Force](https://www.facebook.com/GeorgiaSDF?__cft__[0]=AZVMZb88GJ8tNC9_BgeKZN_oyGyuGuTorzvialLgng4tFCl-PQSyUN3pY9R-Fn7Eq1s7_JMC80Z0gp8GVh9he1dc6MtDVICusDRE5ODVyZhmoOOLoK5MFjbZW69at812R-LaK0t7tobGW2Ummp4NogfzwECi69xayCBJt6Ex9AbDygv_ZbhKYKulDx6YbbB6sbw&__tn__=-]K-R) (GSDF) Soldiers conduct walking patrols during the Big Shanty Festival, Kennesaw, Ga., April 22-23, 2023.
+Georgia State Defense Force (GSDF) Soldiers conduct walking patrols during the Big Shanty Festival, Kennesaw, Ga., April 22-23, 2023.
 
 GSDF Soldiers from the 1st Brigade's 2nd Battalion assisted with crowd/traffic control. Soldiers also shared information about the GSDF.
 
