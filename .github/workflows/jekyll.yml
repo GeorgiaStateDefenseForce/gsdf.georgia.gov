@@ -28,7 +28,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           status: pending
-          context: Build Jekyll and Deploy to Cloudflare Pages     
+          context: cloudflare-pages/deployment  
           
       - uses: actions/setup-node@v3
         with:
@@ -73,4 +73,4 @@ jobs:
           targetUrl: ${{ steps.cloudflare.outputs.url }}
           token: ${{ secrets.GITHUB_TOKEN }}
           status: ${{ job.status }}
-          context: Build Jekyll and Deploy to Cloudflare Pages
+          context: cloudflare-pages/deployment
