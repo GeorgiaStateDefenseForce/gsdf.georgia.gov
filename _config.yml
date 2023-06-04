@@ -32,7 +32,7 @@ defaults:
       path: ""
       type: posts
     values:
-      permalink: "/news/:title/"
+      permalink: "/news/:year-:month-:day-:title"
       layout: post
       author:
   - scope:
