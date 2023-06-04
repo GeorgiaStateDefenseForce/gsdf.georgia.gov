@@ -16,11 +16,20 @@ jobs:
     permissions:
       contents: read
       deployments: write
+      statuses: write
     name: Publish to Cloudflare Pages
     steps:
       - name: Checkout
         uses: actions/checkout@v3
         
+      - name: Set initial commit status
+        uses: myrotvorets/set-commit-status-action@v1.1.7
+        if: always()
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          status: pending
+          context: cloudflare-pages/deployment  
+          
       - uses: actions/setup-node@v3
         with:
           node-version: lts/*
@@ -43,7 +52,8 @@ jobs:
         env:
           JEKYLL_ENV: production
         
-      - name: Publish to Cloudflare Pages
+      - name: Cloudflare Pages Publish
+        id: cloudflare
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -52,3 +62,15 @@ jobs:
           directory: _site
           # Optional: Enable this if you want to have GitHub Deployments triggered
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Show URL
+        run: echo ${{ steps.cloudflare.outputs.url }}
+
+      - name: Set final commit status
+        uses: myrotvorets/set-commit-status-action@v1.1.7
+        if: always()
+        with:
+          targetUrl: ${{ steps.cloudflare.outputs.url }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          status: ${{ job.status }}
+          context: cloudflare-pages/deployment
