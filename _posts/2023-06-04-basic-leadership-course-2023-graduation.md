@@ -23,4 +23,4 @@ In attendance were Georgia Senate Member, Honorable Ricky Alvin Williams and Geo
 
 More photos available on the [GSDF Flickr](https://flic.kr/s/aHBqjADEqL):
 
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/georgia_state_defense_force/albums/72177720308259484" title="BLC Graduation (Honored Guests) GPSTC  01132023"><img src="https://live.staticflickr.com/65535/52894934377_4b708a612f_z.jpg" width="600" height="800" alt="BLC Graduation (Honored Guests) GPSTC  01132023"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/georgia_state_defense_force/albums/72177720308259484" title="BLC Graduation (Honored Guests) GPSTC  01132023"><img src="https://live.staticflickr.com/65535/52900831422_6531e390ac_c.jpg" width="100%" alt="BLC Graduation (Honored Guests) GPSTC  01132023"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
