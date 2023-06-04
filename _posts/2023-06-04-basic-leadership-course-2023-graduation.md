@@ -3,7 +3,7 @@ layout: post
 title: "Basic Leadership Course 2023 Graduation "
 date: 2023-06-04T16:48:34.366Z
 excerpt: Soldiers graduate the basic leadership course, now ready to service as NCO's
-author: kerryhatcher
+author: tarynevans
 image: https://live.staticflickr.com/65535/52900833187_f28048d0f4_c.jpg
 ---
 `Georgia State Defense Force photo by SSG Kerry Hatcher`
