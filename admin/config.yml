@@ -1,5 +1,5 @@
 backend:
-  site_domain: gasdf.com
+  site_domain: gsdf.georgia.gov
   name: github
   repo: GeorgiaStateDefenseForce/gasdf.org
   branch: main # Branch to update (optional; defaults to master)
@@ -73,5 +73,5 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "author" }
       - { label: "Short Name", name: "name", widget: "string" }
       - { label: "Display Name", name: "display_name", widget: "string" }
-      - { label: "Position", name: "position", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Rank", name: "rank", widget: "string" }
+      - { label: "Biography", name: "body", widget: "markdown" }
