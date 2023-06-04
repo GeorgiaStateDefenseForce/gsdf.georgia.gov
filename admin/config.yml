@@ -64,6 +64,8 @@ collections:
   - name: "authors"
     label: "Authors"
     folder: "_authors/"
+    slug: "{{name}}"
+    identifier_field: "name'
     create: true
     editor:
       preview: false
