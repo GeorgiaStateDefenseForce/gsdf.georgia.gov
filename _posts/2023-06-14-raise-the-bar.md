@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raise the Bar!
-date: 2023-06-14T22:46:39.478Z
+date: 2023-06-04T22:46:39.478Z
 excerpt: "PAO Branch Chief Capt. Beverly Shepard recently interviewed retired
   Command Sgt. Maj. Rodney “Rod” Akers, co-founder of the Georgia State Defense
   (GSDF)  1ST Engineer Battalion.  "
