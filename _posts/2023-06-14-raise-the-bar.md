@@ -41,6 +41,6 @@ Currently, 66 Soldiers in the GSDF are certified chainsaw operators.
 
 **A**.  “Find ways to raise your own bar—to be a better person, to be a better Soldier, and to better serve the citizens of Georgia.”
 
-![](/images/gsfd-akers-3-_52967308080_d6d6aa5f83_o.jpg)
+![](/images/gsfd-akers-3-_52967308080_d6d6aa5f83_o.jpg){:class="full"}
 
-![](/images/gsdf-akers-452966933651_9696823479_o.jpg)
+![](/images/gsdf-akers-452966933651_9696823479_o.jpg){:class="full"}
