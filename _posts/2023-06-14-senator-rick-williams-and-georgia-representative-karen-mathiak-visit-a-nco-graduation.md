@@ -13,8 +13,8 @@ The GSDF is a component of the Georgia Department of Defense, along with the Geo
 
 Georgia State Defense Force photos by Chief Warrant Officer 3 Raymond Clunie and Staff Sgt. Kerry Hatcher
 
-![](/images/1.jpeg)
+![](/images/1.jpeg){:class="full"}
 
-![](/images/2.jpeg)
+![](/images/2.jpeg){:class="full"}
 
-![](/images/3.jpeg)
+![](/images/3.jpeg){:class="full"}
