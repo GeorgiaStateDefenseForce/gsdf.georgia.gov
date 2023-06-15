@@ -2,8 +2,8 @@
 layout: post
 title: Raise the Bar!
 date: 2023-06-04T22:46:39.478Z
-excerpt: "Command Sgt. Maj. Rodney “Rod” Akers, co-founder of the Georgia State
-  Defense (GSDF)  1ST Engineer Battalion, retires.  "
+excerpt: "Command Sgt. Maj. Rod Akers, co-founder of the Georgia State Defense
+  (GSDF)  1ST Engineer Battalion, retires.  "
 author: beverlyshepard
 image: /images/gsf-aker-adj_52967074879_debf5f4df6_o-1-.jpg
 ---
