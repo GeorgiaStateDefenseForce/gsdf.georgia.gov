@@ -13,7 +13,7 @@ He retired on June 4, 2023.
 
 *F﻿ollowing his retirement, he consented to this interview with PAO Branch Chief Capt. Beverly Shepard*
 
-**U.S. Marine Corps**
+##### **U.S. Marine Corps**
 
 In the U.S. Marines Corps, he was a radio communicator, combat engineer, and designated marksman. 
 He served three tours of duty in Vietnam. He earned a Purple Heart, with Star.
