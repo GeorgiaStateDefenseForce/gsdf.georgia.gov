@@ -2,18 +2,18 @@
 layout: post
 title: Raise the Bar!
 date: 2023-06-04T22:46:39.478Z
-excerpt: "PAO Branch Chief Capt. Beverly Shepard recently interviewed retired
-  Command Sgt. Maj. Rodney “Rod” Akers, co-founder of the Georgia State Defense
-  (GSDF)  1ST Engineer Battalion.  "
+excerpt: "Command Sgt. Maj. Rodney “Rod” Akers, co-founder of the Georgia State
+  Defense (GSDF)  1ST Engineer Battalion, retires.  "
 author: beverlyshepard
 image: /images/gsf-aker-adj_52967074879_debf5f4df6_o-1-.jpg
 ---
-Command Sgt. Maj. Akers spent 32 years in uniform—20 years in the U.S. Marine Corps and 12 years in the GSDF.\
+Command Sgt. Maj. Akers spent 32 years in uniform—20 years in the U.S. Marine Corps and 12 years in the GSDF.
 
 He retired on June 4, 2023.
 
-##### \
-U.S. Marine Corps
+*F﻿ollowing his retirement, he consented to this interview with PAO Branch Chief Capt. Beverly Shepard*
+
+**U.S. Marine Corps**
 
 In the U.S. Marines Corps, he was a radio communicator, combat engineer, and designated marksman. 
 He served three tours of duty in Vietnam. He earned a Purple Heart, with Star.
@@ -25,7 +25,6 @@ In the GSDF, Command Sgt. Maj. Akers was Commandant for Initial Entry Training (
 ###### GSDF 1st Engineer Battalion
 
 In 2017, he joined Col. Thompson, then Maj. Thompson, in co-founding the GSDF 1st Engineer Battalion. The 1st Engineer Battalion is a part of the GSDF 76th Support Brigade.
-
 
 **Q**. What role does the 1st Engineer Battalion play?\
 
