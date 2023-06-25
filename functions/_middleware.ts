@@ -1,38 +1,55 @@
-import mailChannelsPlugin from "@cloudflare/pages-plugin-mailchannels";
+// Documentation for this plugin: https://developers.cloudflare.com/pages/platform/functions/plugins/mailchannels/
+// Will capture anything from a form with a 'data-static-form-name' attribute
+// For example: <form data-static-form-name="contact">
 
-export const onRequest: PagesFunction = mailChannelsPlugin({
-  personalizations: [
-    {
-      to: [
-        { name: "Kerry Hatcher", email: "kerry.hatcher@gasdf.us" },
-        { name: "Join", email: "join@gasdf.us" }
-      ],
+// Replace this with your own email, otherwise the Mailchannel API will reject it:
+const myEmail = "noreply@gasdf.us"
+
+import mailChannelsPlugin from "@cardiff.marketing/pages-plugin-mailchannels";
+
+// Required properties: "personalizations", "from", "respondWith".
+// Optional Properties: "subject", "content". 
+export const onRequest: PagesFunction = mailChannelsPlugin({turnstile: true, personalizations: emailPersonalizations, from: emailFrom, subject: emailSubject,  respondWith: formResponse});
+
+// Required. Must have "name" and "email" as below. The Mailchannel API will reject 'unsafe' email addresses. See their docs for more info.
+function emailPersonalizations() {
+  return [{to: [
+    { name: "Ryan Taylor", email: "george.taylor@gasdf.us"},
+    { name: "Kerry Hatcher", email: "kerry.hatcher@gasdf.us"},
+    { name: "Join", email: "join@gasdf.us"}
+    ],
     },
-  ],
-    from: { name: "Website Form", email: "noreply@gasdf.us" },
-    subject: (formData) => { 
+  ]
+}
 
+// Required. Must contain name and email. The Mailchannel API will reject 'unsafe' email addresses. See their docs for more info.
+function emailFrom(data) {
+  return {name: "Website Form", email: myEmail}
+}
 
+// Required. Must be a Response object. This example is a redirect but any Response is valid.
+// https://developer.mozilla.org/en-US/docs/Web/API/Response
+function formResponse() {
+  return Response.redirect('https://www.gasdf.com/pages/joinform/', 302)
+}
 
-        try {
-            const message = formData.get('message')
-            return "<SPAM> New contact form submission <SPAM>"
-        }
-        catch (e) {
-            return "New contact form submission"
-        }
+// "subject" is Optional. This is the default template in the package but I've copied it here to make it easier to edit.
+function emailSubject(data) {
+  return `${ data.name } form submission from: ` + data.formData.get("email")
+}
 
-        
-        
-
-    },
-  respondWith: (formData) => {
-    // return new Response(`Thank you for submitting your enquiry. A member of the team will be in touch shortly.`);
-      
-      
-    return new Response(null, {
-      status: 302,
-      headers: { Location: "/pages/joinform/" },
-    });
-  },
-});
+// "content" is Optional. This is the default template in the package but I've copied it here to make it easier to edit.
+function emailContent(data) {
+  return `<!DOCTYPE html>
+  <html>
+    <body>
+      <h1>New contact form submission</h1>
+      <div>At ${new Date().toISOString()}, you received a new ${data.name} form submission from ${data.request.headers.get("CF-Connecting-IP")}:</div>
+      <table>
+      <tbody>
+      ${[...data.formData.entries()].map(([field, value]) => `<tr><td><strong>${field}</strong></td><td>${value}</td></tr>`).join("\n")}
+      </tbody>
+      </table>
+    </body>
+  </html>`;
+}

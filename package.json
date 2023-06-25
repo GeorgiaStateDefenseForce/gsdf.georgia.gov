@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GeorgiaStateDefenseForce/gastateguard.com#readme",
   "dependencies": {
+    "@cardiff.marketing/pages-plugin-mailchannels": "github:yhorian/pages-plugin-mailchannels",
     "@cloudflare/pages-plugin-mailchannels": "^0.1.1",
     "@cloudflare/pages-plugin-static-forms": "^1.0.0"
   },
