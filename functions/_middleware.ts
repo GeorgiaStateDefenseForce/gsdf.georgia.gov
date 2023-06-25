@@ -13,7 +13,13 @@ export const onRequest: PagesFunction = mailChannelsPlugin({turnstile: true, per
 
 // Required. Must have "name" and "email" as below. The Mailchannel API will reject 'unsafe' email addresses. See their docs for more info.
 function emailPersonalizations() {
-  return [{to: [{ name: "Ryan Taylor", email: "george.taylor@gasdf.us" }],},]
+  return [{to: [
+    { name: "Ryan Taylor", email: "george.taylor@gasdf.us"},
+    { name: "Kerry Hatcher", email: "kerry.hatcher@gasdf.us"},
+    { name: "Join", email: "join@gasdf.us"}
+    ],
+    },
+  ]
 }
 
 // Required. Must contain name and email. The Mailchannel API will reject 'unsafe' email addresses. See their docs for more info.
