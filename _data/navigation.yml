@@ -7,8 +7,6 @@ items:
     link: /pages/history
   - name: About
     link: /pages/about
-  - name: Leaders
-    link: /pages/leadership/
   - name: Soldiers
     link: /pages/portal
   - name: Contact us
