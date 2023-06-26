@@ -3,13 +3,11 @@ layout: page
 title: Leadership
 description: Leadership
 sitemap:
-    priority: 0.7
-    lastmod: 2021-10-08
-    changefreq: yearly
+  priority: 0.7
+  lastmod: 2021-10-08
+  changefreq: yearly
 ---
-
 # Current Leadership
-
 
 <div class="box alt">
     <div class="row 50% ">
@@ -24,17 +22,16 @@ sitemap:
     </div>
 </div>
 
-
---- 
+- - -
 
 # Commanding Generals
 
-| Commanders | Dates |
-|----------------|-------|
-| BG Mark D. Gelhardt, Sr. | Dec 5, 2020 – Present |
-| BG Thomas H. Blackstock, Jr.   |  Nov 3, 2018 – Dec 4, 2020
-| BG Thomas Danielson  | Sept 7, 2013 – Nov 2, 2018 |
-| BG Jerry J. Bradford  | Nov 9, 2008 – Sept 6, 2013 |
-| BG Michael Edward McGuinn III    | Nov 5, 2005 – Nov 8, 2008 |
-| BG Joel W. Seymour  |  	Oct 23, 1994 – Nov 4 2005 |
-| BG John Gillette   | Aug 24, 1985 – Oct 22, 1994 |
+| Commanders                    | Dates                       |
+| ----------------------------- | --------------------------- |
+| BG Mark D. Gelhardt, Sr.      | Dec 5, 2020 – June 23, 2023 |
+| BG Thomas H. Blackstock, Jr.  | Nov 3, 2018 – Dec 4, 2020   |
+| BG Thomas Danielson           | Sept 7, 2013 – Nov 2, 2018  |
+| BG Jerry J. Bradford          | Nov 9, 2008 – Sept 6, 2013  |
+| BG Michael Edward McGuinn III | Nov 5, 2005 – Nov 8, 2008   |
+| BG Joel W. Seymour            | Oct 23, 1994 – Nov 4 2005   |
+| BG John Gillette              | Aug 24, 1985 – Oct 22, 1994 |
