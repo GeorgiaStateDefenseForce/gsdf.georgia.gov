@@ -5,7 +5,7 @@
 // Replace this with your own email, otherwise the Mailchannel API will reject it:
 const myEmail = "noreply@gasdf.us"
 
-import mailChannelsPlugin from "@cardiff.marketing/pages-plugin-mailchannels";
+import mailChannelsPlugin from "@GeorgiaStateDefenseForce/pages-plugin-mailchannels";
 
 // Required properties: "personalizations", "from", "respondWith".
 // Optional Properties: "subject", "content". 

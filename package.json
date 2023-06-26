@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/GeorgiaStateDefenseForce/gastateguard.com#readme",
   "dependencies": {
-    "@cardiff.marketing/pages-plugin-mailchannels": "github:yhorian/pages-plugin-mailchannels",
+    "@cardiff.marketing/pages-plugin-mailchannels": "github:GeorgiaStateDefenseForce/pages-plugin-mailchannels",
     "@cloudflare/pages-plugin-mailchannels": "^0.1.1",
-    "@cloudflare/pages-plugin-static-forms": "^1.0.0"
+    "@cloudflare/pages-plugin-static-forms": "^1.0.0",
+    "@GeorgiaStateDefenseForce/pages-plugin-mailchannels": "github:GeorgiaStateDefenseForce/pages-plugin-mailchannels"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230321.0",
