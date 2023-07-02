@@ -8,7 +8,7 @@
 // });
 
 export async function onRequestPost(context) {
-  try {
+  // try {
     let input = await context.request.formData();
     // Convert FormData to JSON
     // NOTE: Allows multiple values per key
@@ -22,9 +22,10 @@ export async function onRequestPost(context) {
         output[key] = [].concat(tmp, value);
       }
     }
-  } catch (err) {
-    return new Response('Error parsing JSON content', { status: 400 });
-  }
+    console.log(input);
+  // } catch (err) {
+    // return new Response('Error parsing JSON content', { status: 400 });
+  // }
 
   let token, secret;
   token = input.get('cf-turnstile-response') ? input.get('cf-turnstile-response').toString() : false;
