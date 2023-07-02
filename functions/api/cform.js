@@ -12,7 +12,7 @@ export async function onRequestPost(context) {
     let input = await context.request.formData();
     // Convert FormData to JSON
     // NOTE: Allows multiple values per key
-    console.log(input);
+    // console.log(input);
     let output = {};
     for (let [key, value] of input) {
       let tmp = output[key];
@@ -68,13 +68,13 @@ export async function onRequestPost(context) {
   // googleFormData.append('entry.1514106883', formData.get("findout").toString());
   // googleFormData.append('entry.909904957', formData.get("preferred").toString());
   // console.log(googleFormData);
-  let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
-  let googleResult = await fetch(googleUrl, {
-    body: input,
-    method: 'POST',
-  });
-  let googleOutcome = await googleResult.json();
-  console.log(googleOutcome);
+  // let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
+  // let googleResult = await fetch(googleUrl, {
+  //   body: input,
+  //   method: 'POST',
+  // });
+  // let googleOutcome = await googleResult.json();
+  // console.log(googleOutcome);
 
 
 
