@@ -7,7 +7,8 @@
 //   }
 // });
 
-export async function onRequestPost(context, env) {
+export async function onRequestPost(context) {
+  return new Response(context.TURNSTILE_KEY, { status: 400 });
   // try {
     let input = await context.request.formData();
     // Convert FormData to JSON
