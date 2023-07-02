@@ -7,7 +7,7 @@
 //   }
 // });
 
-export async function onRequestPost(context) {
+export async function onRequestPost(context, env) {
   // try {
     let input = await context.request.formData();
     // Convert FormData to JSON
