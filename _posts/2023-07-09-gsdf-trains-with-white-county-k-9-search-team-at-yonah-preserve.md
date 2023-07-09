@@ -23,8 +23,6 @@ The WCCERT/SAR led 4BN/1BDE Soldiers in a training field exercise, applying the 
 
 ![Georgia State Defense Force Soldiers from the 4BN/1BDE train with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Handler Donna Frady and “Mae” (center) at Yonah Preserve, White County, Ga., August 13, 2022. Photo: 1st Sgt. Richard Morley, Sgt. Joseph Meguin, Spc. Darryl Overall, and Spc. Osvaldo Vilomar](/images/img_1992.jpg)
 
-2022/09/IMG_1992.jpg
-
 *Georgia State Defense Force Soldiers from the 4BN/1BDE train with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Handler Donna Frady and “Mae” (center) at Yonah Preserve, White County, Ga., August 13, 2022. Photo: 1st Sgt. Richard Morley, Sgt. Joseph Meguin, Spc. Darryl Overall, and Spc. Osvaldo Vilomar*
 
 *Photo by Gustavo “Gus” Fluxha, WCCERT/SAR* 
