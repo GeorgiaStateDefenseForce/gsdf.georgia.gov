@@ -38,3 +38,41 @@ Georgia State Defense Force photo by Spc. Lauren Boyle-Estheimer\
 For one Soldier, this training exercise reinforced his reason for serving in the GSDF.\
 \
 “I wanted to get out in the woods, stay active, and more importantly, help people and give back to the community,” said Pvt. George Taylor, who joined the GSDF earlier this year.
+
+D﻿avidson starting here
+
+**A Mission Complement**
+
+When asked how the GSDF can complement their real-world missions, Leah explained. "The training we had today really aligns with in the future. When there’s a call, you’ll know what we can do, and we know what you can do, and we can work together,” she said. “Sometimes, to get a fully trained team out there, I might not be able to get as many personnel that \[the GSDF] can get. So, we would definitely be able to complement each other."
+
+/2022/09/IMG_4399.jpg
+
+Who’s a good dog? “Leigha,” a SAR K9, is a six-year-old Shepherd- boxer mix. 
+
+Georgia State Defense Force photo by Spc. Lauren Boyle-Estheimer
+
+One of the 4BN's goals, as set by 4BN/1 BDE Commander Lt. Col. Kiker, is being a force-multiplier for civilian agencies, in various capacities. “We will definitely have future joint trainings with their team,” Capt. Mayger said. “Basically, it prepares us to integrate with civilian forces when we go on CERT or other civilian agency searches. Additionally, they have more experience involving incident command scenarios so the more we are able to train with their team, the better prepared we are for similar situations.”
+
+**The 4BN/1BDE**
+
+The 4BN/1BDE’s primary training area of operation is the Pine Valley Outdoor Recreation Facility. The 4BN, which specializes in wilderness SAR, maintains readiness to provide skilled assistance to local authorities in efforts to find lost persons, as well as to deploy in support of natural disasters relief operations in Georgia.
+
+During this exercise, Soldiers also trained on utilizing the preferred SAR technology, SARTopo, in the field while communicating situational awareness with the tactical operations center (TOC). SARTopo allows the TOC to create a search map of the area to be used to track the field personnel in real-time, easily mark items of interest, and coordinate the search effort using real-time wind and shading effects. Additionally, all field personnel have the same view of the SAR area of operation that the TOC is viewing.
+
+“SAR operations continue to evolve with new technology and resources,” said Lt. Col. Kiker. “This training is an example of our intent and efforts to add to our skill sets and remain current in our capabilities and productive in future SAR missions.”
+
+/2022/09/IMG_2683v2.jpg
+
+Georgia State Defense Force Soldiers train with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) and dogs, “Leigha,” and “Mae,” at Yonah Preserve, White County, Ga., August 13, 2022.
+
+Georgia State Defense Force photo by Capt. Ken Mayger
+
+**Acknowledgements**
+
+The GSDF 4BN/1BDE would like to thank the White County CERT/SAR Team for providing our Soldiers with an introduction to basic K9 search operations and techniques, as well as assisting our unit in gaining access to the Yonah Preserve to train for this mission-critical exercise.
+
+**Join Today!**
+
+If you are interested in joining the **WCCERT/SAR**, visit the White County Office of Public Safety | White County Georgia website (whitecountyga.gov), or email Leah Torregiano at: ltorregiano@whitecounty.net
+
+If you are interested in joining the GSDF, call **770-750-4232**. The GSDF is a component of the Georgia Department of Defense.
