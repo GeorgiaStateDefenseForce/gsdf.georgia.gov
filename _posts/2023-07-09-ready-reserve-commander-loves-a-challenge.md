@@ -2,7 +2,7 @@
 layout: post
 title: " Ready Reserve Commander Loves a Challenge"
 date: 2022-08-30T21:39:00.000Z
-excerpt: " Ready Reserve Commander Loves a Challenge"
+excerpt: Ready Reserve Commander Loves a Challenge
 author: gsdf
 image: /images/gsdf-adj-rodrigues-army-photo-picture1-150x150.jpg
 ---
