@@ -11,10 +11,6 @@ By Maj. James LeMay, Commander, 2nd Battalion, 1st Brigade, Georgia State Defens
 \
 This weekend, an army of volunteers made their way to the national cemeteries. Armed with American flags and a heart full of compassion, they made hallowed ground come to life. For two decades, the 2nd battalion 1st brigade ("the 2/1") has offered security and support. Shaped up and squared away—this is our holy mission. As commander, I know we represent today's military. We take the task seriously and feel privileged to honor all those who came before us.
 
-
-
-
-
 ![Soldiers from the Georgia State Defense Force 1st Brigade, 2nd Battalion hold a Memorial Day tribute, Marietta National Cemetery, Marietta, Ga., May 30, 2022.](/images/original-t1-dress-blues_lighter_li33a_playing-the-bugle-photo_save-as-dsc_0067-for-ewrc-1-.jpg)
 
 *Soldiers from the Georgia State Defense Force 1st Brigade, 2nd Battalion hold a Memorial Day tribute, Marietta National Cemetery, Marietta, Ga., May 30, 2022.*
@@ -25,11 +21,11 @@ This year felt different. We noticed more family, friends, and battle buddies we
 
 The Soldiers of the 2/1 leave you this Memorial Day with one request: As we all look for ways to spend more time outdoors, take a minute, mark your calendars, and make a commitment to visit a national cemetery near you. Bring the whole family, leave your phone in your pocket, and be prepared to sit and take in the silence. If you want to honor all these fallen heroes—read, remember, and never forget.
 
-/2022/05/GSDF-ADJ-44-Memorial-Day-Salute_-DSC_0058.jpeg
+![Soldiers from the Georgia State Defense Force 1st Brigade, 2nd Battalion (the "2/1") hold a Memorial Day tribute, Marietta National Cemetery, Marietta, Ga., May 30, 2022. This 2/1 tradition has continued for two decades.](/images/gsdf-adj-44-memorial-day-salute_-dsc_0058-1024x680.jpeg)
 
-Soldiers from the Georgia State Defense Force 1st Brigade, 2nd Battalion (the "2/1") hold a Memorial Day tribute, Marietta National Cemetery, Marietta, Ga., May 30, 2022. This 2/1 tradition has continued for two decades. 
+*Soldiers from the Georgia State Defense Force 1st Brigade, 2nd Battalion (the "2/1") hold a Memorial Day tribute, Marietta National Cemetery, Marietta, Ga., May 30, 2022. This 2/1 tradition has continued for two decades.* 
 
-Georgia State Defense Force photo by Maj. James LeMay
+*Georgia State Defense Force photo by Maj. James LeMay*
 
 /2022/05/GSDF-R-Memorial-Day_Woman_DSC_0011.jpeg
 
