@@ -73,6 +73,6 @@ The GSDF 4BN/1BDE would like to thank the White County CERT/SAR Team for providi
 
 **Join Today!**
 
-If you are interested in joining the **WCCERT/SAR**, visit the White County Office of Public Safety | White County Georgia website (whitecountyga.gov), or email Leah Torregiano at: ltorregiano@whitecounty.net
+**If you are interested in joining the WCCERT/SAR**, visit the White County Office of Public Safety | White County Georgia website (whitecountyga.gov), or email Leah Torregiano at: ltorregiano@whitecounty.net
 
-If you are interested in joining the GSDF, call **770-750-4232**. The GSDF is a component of the Georgia Department of Defense.
+If you are interested in joining the GSDF, call **833-715-4733.** The GSDF is a component of the Georgia Department of Defense.
