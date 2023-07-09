@@ -38,11 +38,9 @@ The following steps are important for any Soldier interested in switching from t
 
 Q. How have you, individually, used FirstNet for the GSDF?
 
-/2022/01/GSDF-FirstNEt-image-4.jpg
+![Georgia State Defense Force (GSDF) 5th Brigade Warrant Officer 3 Howard Seay used FirstNet to transmit this photo and others to the GSDF Public Affairs Office, March 26, 2021.](/images/gsdf-firstnet-image-4-300x249.jpg)
 
-![]()
-
-Georgia State Defense Force (GSDF) 5th Brigade Warrant Officer 3 Howard Seay used FirstNet to transmit this photo and others to the GSDF Public Affairs Office, March 26, 2021.
+*Georgia State Defense Force (GSDF) 5th Brigade Warrant Officer 3 Howard Seay used FirstNet to transmit this photo and others to the GSDF Public Affairs Office, March 26, 2021.*
 
 A. ln March 2021, I used FirstNet to transmit photos to the GSDF Public Affairs Office after a tornado/storm in Newnan, Ga.
 Another example was the disaster response in Donaldsonville, Ga. in 2018 after Hurricane Michael. The 5th Brigade responded to the natural disaster.
