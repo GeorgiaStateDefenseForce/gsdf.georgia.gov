@@ -27,8 +27,6 @@ During this exercise, WCCERT/SAR brought their primary SAR K9, “Leigha,” a s
 
 ![Georgia State Defense Force 4BN/1BDE Soldiers practice wilderness SAR with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Flanker Support Team at Yonah Preserve, White County, Ga., August 13, 2022.](/images/img_4369.jpg)
 
-
-
 *Georgia State Defense Force 4BN/1BDE Soldiers practice wilderness SAR with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Flanker Support Team at Yonah Preserve, White County, Ga., August 13, 2022.*
 
 *Georgia State Defense Force photo by Spc. Lauren Boyle-Estheimer*\
