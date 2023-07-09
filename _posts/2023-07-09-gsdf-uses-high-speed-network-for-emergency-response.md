@@ -38,13 +38,13 @@ Capt. Michael Chapman contributed to this report
 **A**. GSDF Soldiers qualify for individual paid subscriber service for their own cell service since they are state agency volunteer first responders.
 The following steps are important for any Soldier interested in switching from their current service to FirstNet. The Soldier must first forward their request through their chain of command so that the request can be routed to a designated GSDF administrator. The designed GSDF administrator verifies eligibility of the Soldier to FirstNet. Once eligibility is verified, a Soldier can go to an AT&T wireless storefront and request assistance obtaining FirstNet.
 
-Q. How have you, individually, used FirstNet for the GSDF?
+**Q**. How have you, individually, used FirstNet for the GSDF?
 
 ![Georgia State Defense Force (GSDF) 5th Brigade Warrant Officer 3 Howard Seay used FirstNet to transmit this photo and others to the GSDF Public Affairs Office, March 26, 2021.](/images/gsdf-firstnet-image-4-300x249.jpg)
 
 *Georgia State Defense Force (GSDF) 5th Brigade Warrant Officer 3 Howard Seay used FirstNet to transmit this photo and others to the GSDF Public Affairs Office, March 26, 2021.*
 
-A. ln March 2021, I used FirstNet to transmit photos to the GSDF Public Affairs Office after a tornado/storm in Newnan, Ga.
+**A**. ln March 2021, I used FirstNet to transmit photos to the GSDF Public Affairs Office after a tornado/storm in Newnan, Ga.
 Another example was the disaster response in Donaldsonville, Ga. in 2018 after Hurricane Michael. The 5th Brigade responded to the natural disaster.
 It was known that communications were limited. The 5th Brigade placed a resource request with FirstNet to support communications prior to beginning the convoy. While the convoy was enroute, FirstNet deployed a mobile cell tower and communications for FirstNet subscribers. Upon arrival, communication was seamless while other cell service was weak or nonexistent. The resources used were, and are, part of the network and are of no additional cost to subscribers.
 
