@@ -7,6 +7,8 @@ author: gsdf
 image: /images/firstnetlogo-2-.jpg
 ---
 By Capt. Beverly Shepard and Spc. Taryn Evans
+
+
 Capt. Michael Chapman contributed to this report
 
 ![Warrant Officer 3 Howard Seay, Georgia State Defense Force 5th Brigade](/images/gsdf-firstnet-seay-2-150x150.jpg)
