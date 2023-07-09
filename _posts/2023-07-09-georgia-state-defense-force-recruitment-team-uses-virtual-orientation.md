@@ -47,7 +47,7 @@ In case you missed it, hear Capt. Howard’s GSDF journey in his own words: <a h
 
 **The GSDF Recruiting Team**
 
-![](/images/gsdf-recruitment-military-spouse-friendly-employers-1024x512-300x150.png)
+![GSDF Recruitment military-spouse-friendly-employers](/images/gsdf-recruitment-military-spouse-friendly-employers-1024x512-300x150.png)
 
 These Soldiers comprise the GSDF Recruiting Team
 
