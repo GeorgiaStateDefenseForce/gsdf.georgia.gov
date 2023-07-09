@@ -39,8 +39,6 @@ For one Soldier, this training exercise reinforced his reason for serving in the
 \
 “I wanted to get out in the woods, stay active, and more importantly, help people and give back to the community,” said Pvt. George Taylor, who joined the GSDF earlier this year.
 
-D﻿avidson starting here
-
 **A Mission Complement**
 
 When asked how the GSDF can complement their real-world missions, Leah explained. "The training we had today really aligns with in the future. When there’s a call, you’ll know what we can do, and we know what you can do, and we can work together,” she said. “Sometimes, to get a fully trained team out there, I might not be able to get as many personnel that \[the GSDF] can get. So, we would definitely be able to complement each other."
