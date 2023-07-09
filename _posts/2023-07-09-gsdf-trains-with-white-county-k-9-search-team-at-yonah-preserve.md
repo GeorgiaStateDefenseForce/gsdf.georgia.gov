@@ -19,9 +19,15 @@ WCCERT/SAR Leader and K9 Handler Donna Frady and Lead Flanker Chuck Blaine led t
 
 *Georgia State Defense Force photo by Spc. Lauren Boyle-Estheimer*
 
-
-
 The WCCERT/SAR led 4BN/1BDE Soldiers in a training field exercise, applying the fundamental techniques of K9 search and rescue operations. Soldiers worked in teams to search, through a wilderness environment, for participants who were designated as “missing” for the purposes of the training exercise. The individual and collective mission essential task list (METL) which Soldiers used during the exercise included search and rescue, land navigation, and communications tasks.
+
+![Georgia State Defense Force Soldiers from the 4BN/1BDE train with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Handler Donna Frady and “Mae” (center) at Yonah Preserve, White County, Ga., August 13, 2022. Photo: 1st Sgt. Richard Morley, Sgt. Joseph Meguin, Spc. Darryl Overall, and Spc. Osvaldo Vilomar](/images/img_1992.jpg)
+
+2022/09/IMG_1992.jpg
+
+*Georgia State Defense Force Soldiers from the 4BN/1BDE train with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Handler Donna Frady and “Mae” (center) at Yonah Preserve, White County, Ga., August 13, 2022. Photo: 1st Sgt. Richard Morley, Sgt. Joseph Meguin, Spc. Darryl Overall, and Spc. Osvaldo Vilomar*
+
+*Photo by Gustavo “Gus” Fluxha, WCCERT/SAR* 
 
 **The K9 Flanker Team**
 
