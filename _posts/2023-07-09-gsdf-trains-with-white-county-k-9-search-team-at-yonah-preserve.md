@@ -43,11 +43,11 @@ For one Soldier, this training exercise reinforced his reason for serving in the
 
 When asked how the GSDF can complement their real-world missions, Leah explained. "The training we had today really aligns with in the future. When there’s a call, you’ll know what we can do, and we know what you can do, and we can work together,” she said. “Sometimes, to get a fully trained team out there, I might not be able to get as many personnel that \[the GSDF] can get. So, we would definitely be able to complement each other."
 
-/2022/09/IMG_4399.jpg
+![Who’s a good dog? “Leigha,” a SAR K9, is a six-year-old Shepherd- boxer mix.](/images/img_4399.jpg)
 
-Who’s a good dog? “Leigha,” a SAR K9, is a six-year-old Shepherd- boxer mix. 
+*Who’s a good dog? “Leigha,” a SAR K9, is a six-year-old Shepherd- boxer mix.* 
 
-Georgia State Defense Force photo by Spc. Lauren Boyle-Estheimer
+*Georgia State Defense Force photo by Spc. Lauren Boyle-Estheimer*
 
 One of the 4BN's goals, as set by 4BN/1 BDE Commander Lt. Col. Kiker, is being a force-multiplier for civilian agencies, in various capacities. “We will definitely have future joint trainings with their team,” Capt. Mayger said. “Basically, it prepares us to integrate with civilian forces when we go on CERT or other civilian agency searches. Additionally, they have more experience involving incident command scenarios so the more we are able to train with their team, the better prepared we are for similar situations.”
 
