@@ -13,6 +13,14 @@ By Spc. Lauren Boyle-Estheimer
 
 WCCERT/SAR Leader and K9 Handler Donna Frady and Lead Flanker Chuck Blaine led the training. They provided 4BN/1BDE Soldiers an overview of the various types of SAR K9s, the formation of a Flanker Support Team, and how dogs detect scent.
 
+![White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Handler Donna Frady briefs Georgia State Defense Force 4BN/1BDE Soldiers on the basics of K9 SAR operations, White County, Ga., August 13, 2022.](/images/gsdf-canine-truckimg_4298.jpg)
+
+*White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Handler Donna Frady briefs Georgia State Defense Force 4BN/1BDE Soldiers on the basics of K9 SAR operations, White County, Ga., August 13, 2022.*
+
+*Georgia State Defense Force photo by Spc. Lauren Boyle-Estheimer*
+
+
+
 The WCCERT/SAR led 4BN/1BDE Soldiers in a training field exercise, applying the fundamental techniques of K9 search and rescue operations. Soldiers worked in teams to search, through a wilderness environment, for participants who were designated as “missing” for the purposes of the training exercise. The individual and collective mission essential task list (METL) which Soldiers used during the exercise included search and rescue, land navigation, and communications tasks.
 
 **The K9 Flanker Team**
