@@ -10,13 +10,9 @@ image: /images/gsdf-adj-rodrigues-army-photo-picture1-150x150.jpg
 
 **Lt. Col. Rodriguez retired from the U.S. Army. While in the Army, he served in field artillery before he transferred to the Army's military police unit**.
 
+![Georgia State Defense Force (GSDF) Lt. Col. Ismael Rodriguez (right) is Commander of the GSDF Ready Reserve.](/images/gsdf-ltc-rodriguez_lighter_255420741_252910220213835_3149761361845739951_n-300x284.jpg)
 
-
-/2022/08/GSDF-LTC-Rodriguez_Lighter_255420741_252910220213835_3149761361845739951_n.jpg
-
-
-
-Georgia State Defense Force (GSDF) Lt. Col. Ismael Rodriguez (right) is Commander of the GSDF Ready Reserve.
+*Georgia State Defense Force (GSDF) Lt. Col. Ismael Rodriguez (right) is Commander of the GSDF Ready Reserve.*
 
 **PAO**: What is Ready Reserve?
 
