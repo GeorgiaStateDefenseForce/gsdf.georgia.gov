@@ -34,8 +34,6 @@ Many of the mission-critical skills Soldiers and officers demonstrated during an
 
 ![*Winners of the Georgia State Defense Force (GSDF) 1st Brigade Best Soldier Competition: Spc. Marcus Kister and Pfc. Samuel Cox, Tunnel Hill, Ga., Sept. 26, 2021. The competition was held during  the 1st Brigade's annual training. This was one of several GSDF annual trainings. During annual trainings, GSDF Soldiers focus on skills and tasks that help them serve the citizens of Georgia.*](/images/51608624353_b16d252a58_o-287x300.jpg)
 
-
-
 *Winners of the Georgia State Defense Force (GSDF) 1st Brigade Best Soldier Competition: Spc. Marcus Kister and Pfc. Samuel Cox, Tunnel Hill, Ga., Sept. 26, 2021. The competition was held during  the 1st Brigade's annual training. This was one of several GSDF annual trainings. During annual trainings, GSDF Soldiers focus on skills and tasks that help them serve the citizens of Georgia.*              
 
 *Georgia State Defense Force photo by Pfc. Lauren Boyle-Estheimer*
