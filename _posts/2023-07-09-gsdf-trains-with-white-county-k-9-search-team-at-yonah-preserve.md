@@ -23,13 +23,15 @@ Canine search teams are trained to work in a variety of settings and can be an i
 
 During this exercise, WCCERT/SAR brought their primary SAR K9, “Leigha,” a six-year-old Shepherd- boxer mix, as well as a puppy-in-training, “Mae,” a German Shepherd. Dogs must be licensed and certified through the Georgia Emergency Management and Homeland Security Agency (GEMA/HSA) to participate in SAR-related events in Georgia.\
 \
-“We learned how we would work with their dogs, and we learned how integrating with their K9 unit would work. We were able to walk through some of those scenarios,” Capt. Ken Mayger explained. “In addition, we provided the opportunity for their K9 handlers to train a newer dog. So, it was advantageous for us and good training for their dogs."\
-\
-/2022/09/IMG_4369.jpg
+“We learned how we would work with their dogs, and we learned how integrating with their K9 unit would work. We were able to walk through some of those scenarios,” Capt. Ken Mayger explained. “In addition, we provided the opportunity for their K9 handlers to train a newer dog. So, it was advantageous for us and good training for their dogs."
 
-Georgia State Defense Force 4BN/1BDE Soldiers practice wilderness SAR with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Flanker Support Team at Yonah Preserve, White County, Ga., August 13, 2022.
+![Georgia State Defense Force 4BN/1BDE Soldiers practice wilderness SAR with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Flanker Support Team at Yonah Preserve, White County, Ga., August 13, 2022.](/images/img_4369.jpg)
 
-Georgia State Defense Force photo by Spc. Lauren Boyle-Estheimer\
+
+
+*Georgia State Defense Force 4BN/1BDE Soldiers practice wilderness SAR with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) Flanker Support Team at Yonah Preserve, White County, Ga., August 13, 2022.*
+
+*Georgia State Defense Force photo by Spc. Lauren Boyle-Estheimer*\
 \
 **Coordination and Participation**\
 \
