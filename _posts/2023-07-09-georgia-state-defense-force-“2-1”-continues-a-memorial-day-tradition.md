@@ -27,8 +27,8 @@ The Soldiers of the 2/1 leave you this Memorial Day with one request: As we all 
 
 *Georgia State Defense Force photo by Maj. James LeMay*
 
-/2022/05/GSDF-R-Memorial-Day_Woman_DSC_0011.jpeg
+![A woman kneels at a headstone on Memorial Day, Georgia National Cemetery, Canton, Ga., May 30, 2022.](/images/gsdf-r-memorial-day_woman_dsc_0011-1024x680.jpeg)
 
-A woman kneels at a headstone on Memorial Day, Georgia National Cemetery, Canton, Ga., May 30, 2022. 
+*A woman kneels at a headstone on Memorial Day, Georgia National Cemetery, Canton, Ga., May 30, 2022.* 
 
-Georgia State Defense Force photo by Maj. James LeMay
+*Georgia State Defense Force photo by Maj. James LeMay*
