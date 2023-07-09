@@ -22,43 +22,21 @@ The Georgia State Defense Force (GSDF) recruitment team has been busy this year 
 
 Since Sept. 2020, the team has recruited virtually. Using the virtual set-up has provided many advantages for prospective recruits, including allowing flexibility in both time and travel. The virtual set-up increases opportunities for people living outside metro Atlanta, who no longer need to travel the distance for an in-person discussion with recruiters.
 
-
-
 There are tradeoffs. For example, recruits—from behind a computer screen—do not have the onsite experience of being in a military environment during the orientation session.
-
-
 
 However, the positives outweigh the negatives.
 
-
-
 “We easily see twice as many recruits now then when they had to come to Clay National Guard Center (CNGC) in Marietta,” said 2nd Lt. Guillermo Sadir, Recruiting and Retention Branch Chief. “(Prior to hosting the virtual sessions), we’d typically see 7-10 recruits at CNGC. Now, we have 15-20 and up to 27 on one call. Recruits have called from as far away as California and one call came from a Soldier deployed overseas.”
-
-
 
 Given the various benefits of the virtual orientations, the GSDF recruitment team plans to continue them.
 
-
-
 **Virtual Visits from Capt. Clark Howard**
-
-
 
 These virtual sessions work well for Capt. Clark Howard, GSDF senior public affairs officer and a popular syndicated media personality, who maintains a busy schedule. Capt. Howard has joined many virtual sessions throughout the year.
 
+![Capt. Clark Howard GSDF Senior Public Affairs Officer and Popular Syndicated Media Personality](/images/capture-150x150.jpg)
 
-
-
-
-<p>\[caption id="attachment_2556" align="alignright" width="150"]<a href="http://paonews.net/wp-content/uploads/2021/11/Capture.jpg"><img class="wp-image-2556 size-thumbnail" src="{{ site.baseurl }}/import_assets/2021/11/Capture-150x150.jpg" alt="
-
-
-
-Capt. Clark Howard GSDF Senior Public Affairs Officer and Popular Syndicated Media Personality
-
-
-
-
+*Capt. Clark Howard GSDF Senior Public Affairs Officer and Popular Syndicated Media Personality*
 
 “I always strive to make time for the Georgia State Defense Force. I love the GSDF and use every possible opportunity to spread the word about the work my fellow volunteer professional citizen Soldiers do for the people of Georgia and this wonderful country of ours. I have found the orientation sessions with new recruits to be an inspiration as I hear the stories of the men and women from all walks of life who want to be a part of the mission of being ready to serve,” said Capt. Howard. “I believe it is important for all of us who love our state and our country to serve our fellow citizens and our community in whatever way we can.”
 
