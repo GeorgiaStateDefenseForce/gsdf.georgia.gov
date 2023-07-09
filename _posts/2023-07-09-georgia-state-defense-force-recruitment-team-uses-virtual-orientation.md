@@ -40,10 +40,21 @@ These virtual sessions work well for Capt. Clark Howard, GSDF senior public affa
 
 “I always strive to make time for the Georgia State Defense Force. I love the GSDF and use every possible opportunity to spread the word about the work my fellow volunteer professional citizen Soldiers do for the people of Georgia and this wonderful country of ours. I have found the orientation sessions with new recruits to be an inspiration as I hear the stories of the men and women from all walks of life who want to be a part of the mission of being ready to serve,” said Capt. Howard. “I believe it is important for all of us who love our state and our country to serve our fellow citizens and our community in whatever way we can.”
 
-
-
 Warrant Officer Alexander Davidson, of the GSDF Public Affairs Office, first broached the idea of connecting Capt. Howard with the virtual sessions. The sessions are important for recruitment. They are also vital to the GSDF public affairs mission.“Capt. Howard is a new-recruit generator. His passion and commitment are unmistakable when he talks about the GSDF. According to the G1 shop (GSDF human resources), even today, more than half the Soldiers who join, tell us they either joined because of him (Clark Howard) or because they learned about the GSDF from one of his media streams,” Warrant Officer Davidson said. “His contributions are invaluable in so many ways. It was hearing him on the radio that inspired me to join the GSDF. I would not be a Soldier today if not for Capt. Howard.”
 
+\
+In case you missed it, hear Capt. Howard’s GSDF journey in his own words: <a href="https://www.facebook.com/watch/?v=738797040198586" target="_blank">https://www.facebook.com/watch/?v=738797040198586</a>
 
+**The GSDF Recruiting Team**
 
-In case you missed it, hear Capt. Howard’s GSDF journey in his own words: <a href="https://www.facebook.com/watch/?v=738797040198586" target="_blank">https://www.facebook.com/watch/?v=738797040198586</a></p>
+![](/images/gsdf-recruitment-military-spouse-friendly-employers-1024x512-300x150.png)
+
+These Soldiers comprise the GSDF Recruiting Team
+
+• 2nd Lt. Guillermo Sadir, Recruiting and Retention Branch Chief
+
+• Sgt. Badrinath (Badri) Gandavadi, Recruiting and Orientation NCOIC
+
+**Contact a Recruiter**
+
+770-750-4232
