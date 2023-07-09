@@ -59,11 +59,11 @@ During this exercise, Soldiers also trained on utilizing the preferred SAR techn
 
 “SAR operations continue to evolve with new technology and resources,” said Lt. Col. Kiker. “This training is an example of our intent and efforts to add to our skill sets and remain current in our capabilities and productive in future SAR missions.”
 
-/2022/09/IMG_2683v2.jpg
+![Georgia State Defense Force Soldiers train with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) and dogs, “Leigha,” and “Mae,” at Yonah Preserve, White County, Ga., August 13, 2022.](/images/img_2683v2.jpg)
 
-Georgia State Defense Force Soldiers train with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) and dogs, “Leigha,” and “Mae,” at Yonah Preserve, White County, Ga., August 13, 2022.
+*Georgia State Defense Force Soldiers train with White County Community Emergency Response Team/Search and Rescue (WCCERT/SAR) and dogs, “Leigha,” and “Mae,” at Yonah Preserve, White County, Ga., August 13, 2022.*
 
-Georgia State Defense Force photo by Capt. Ken Mayger
+*Georgia State Defense Force photo by Capt. Ken Mayger*
 
 **Acknowledgements**
 
