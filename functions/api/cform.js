@@ -72,7 +72,6 @@ export async function onRequestPost(context) {
   let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
   let googleResult = await fetch(googleUrl, {
     body: googleFormData,
-    mode: "no-cors",
     method: "POST",
     headers: {
       'Content-Type': 'application/x-www-form-urlencoded',
