@@ -9,7 +9,6 @@
 
 export async function onRequestPost(context) {
   console.log(context.env.TURNSTILE_KEY);
-  console.log(TURNSTILE_KEY);
   return new Response(context.env.TURNSTILE_KEY, { status: 512 });
   // try {
     let input = await context.request.formData();
