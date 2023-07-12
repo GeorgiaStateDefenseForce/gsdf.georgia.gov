@@ -60,14 +60,14 @@ export async function onRequestPost(context) {
   input.delete("cf-turnstile-response");
 
   let googleFormData = new FormData();
-  googleFormData.append('entry.299316044', formData.get("fname").toString());
-  googleFormData.append('entry.246872012', formData.get("lname").toString());
-  googleFormData.append('entry.1819157110', formData.get("email").toString());
-  googleFormData.append('entry.1829779236', formData.get("phone").toString());
-  googleFormData.append('entry.1152223255', formData.get("city").toString());
-  googleFormData.append('entry.433270788', formData.get("state").toString());
-  googleFormData.append('entry.1514106883', formData.get("findout").toString());
-  googleFormData.append('entry.909904957', formData.get("preferred").toString());
+  googleFormData.append('entry.299316044', input.get("fname").toString());
+  googleFormData.append('entry.246872012', input.get("lname").toString());
+  googleFormData.append('entry.1819157110', input.get("email").toString());
+  googleFormData.append('entry.1829779236', input.get("phone").toString());
+  googleFormData.append('entry.1152223255', input.get("city").toString());
+  googleFormData.append('entry.433270788', input.get("state").toString());
+  googleFormData.append('entry.1514106883', input.get("findout").toString());
+  googleFormData.append('entry.909904957', input.get("preferred").toString());
   // console.log(googleFormData);
   let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
   let googleResult = await fetch(googleUrl, {
