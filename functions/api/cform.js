@@ -40,7 +40,7 @@ export async function onRequestPost(context) {
       status: 512
     });
   }
-  let ip = request.headers.get('CF-Connecting-IP');
+  let ip = context.request.headers.get('CF-Connecting-IP');
   let captchaData = new FormData();
   captchaData.append('secret', secret);
   captchaData.append('response', token);
@@ -71,8 +71,12 @@ export async function onRequestPost(context) {
   // console.log(googleFormData);
   let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
   let googleResult = await fetch(googleUrl, {
-    body: input,
-    method: 'POST',
+    body: googleFormData,
+    mode: "no-cors",
+    method: "POST",
+    headers: {
+      'Content-Type': 'application/x-www-form-urlencoded',
+    },
   });
   let googleOutcome = await googleResult.json();
   console.log(googleOutcome);
