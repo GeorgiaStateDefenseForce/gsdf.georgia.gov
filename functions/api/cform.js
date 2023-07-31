@@ -68,26 +68,36 @@ export async function onRequestPost(context) {
   googleFormData.append('entry.433270788', input.get("state").toString());
   googleFormData.append('entry.1514106883', input.get("findout").toString());
   googleFormData.append('entry.909904957', input.get("preferred").toString());
-  // console.log(googleFormData);
+  console.log(googleFormData);
   let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
-  let googleResult = await fetch(googleUrl, {
-    body: googleFormData,
+  // let googleResult = await 
+  fetch(googleUrl, {
     method: "POST",
     headers: {
       'Content-Type': 'application/x-www-form-urlencoded',
     },
+    body: new URLSearchParams({
+      'entry.299316044': 'ryan',
+      'entry.246872012': 'taylor',
+      'entry.1819157110': 'kkk@kkkkkk.com',
+      'entry.1829779236': '7707892072',
+      'entry.1152223255': 'asdfga',
+      'entry.433270788': 'georgia',
+      'entry.1514106883': 'afasd',
+      'entry.909904957': '1st Brigade'
+    })
   }).then(response => {
     console.log("Then:" + response.ok);
   })
   .catch(error => {
-    console.log("Error: " + response.ok);
+    console.log("Error: " + error);
   });;
   // let googleOutcome = await googleResult.json();
   // console.log(googleOutcome);
 
 
 
-  return new Response('done');
+  // return new Response('done');
   // let pretty = JSON.stringify(output, null, 2);
   // return new Response(pretty, {
   //   headers: {
