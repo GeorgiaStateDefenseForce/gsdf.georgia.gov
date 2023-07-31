@@ -59,16 +59,16 @@ export async function onRequestPost(context) {
   //}
   input.delete("cf-turnstile-response");
 
-  let googleFormData = new FormData();
-  googleFormData.append('entry.299316044', input.get("fname").toString());
-  googleFormData.append('entry.246872012', input.get("lname").toString());
-  googleFormData.append('entry.1819157110', input.get("email").toString());
-  googleFormData.append('entry.1829779236', input.get("phone").toString());
-  googleFormData.append('entry.1152223255', input.get("city").toString());
-  googleFormData.append('entry.433270788', input.get("state").toString());
-  googleFormData.append('entry.1514106883', input.get("findout").toString());
-  googleFormData.append('entry.909904957', input.get("preferred").toString());
-  console.log(googleFormData);
+  // let googleFormData = new FormData();
+  // googleFormData.append('entry.299316044', input.get("fname").toString());
+  // googleFormData.append('entry.246872012', input.get("lname").toString());
+  // googleFormData.append('entry.1819157110', input.get("email").toString());
+  // googleFormData.append('entry.1829779236', input.get("phone").toString());
+  // googleFormData.append('entry.1152223255', input.get("city").toString());
+  // googleFormData.append('entry.433270788', input.get("state").toString());
+  // googleFormData.append('entry.1514106883', input.get("findout").toString());
+  // googleFormData.append('entry.909904957', input.get("preferred").toString());
+  // console.log(googleFormData);
   let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
   // let googleResult = await 
   fetch(googleUrl, {
@@ -77,14 +77,14 @@ export async function onRequestPost(context) {
       'Content-Type': 'application/x-www-form-urlencoded',
     },
     body: new URLSearchParams({
-      'entry.299316044': 'ryan',
-      'entry.246872012': 'taylor',
-      'entry.1819157110': 'kkk@kkkkkk.com',
-      'entry.1829779236': '7707892072',
-      'entry.1152223255': 'asdfga',
-      'entry.433270788': 'georgia',
-      'entry.1514106883': 'afasd',
-      'entry.909904957': '1st Brigade'
+      'entry.299316044': input.get("fname").toString(),
+      'entry.246872012': input.get("lname").toString(),
+      'entry.1819157110': input.get("email").toString(),
+      'entry.1829779236': input.get("phone").toString(),
+      'entry.1152223255': input.get("city").toString(),
+      'entry.433270788': input.get("state").toString(),
+      'entry.1514106883': input.get("findout").toString(),
+      'entry.909904957': input.get("preferred").toString()
     })
   }).then(response => {
     console.log("Then:" + response.ok);
@@ -97,6 +97,9 @@ export async function onRequestPost(context) {
 
 
 
+  const destinationURL = "https://gsdf.georgia.gov/thank-you/";
+  const statusCode = 200;
+  return Response.redirect(destinationURL, statusCode);
   // return new Response('done');
   // let pretty = JSON.stringify(output, null, 2);
   // return new Response(pretty, {
