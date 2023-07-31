@@ -83,7 +83,7 @@ export async function onRequestPost(context) {
     console.log("Error: " + response.ok);
   });;
   // let googleOutcome = await googleResult.json();
-  console.log(googleOutcome);
+  // console.log(googleOutcome);
 
 
 
