@@ -76,16 +76,22 @@ export async function onRequestPost(context) {
     headers: {
       'Content-Type': 'application/x-www-form-urlencoded',
     },
-  });
-  let googleOutcome = await googleResult.json();
+  }).then(response => {
+    console.log("Then:" + response.ok);
+  })
+  .catch(error => {
+    console.log("Error: " + response.ok);
+  });;
+  // let googleOutcome = await googleResult.json();
   console.log(googleOutcome);
 
 
 
-  let pretty = JSON.stringify(output, null, 2);
-  return new Response(pretty, {
-    headers: {
-      'Content-Type': 'application/json;charset=utf-8',
-    },
-  });
+  return new Response('done');
+  // let pretty = JSON.stringify(output, null, 2);
+  // return new Response(pretty, {
+  //   headers: {
+  //     'Content-Type': 'application/json;charset=utf-8',
+  //   },
+  // });
 }
