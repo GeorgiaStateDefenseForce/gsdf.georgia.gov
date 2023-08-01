@@ -10,7 +10,7 @@ By Pfc. Lauren Boyle-Estheimer
 
 Soldiers of the Georgia State Defense Force (GSDF) 1st Brigade participated in their annual training (AT) September 23-26, 2021. This involved combined training for 2nd Battalion, 3rd Battalion, and 4th Battalion Soldiers competing for the overall Best Soldier team, as well as the Best Battalion. The individual and collective mission essential task list (METL) in which Soldiers were evaluated included: land navigation, common task testing (CTT), urban search and rescue (USAR), communications tasks, and other basic soldier skills.
 
-![](/images/51612677557_8d29e547b2_k-200x300.jpg)
+![](/images/51612677557_8d29e547b2_k-200x300.jpg){:class="full"}
 
 *The Georgia State Defense Force 1st Brigade holds its annual training at Catoosa Training Site, Tunnel Hill, Ga., Sept. 23-26, 2021.* 
 
@@ -32,7 +32,7 @@ Spc. Kister added, “Winning the team competition and the battalion competition
 
 Many of the mission-critical skills Soldiers and officers demonstrated during annual training are considered to be perishable. These scenario-based exercises also helped assess deficiencies within the brigade and identified areas that may require additional training. Furthermore, this training applied the principles of espirit de corps to achieve common goals and objectives among Soldiers of 1st Brigade.
 
-![*Winners of the Georgia State Defense Force (GSDF) 1st Brigade Best Soldier Competition: Spc. Marcus Kister and Pfc. Samuel Cox, Tunnel Hill, Ga., Sept. 26, 2021. The competition was held during  the 1st Brigade's annual training. This was one of several GSDF annual trainings. During annual trainings, GSDF Soldiers focus on skills and tasks that help them serve the citizens of Georgia.*](/images/51608624353_b16d252a58_o-287x300.jpg)
+![*Winners of the Georgia State Defense Force (GSDF) 1st Brigade Best Soldier Competition: Spc. Marcus Kister and Pfc. Samuel Cox, Tunnel Hill, Ga., Sept. 26, 2021. The competition was held during  the 1st Brigade's annual training. This was one of several GSDF annual trainings. During annual trainings, GSDF Soldiers focus on skills and tasks that help them serve the citizens of Georgia.*](/images/51608624353_b16d252a58_o-287x300.jpg){:class="full"}
 
 *Winners of the Georgia State Defense Force (GSDF) 1st Brigade Best Soldier Competition: Spc. Marcus Kister and Pfc. Samuel Cox, Tunnel Hill, Ga., Sept. 26, 2021. The competition was held during  the 1st Brigade's annual training. This was one of several GSDF annual trainings. During annual trainings, GSDF Soldiers focus on skills and tasks that help them serve the citizens of Georgia.*              
 
