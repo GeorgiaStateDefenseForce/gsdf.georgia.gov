@@ -4,7 +4,7 @@ title: Georgia State Defense Force Recruitment Team Uses Virtual Orientation
 date: 2023-07-09T20:00:26.103Z
 excerpt: Georgia State Defense Force Recruitment Team Uses Virtual Orientation
 author: gsdf
-image: /images/gsdf-2a-recruiting-screenshot-51689632450_5eb004d5db_o-144x300.jpg
+image: /images/carlos-torres-mhnjebeltgw-unsplash.jpg
 ---
 **Georgia State Defense Force Recruitment Team Uses Virtual Orientation**
 
