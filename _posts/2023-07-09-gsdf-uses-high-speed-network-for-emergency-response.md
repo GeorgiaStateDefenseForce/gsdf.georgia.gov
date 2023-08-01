@@ -11,7 +11,7 @@ By Capt. Beverly Shepard and Spc. Taryn Evans
 
 Capt. Michael Chapman contributed to this report
 
-![Warrant Officer 3 Howard Seay, Georgia State Defense Force 5th Brigade](/images/gsdf-firstnet-seay-2-150x150.jpg)
+![Warrant Officer 3 Howard Seay, Georgia State Defense Force 5th Brigade](/images/gsdf-firstnet-seay-2-150x150.jpg){:class="full"}
 
 *Warrant Officer 3 Howard Seay, Georgia State Defense Force 5th Brigade*
 
@@ -29,7 +29,7 @@ Capt. Michael Chapman contributed to this report
 
 **Q**. How does FirstNet help 5th Brigade? 
 
-![GSDF FirstNet Image_5th Brigade](/images/gsdf-firstnet-image_5th-brigade-150x150.jpg)
+![GSDF FirstNet Image_5th Brigade](/images/gsdf-firstnet-image_5th-brigade-150x150.jpg){:class="full"}
 
 **A**. FirstNet hotspots provide high-speed voice and data connectivity to the 5th Brigade and are compatible with communications bands reserved for use in times of emergency. It is reassuring that connectivity is maintained during times when normal service is restricted or not available.
 
@@ -40,7 +40,7 @@ The following steps are important for any Soldier interested in switching from t
 
 **Q**. How have you, individually, used FirstNet for the GSDF?
 
-![Georgia State Defense Force (GSDF) 5th Brigade Warrant Officer 3 Howard Seay used FirstNet to transmit this photo and others to the GSDF Public Affairs Office, March 26, 2021.](/images/gsdf-firstnet-image-4-300x249.jpg)
+![Georgia State Defense Force (GSDF) 5th Brigade Warrant Officer 3 Howard Seay used FirstNet to transmit this photo and others to the GSDF Public Affairs Office, March 26, 2021.](/images/gsdf-firstnet-image-4-300x249.jpg){:class="full"}
 
 *Georgia State Defense Force (GSDF) 5th Brigade Warrant Officer 3 Howard Seay used FirstNet to transmit this photo and others to the GSDF Public Affairs Office, March 26, 2021.*
 
