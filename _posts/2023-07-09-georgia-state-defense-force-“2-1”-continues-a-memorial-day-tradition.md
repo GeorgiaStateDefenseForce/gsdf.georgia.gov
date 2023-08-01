@@ -11,7 +11,7 @@ By Maj. James LeMay, Commander, 2nd Battalion, 1st Brigade, Georgia State Defens
 \
 This weekend, an army of volunteers made their way to the national cemeteries. Armed with American flags and a heart full of compassion, they made hallowed ground come to life. For two decades, the 2nd battalion 1st brigade ("the 2/1") has offered security and support. Shaped up and squared away—this is our holy mission. As commander, I know we represent today's military. We take the task seriously and feel privileged to honor all those who came before us.
 
-![Soldiers from the Georgia State Defense Force 1st Brigade, 2nd Battalion hold a Memorial Day tribute, Marietta National Cemetery, Marietta, Ga., May 30, 2022.](/images/fullsizeoutput_ee58.jpeg)
+![Soldiers from the Georgia State Defense Force 1st Brigade, 2nd Battalion hold a Memorial Day tribute, Marietta National Cemetery, Marietta, Ga., May 30, 2022.](/images/fullsizeoutput_ee58.jpeg){:class="full"}
 
 *Soldiers from the Georgia State Defense Force 1st Brigade, 2nd Battalion hold a Memorial Day tribute, Marietta National Cemetery, Marietta, Ga., May 30, 2022.*
 
