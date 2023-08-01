@@ -2,14 +2,15 @@
 layout: post
 title: GSDF Soldiers to Compete in Andrew Sullens Marksmanship Competition
 date: 2023-08-01T16:25:21.254Z
-excerpt: Georgia State Defense Force (GSDF) Soldier Staff Sgt. Jon Van Holm is
-  recognized as the first GSDF Soldier to be tabbed the Governors Twenty at the
-  Andrew Sullens Marksmanship Competition, Fort Stewart, Ga., March 15,
-  2019.  U.S. Army National Guard photo by Spc. Tori Miller
-author: gsdf
+excerpt: Georgia State Defense Force Soldiers to Compete in Nationally
+  Renowned  Andrew Sullens Marksmanship Competition | Brunswick Ammunition
+  Manufacturer Makes Donation
+author: J Mezzatesta
 image: /images/photo_van-holm.jpg
 ---
 <!--StartFragment-->
+
+*Georgia State Defense Force (GSDF) Soldier Staff Sgt. Jon Van Holm is recognized as the first GSDF Soldier to be tabbed the Governors Twenty at the Andrew Sullens Marksmanship Competition, Fort Stewart, Ga., March 15, 2019.  U.S. Army National Guard photo by Spc. Tori Miller*
 
 The Georgia State Defense Force (GSDF) prepares to compete in the renowned Andrew Sullens Marksmanship Competition this year, along with the Georgia Air National Guard and the Georgia Army National Guard (GAARNG). This year’s competition will occur at Fort Stewart, Ga., September 6–11. \
 \
@@ -19,24 +20,14 @@ The GSDF Competition Marksmanship Team\
 \
 The concept of a GSDF marksmanship team was the brainchild of Col. Donald Lankford, who spent years laying the groundwork for what has become the Competition Marksmanship Team (CMT).  Over the years, a handful of GSDF Soldiers have participated in training, some even competing in mixed teams (individual GSDF Soldiers from different units). 
 
-
-
 In 2019, GSDF Staff Sgt. Jon Van Holm gave an exceptional performance, placing third overall.      \
 Staff Sgt. Holm was the first GSDF Soldier tabbed with the [Governors Twenty](https://en.wikipedia.org/wiki/Tabs_of_the_United_States_Army) award. The Governors Twenty Tab is a state-level National Guard award, created in 1968, that is awarded to the top 20 shooters in a state. Award criteria vary from state-to-state.
 
-
-
 A First! A Full GSDF Team for this Year’s Competition
-
-
 
 This year—for the first time—the GSDF will field a full team and support personnel for the Andrew Sullens Marksmanship Competition. 
 
-
-
 The skilled GSDF team should make the competition an exciting event for all participants. The GSDF team is expected to fare well in this year’s competition.
-
-
 
 A Southern Ballistics Research Donation\
 \
