@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Georgia State Defense Force “2/1” Continues a Memorial Day Tradition
+title: Georgia State Defense Force 2/1 Continues a Memorial Day Tradition
 date: 2022-05-31T23:47:00.000Z
 excerpt: Georgia State Defense Force “2/1” Continues a Memorial Day Tradition
 author: gsdf
