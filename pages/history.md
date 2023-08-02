@@ -16,42 +16,7 @@ sitemap:
 
 ## The Georgia State Defense Force
 
-
-### Our History
-
-_Contributed by CPL Eric Tedder_
-
-When James Oglethorpe established the thirteenth American colony of Georgia in 1733, he knew the threat of a Spanish invasion from Florida was imminent. In response, Oglethorpe organized and trained a militia force in the colony that would be ready to respond at the first sign of aggression from any outsider. In 1742, Oglethorpe’s fear was realized when Spanish forces under the command of General Manuel de Montiano invaded the colony of Georgia. In a salt marsh on St. Simons Island, the Spanish attacked a force of British Regulars and Georgia Militia under Oglethorpe’s command. The Spanish were soundly defeated and forced to retreat back to Florida. The Battle of Bloody Marsh, as the skirmish was later known, was the first and only attempt by Spanish forces to invade Georgia.
-
-The Georgia Militia was again called upon to defend Georgia during the American Revolution. Georgia militiamen fought long and hard against British Regulars and Loyalist forces in a deeply divided Georgia back country and throughout the South for American Independence. In 1779, Georgia militiamen alongside those from South Carolina surprised and defeated a superior force of Loyalists at the Battle of Kettle Creek near Washington, Georgia. After the American Revolution, Georgia continued to maintain an active militia force throughout the 19th century. In 1836, a battalion of Georgia militia aided Texas’ freedom fighters in their fight against Mexican forces during the Texas Revolution.
-
-In 1861, as civil war broke out in the United States, Georgia Governor Joseph Brown activated numerous recruiting drives throughout the state to bolster the strength of the Georgia Militia. Although Brown tried to maintain his militia forces within state boundaries, many Georgia units were called up to join larger armies established by the Confederate government. Throughout the war Georgia sent the second largest number of volunteers to fight for the Confederacy (only eclipsed by Virginia). These volunteers took an active role in almost every front during the American Civil War. In 1864 as Union General William Tecumseh Sherman organized a large force of Northern troops in Chattanooga to begin his invasion of Georgia, militia units joined other Confederate troops in a gallant attempt to defend Georgia, and more importantly Atlanta. After the fall of Atlanta on September 2, 1864 Confederate troops left in a hasty retreat from Georgia and moved back into Tennessee. Sherman began to drive deeper into the heart of Georgia as he pushed toward Savannah. At the Battle of Griswoldville, near Macon, Georgia militiamen put up the only substantial resistance to Sherman’s March to the Sea when a force of militia attempted to slow the Union onslaught.
-
-<span class="image left"><img src="{{ "/images/GSDF-About-Us-Photo.png" | absolute_url }}" alt="" /></span>
-
-During World War I, the Georgia Militia was again called upon to serve the state. During this activation Militia units were assigned to guard key military targets around the state and take an active role in patrolling the Georgia coastline. In the 1940’s, Georgia Governor E.D. Rivers activated the Georgia Militia under a new name, the Georgia State Defense Corps. In addition to guarding key military targets in Georgia during World War II the State Defense Corps was also assigned to undergo training that would necessitate preventing an invasion by one of the Axis powers. As World War II came to a close, the State Defense Corps, now re-designated as the Georgia State Guard, reached a record strength of almost 5,000. 
-<div class="box">
-<p><a href="https://artsandculture.google.com/search/asset?q=georgia%20state%20guard&p=life-photo-collection">Click here to see Life Magzine's archive of GA State Guard WWII photos</a></p>
-</div>
-
-
-<span class="image fit"><img src="{{ "/images/186532502_10218270835193862_4320301694477267041_n.jpg" | absolute_url }}" alt="" /></span>
-
-<span class="image right"><img src="{{ "/images/152254925_10217777019568780_3414825137490488249_n.jpg" | absolute_url }}" alt="" /></span>
-
-In 1947, the Georgia State Guard was inactivated and remained inactive for the next thirty seven years. It was not until 1985 that a new breath of life was given to the State Guard when it was reactivated and authorized as the Georgia State Defense Force. Since its reactivation the Georgia State Defense Force has served the citizens of Georgia alongside the Georgia National Guard in every mission given from search and rescue to natural disaster relief. Currently the Georgia State Defense Force supports the state in the wake of the federal activation of the Georgia National Guard in military operations overseas.
-
-<span class="image left"><img src="{{ "/images/150604908_10217777011408576_8228314492096165739_n.jpg" | absolute_url }}" alt="" /></span>
-
-Throughout its history, the Georgia State Defense Force has played a variety of roles in the state’s proud history. Whether as an armed force or in a support role, the primary mission of the Georgia State Defense Force has not changed in more than 270 years. From its colonial roots to the present day, the Georgia State Defense Force continues to be “ready to serve” the needs of Georgia.
-
- <span class="image fit"><img src="{{ "/images/187937244_10218288038503934_5384944778932966247_n.jpg" | absolute_url }}" alt="" /></span>
-
-
-
 ### Ready to Serve!
-
-
 
 _By Maj. William Carraway, Historian, Georgia Army National Guard_
 
@@ -105,5 +70,39 @@ In 2020, under the leadership of former GSDF Commander Brig. Gen. Thomas H. Blac
 
 
 The Georgia State Defense Force (GSDF) provided COVID-19 support to the state of Georgia from March 16, 2020 through July 17, 2020. This was the longest continuous call-up in the history of the GSDF. The Georgia Department of Defense presented a Georgia Distinguished Unit Ribbon to the GSDF for its service during the COVID-19 pandemic.
+
+### Our History
+
+_Contributed by CPL Eric Tedder_
+
+When James Oglethorpe established the thirteenth American colony of Georgia in 1733, he knew the threat of a Spanish invasion from Florida was imminent. In response, Oglethorpe organized and trained a militia force in the colony that would be ready to respond at the first sign of aggression from any outsider. In 1742, Oglethorpe’s fear was realized when Spanish forces under the command of General Manuel de Montiano invaded the colony of Georgia. In a salt marsh on St. Simons Island, the Spanish attacked a force of British Regulars and Georgia Militia under Oglethorpe’s command. The Spanish were soundly defeated and forced to retreat back to Florida. The Battle of Bloody Marsh, as the skirmish was later known, was the first and only attempt by Spanish forces to invade Georgia.
+
+The Georgia Militia was again called upon to defend Georgia during the American Revolution. Georgia militiamen fought long and hard against British Regulars and Loyalist forces in a deeply divided Georgia back country and throughout the South for American Independence. In 1779, Georgia militiamen alongside those from South Carolina surprised and defeated a superior force of Loyalists at the Battle of Kettle Creek near Washington, Georgia. After the American Revolution, Georgia continued to maintain an active militia force throughout the 19th century. In 1836, a battalion of Georgia militia aided Texas’ freedom fighters in their fight against Mexican forces during the Texas Revolution.
+
+In 1861, as civil war broke out in the United States, Georgia Governor Joseph Brown activated numerous recruiting drives throughout the state to bolster the strength of the Georgia Militia. Although Brown tried to maintain his militia forces within state boundaries, many Georgia units were called up to join larger armies established by the Confederate government. Throughout the war Georgia sent the second largest number of volunteers to fight for the Confederacy (only eclipsed by Virginia). These volunteers took an active role in almost every front during the American Civil War. In 1864 as Union General William Tecumseh Sherman organized a large force of Northern troops in Chattanooga to begin his invasion of Georgia, militia units joined other Confederate troops in a gallant attempt to defend Georgia, and more importantly Atlanta. After the fall of Atlanta on September 2, 1864 Confederate troops left in a hasty retreat from Georgia and moved back into Tennessee. Sherman began to drive deeper into the heart of Georgia as he pushed toward Savannah. At the Battle of Griswoldville, near Macon, Georgia militiamen put up the only substantial resistance to Sherman’s March to the Sea when a force of militia attempted to slow the Union onslaught.
+
+<span class="image left"><img src="{{ "/images/GSDF-About-Us-Photo.png" | absolute_url }}" alt="" /></span>
+
+During World War I, the Georgia Militia was again called upon to serve the state. During this activation Militia units were assigned to guard key military targets around the state and take an active role in patrolling the Georgia coastline. In the 1940’s, Georgia Governor E.D. Rivers activated the Georgia Militia under a new name, the Georgia State Defense Corps. In addition to guarding key military targets in Georgia during World War II the State Defense Corps was also assigned to undergo training that would necessitate preventing an invasion by one of the Axis powers. As World War II came to a close, the State Defense Corps, now re-designated as the Georgia State Guard, reached a record strength of almost 5,000. 
+<div class="box">
+<p><a href="https://artsandculture.google.com/search/asset?q=georgia%20state%20guard&p=life-photo-collection">Click here to see Life Magzine's archive of GA State Guard WWII photos</a></p>
+</div>
+
+
+<span class="image fit"><img src="{{ "/images/186532502_10218270835193862_4320301694477267041_n.jpg" | absolute_url }}" alt="" /></span>
+
+<span class="image right"><img src="{{ "/images/152254925_10217777019568780_3414825137490488249_n.jpg" | absolute_url }}" alt="" /></span>
+
+In 1947, the Georgia State Guard was inactivated and remained inactive for the next thirty seven years. It was not until 1985 that a new breath of life was given to the State Guard when it was reactivated and authorized as the Georgia State Defense Force. Since its reactivation the Georgia State Defense Force has served the citizens of Georgia alongside the Georgia National Guard in every mission given from search and rescue to natural disaster relief. Currently the Georgia State Defense Force supports the state in the wake of the federal activation of the Georgia National Guard in military operations overseas.
+
+<span class="image left"><img src="{{ "/images/150604908_10217777011408576_8228314492096165739_n.jpg" | absolute_url }}" alt="" /></span>
+
+Throughout its history, the Georgia State Defense Force has played a variety of roles in the state’s proud history. Whether as an armed force or in a support role, the primary mission of the Georgia State Defense Force has not changed in more than 270 years. From its colonial roots to the present day, the Georgia State Defense Force continues to be “ready to serve” the needs of Georgia.
+
+ <span class="image fit"><img src="{{ "/images/187937244_10218288038503934_5384944778932966247_n.jpg" | absolute_url }}" alt="" /></span>
+
+
+
+
 
 
