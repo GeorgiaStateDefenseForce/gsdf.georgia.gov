@@ -8,12 +8,6 @@ sitemap:
     changefreq: weekly
 ---
 
-<a href="https://www.flickr.com/photos/georgia_state_defense_force/30107638932/">
-    <span class="image fit">
-        <img src="{{ "/images/30107638932_8842a0b099_c.jpg" | absolute_url }}" alt="" />
-    </span>
-</a>
-
 ## The Georgia State Defense Force
 
 ### Ready to Serve!
