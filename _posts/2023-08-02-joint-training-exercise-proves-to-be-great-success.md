@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joint Training Exercise Proves To Be Great Success
-date: 2023-08-02T15:34:24.603Z
+date: 2014-01-25T16:34:24.603Z
 excerpt: Joint Training Exercise Proves To Be Great Success
 author: gsdf
 image: /images/hotwash_macon-ftx2_chapman-1024x435.jpg
