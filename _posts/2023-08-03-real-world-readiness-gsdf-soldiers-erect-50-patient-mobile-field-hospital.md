@@ -19,7 +19,7 @@ The 911th Support Battalion and 132nd Medical Battalion of the 76th Support Brig
 
 The Georgia Department of Public Health’s Division of Health Protection provided the two 28-foot “Mobile Medical Asset” trailers used for the training exercise. The trailers each weigh approximately 11,000 pounds. They contain various medical equipment and supplies—from cots and disposable linens to stethoscopes and sterilizers—necessary for operating a fully functional field hospital.
 
-![This Georgia Department of Public Health “Mobile Medical Asset” trailer contains equipment and supplies for erecting a field hospital.  (Georgia State Defense Force photo by Chief Warrant Officer 2 Clunie)](/images/gsdf-mobile-medical-asset-trailer-f1-300x205.jpg)
+![This Georgia Department of Public Health “Mobile Medical Asset” trailer contains equipment and supplies for erecting a field hospital.  (Georgia State Defense Force photo by Chief Warrant Officer 2 Clunie)](/images/gsdf-mobile-medical-asset-trailer-f1-300x205.jpg){:class="full"}
 
 \
 *This Georgia Department of Public Health “Mobile Medical Asset” trailer contains equipment and supplies for erecting a field hospital. (Georgia State Defense Force photo by Chief Warrant Officer 2 Clunie)*
@@ -37,7 +37,7 @@ In addition to the Marietta location, other mobile medical units are pre-positio
 
 Following preliminary instructions, GSDF Soldiers peeled off their military blouses and tackled the mammoth operation with zeal. The exercise involved removing the massive mobile units (tents) and other equipment from the trailers, erecting the medical units, and later disassembling them.
 
-![Georgia State Defense Force Soldiers install lighting in the mobile medical hospital as a part of their training during this exercise, Aug. 13, 2016, at Kennesaw State University's Marietta campus in Marietta, Ga. (Georgia State Defense Force photo by Chief Warrant Officer 2 Clunie)](/images/gsdf-medical-installation2-300x240.jpg)
+![Georgia State Defense Force Soldiers install lighting in the mobile medical hospital as a part of their training during this exercise, Aug. 13, 2016, at Kennesaw State University's Marietta campus in Marietta, Ga. (Georgia State Defense Force photo by Chief Warrant Officer 2 Clunie)](/images/gsdf-medical-installation2-300x240.jpg){:class="full"}
 
 \
 *Georgia State Defense Force Soldiers install lighting in the mobile medical hospital as a part of their training during this exercise, Aug. 13, 2016, at Kennesaw State University's Marietta campus in Marietta, Ga. (Georgia State Defense Force photo by Chief Warrant Officer 2 Clunie)*
