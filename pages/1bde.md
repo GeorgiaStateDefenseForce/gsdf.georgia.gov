@@ -45,8 +45,7 @@ The Area of Operations (AO) for 2BN roughly consists of the counties within the 
 | ----------------------------- | --------------------------- | ------------------------- |
 | ![](/images/topleft.png){:class="full"} | ![](/images/topmiddle.png){:class="full"} | ![](/images/topright.png){:class="full"} |
 
-\| ﻿ Police Evidence Searches | Traffic Control            | Opposing Force Training
- |
+| ﻿ Police Evidence Searches | Traffic Control | Opposing Force Training |
 | ----------------------------- | -------------------------- | ------------------------ |
 | ![](/images/bottomleft.png){:class="full"} | ![](/images/bottommiddle.png){:class="full"} | ![](/images/bottomright.png){:class="full"} |
 
