@@ -36,7 +36,7 @@ Nevertheless, Alpha Class remained intact. Soldiers maintained weekly contact an
 
 Instead of the pandemic driving these Soldiers apart, COVID-19’s challenges brought them closer together. As the Alpha Class motto goes, “Alpha Leads!”
 
-![Georgia State Defense Force photo by Pvt. Taryn Evans](/images/gsdf-iet-marchert-close-cropped-solo-capture-300x290.jpg)
+![Georgia State Defense Force photo by Pvt. Taryn Evans](/images/gsdf-iet-marchert-close-cropped-solo-capture-300x290.jpg){:class="full"}
 
 \
 *Georgia State Defense Force photo by Pvt. Taryn Evans*
