@@ -40,8 +40,8 @@ The Area of Operations (AO) for 2BN roughly consists of the counties within the 
 
 
 
-| ﻿ Natural Disaster Assistance | Search & Rescue | Assist Civil Authorities |
-| ----------------------------- | --------------- | ------------------------ |
-|  ![](/images/topleft.png)   | test            | test    |
+| ﻿ Natural Disaster Assistance | Search & Rescue            | Assist Civil Authorities |
+| ----------------------------- | -------------------------- | ------------------------ |
+| ![](/images/topleft.png)| !\[](/images/topmiddle.png | ![](/images/topright.png) |
 
 If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1ST BDE as your preferred unit: <https://gsdf.georgia.gov/pages/contact/>
