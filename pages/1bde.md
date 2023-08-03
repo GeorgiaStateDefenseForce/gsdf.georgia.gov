@@ -56,7 +56,6 @@ The 3rd Battalion (3BN) is one of the three (3) battalions within the 1st Brigad
 
 **When We Train**
 
-
 3BN training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on Holiday conflicts. In additional to training drills, 3BN usually conducts two (2) Field Training Exercises (FTX) a year, bivouacking in the “woods”, to field test our training results.
 
 **Where We Train**
@@ -75,9 +74,9 @@ While some of those missions were adding additional soldier support, more recent
 
 Other METL (Mission Essential Task List) and Soldier Skills training includes:
 •	Land navigation
-•	CPR &amp; First Aid
+•	CPR & First Aid
 •	Radio communication
-•	Search &amp; Rescue (SAR)
+•	Search & Rescue (SAR)
 
 The 3BN also conducts additional training in relation to Disaster Relief, in case of hurricanes, tornados, or other weather-related events. This training includes:
 •	Chain saw operations
@@ -85,9 +84,29 @@ The 3BN also conducts additional training in relation to Disaster Relief, in cas
 •	Evacuee shelter assistance
 •	Area security
 •	Traffic control
-•	Search &amp; rescue
-•	Points of distribution (POD) operations of essential food supplies &amp; water to citizens in need
+•	Search & rescue
+•	Points of distribution (POD) operations of essential food supplies & water to citizens in need
 
 If you are willing to serve and live in the 3BN AO, please request to be part of the 3BN at MEPS or with your cadre at IET.
+
+## 4BN/1BDE
+
+The 4BN is known as the WSAR (Wilderness Search and Rescue) BN.
+
+**What We Do**
+
+The 4BN specialty is WSAR and we train regularly to sharpen and extend our skills and capabilities to support that mission.  4BN is also a force multiplier for TRADOC to guest instruct at SAR II classes and is also a certified BN to host and run a SAR II course.  While our primary tasking is SAR, we are also trained and proficient to deploy for all GSDF missions.  Those missions include urban SAR, POD operations, FEMA and GEMA support during natural disasters, augmenting and supporting our National Guard troops by providing opposition forces and providing support to local municipalities (from simple traffic control to running entire parades).  The Governor is our Commander-In-Chief but we serve the citizens of Georgia.
+
+**Area of Operation**
+
+The Area of Operations (AO) for 4BN is centered around the North Georgia mountains and surrounding areas.  However, we can be and have been deployed to locations across Georgia whenever needed to augment the National Guard units and serve the citizens of our state.  
+
+**When & Where Do We Train**
+
+4BN training weekend is usually the 2nd weekend (Bravo weekend) of the month and annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (BN or BDE or GSDF-wide).
+
+4BN is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade).  A large number of the cadets serve in the National Guard while attending the university to graduate and commission as officers in a branch of the US military or in a National Guard unit.  The Pine Valley Recreation Center in Dahlonega is the primary drill location for 4BN but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
+
+![](/images/41.png){:class="full"}
 
 If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1ST BDE as your preferred unit: <https://gsdf.georgia.gov/pages/contact/>
