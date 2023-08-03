@@ -17,4 +17,4 @@ Disaster relief is also a large part of what the 1BDE is involved with and train
 
 Drills are on a monthly basis at the 2nd, 3rd or 4th battalion armories or in the field within the battalion area of operation.  Annual Training (AT) is typically held at Ft. Stewart or at the Joint Air Dominance Center, also in Savannah. Here the monthly training is put to the test with a scenario based on that training. This is usually a three to four day exercise that shows the BDE skills or needed additional training.
 
-If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by tapping the link below for additional information and an application.
+If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1ST BDE as your preferred unit: <https://gsdf.georgia.gov/pages/contact/>
