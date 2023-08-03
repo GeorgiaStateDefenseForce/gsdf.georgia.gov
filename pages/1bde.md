@@ -30,18 +30,24 @@ If you live in north Georgia and are interested in being where the action really
 The Force Multipliers for GA National Guard, Emergency Mgmt Agencies & Civil Authorities
 
 **What We Do**
+
 The 2BN is ready to serve the State of Georgia.  Our soldiers are prepared to augment our Army and Air National Guard counterparts during pre-mobilization, annual training, and other special assignments.  When called upon by the Governor, we are ready to support civil authorities in the aftermath of natural disasters, during the pandemic and any time local authorities need a hand.  Our training includes search and rescue (SAR) in wilderness and urban environments, opposition forces (OPFOR), point of distribution (POD) operations, area and traffic control, special events, and much more.
 
 **Area of Operation**
+
 The Area of Operations (AO) for 2BN roughly consists of the counties within the area North of I-20 & West of 400 to the TN border.  Soldiers from 2BN routinely augment and deploy with other GSDF units across the state.
 
 **When & Where Do We Train**
+
 2BN A Company drills third (Charlie) weekend at the National Guard armory located in Marietta GA.  2BN B Company drills second (Bravo) weekend at the National Guard armory located in Rome GA.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF soldier, 2BN is the place to be!
 
+| ﻿ Natural Disaster Assistance | Search & Rescue            | Assist Civil Authorities  |
+| ----------------------------- | -------------------------- | ------------------------- |
+| ![](/images/topleft.png)      | !\[](/images/topmiddle.png) | ![](/images/topright.png) |
 
-
-| ﻿ Natural Disaster Assistance | Search & Rescue            | Assist Civil Authorities |
+\| ﻿ Police Evidence Searches | Traffic Control            | Opposing Force Training
+ |
 | ----------------------------- | -------------------------- | ------------------------ |
-| ![](/images/topleft.png)| !\[](/images/topmiddle.png | ![](/images/topright.png) |
+| ![](/images/bottomleft.png) | ![](/images/bottommiddle.png) | ![](/images/bottomright.png) |
 
 If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1ST BDE as your preferred unit: <https://gsdf.georgia.gov/pages/contact/>
