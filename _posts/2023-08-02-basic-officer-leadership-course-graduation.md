@@ -78,7 +78,7 @@ Capt. Bob Burgess<br />
 2nd Lt. Ed Knopick<br />
 WO1 David Maple
 
-![As part of COVID-19 precautions, Georgia State Defense Force (GSDF) Basic Officer Leadership Course (BOLC) graduates wear masks and practice social distancing. The BOLC graduation ceremony occurred at the Georgia Public Safety Training Center, Forsyth, Ga., August 9, 2020. The GSDF aired the ceremony on Facebook Live. Georgia State Defense Force photo by Pvt. Oliver Price](/images/gsdf-blackstock-4-auditorium-300x198.jpg)
+![As part of COVID-19 precautions, Georgia State Defense Force (GSDF) Basic Officer Leadership Course (BOLC) graduates wear masks and practice social distancing. The BOLC graduation ceremony occurred at the Georgia Public Safety Training Center, Forsyth, Ga., August 9, 2020. The GSDF aired the ceremony on Facebook Live. Georgia State Defense Force photo by Pvt. Oliver Price](/images/gsdf-blackstock-4-auditorium-300x198.jpg){:class="full"}
 
 *Georgia State Defense Force photo by Pvt. Oliver Price*
 
