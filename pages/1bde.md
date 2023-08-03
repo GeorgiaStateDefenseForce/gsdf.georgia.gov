@@ -41,13 +41,53 @@ The Area of Operations (AO) for 2BN roughly consists of the counties within the 
 
 2BN A Company drills third (Charlie) weekend at the National Guard armory located in Marietta GA.  2BN B Company drills second (Bravo) weekend at the National Guard armory located in Rome GA.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF soldier, 2BN is the place to be!
 
-| ﻿ Natural Disaster Assistance | Search & Rescue            | Assist Civil Authorities  |
-| ----------------------------- | -------------------------- | ------------------------- |
+| ﻿ Natural Disaster Assistance | Search & Rescue             | Assist Civil Authorities  |
+| ----------------------------- | --------------------------- | ------------------------- |
 | ![](/images/topleft.png)      | !\[](/images/topmiddle.png) | ![](/images/topright.png) |
 
 \| ﻿ Police Evidence Searches | Traffic Control            | Opposing Force Training
  |
 | ----------------------------- | -------------------------- | ------------------------ |
 | ![](/images/bottomleft.png) | ![](/images/bottommiddle.png) | ![](/images/bottomright.png) |
+
+## 3BN /1BDE
+
+The 3rd Battalion (3BN) is one of the three (3) battalions within the 1st Brigade (1BDE) of the GSDF.
+
+**When We Train**
+
+
+3BN training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on Holiday conflicts. In additional to training drills, 3BN usually conducts two (2) Field Training Exercises (FTX) a year, bivouacking in the “woods”, to field test our training results.
+
+**Where We Train**
+
+The 3BN home training base is the Georgia Army National Guard (GAANG) Army Aviation Support Facility (AASF#1) located at the Winder, GA airport. This facility supports GAANG Blackhawk maintenance work and has 24 hour/7 day a week security on site.
+
+**Area of Operation**
+
+The Area of Operations (AO) for the 3BN roughly consists of the counties within the area North of I-20, West to I-285, South of I-85, and East to the SC border. The 3BN also routinely augments other 1BDE BNs, and mission support for other GSDF BDEs, so therefore 3BN soldiers could provide support anywhere within the State of Georgia.
+
+**What We Do**
+
+Our primary goal is supporting the Georgia Army National Guard. Since 2014, 3BN have provided assistance to the GAANG 178th MP Company based in Monroe, GA, and the 1-121 Infantry Unit based in Winder, GA. 
+
+While some of those missions were adding additional soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. These OPFORs allow the GAANG to utilize us as “enemies” to help better train their soldiers for real world missions.
+
+Other METL (Mission Essential Task List) and Soldier Skills training includes:
+•	Land navigation
+•	CPR &amp; First Aid
+•	Radio communication
+•	Search &amp; Rescue (SAR)
+
+The 3BN also conducts additional training in relation to Disaster Relief, in case of hurricanes, tornados, or other weather-related events. This training includes:
+•	Chain saw operations
+•	Debris clearing
+•	Evacuee shelter assistance
+•	Area security
+•	Traffic control
+•	Search &amp; rescue
+•	Points of distribution (POD) operations of essential food supplies &amp; water to citizens in need
+
+If you are willing to serve and live in the 3BN AO, please request to be part of the 3BN at MEPS or with your cadre at IET.
 
 If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1ST BDE as your preferred unit: <https://gsdf.georgia.gov/pages/contact/>
