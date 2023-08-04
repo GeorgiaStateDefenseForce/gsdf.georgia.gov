@@ -7,6 +7,8 @@ sitemap:
   lastmod: 2021-10-08
   changefreq: yearly
 ---
+![](/images/1bde-creat.png)
+
 # 1st Brigade
 
 The 1BDE is the “boots on the ground” for the Georgia State Defense Force in North Georgia. Currently lead by BDE Commander Col Anthony Evangelista.  
@@ -41,12 +43,12 @@ The Area of Operations (AO) for 2BN roughly consists of the counties within the 
 
 2BN A Company drills third (Charlie) weekend at the National Guard armory located in Marietta GA.  2BN B Company drills second (Bravo) weekend at the National Guard armory located in Rome GA.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF soldier, 2BN is the place to be!
 
-| ﻿ Natural Disaster Assistance | Search & Rescue | Assist Civil Authorities  |
-| ----------------------------- | --------------------------- | ------------------------- |
+| ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
+| --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
 | ![](/images/topleft.png){:class="full"} | ![](/images/topmiddle.png){:class="full"} | ![](/images/topright.png){:class="full"} |
 
-| ﻿ Police Evidence Searches | Traffic Control | Opposing Force Training |
-| ----------------------------- | -------------------------- | ------------------------ |
+| ﻿ Police Evidence Searches                 | Traffic Control                              | Opposing Force Training                     |
+| ------------------------------------------ | -------------------------------------------- | ------------------------------------------- |
 | ![](/images/bottomleft.png){:class="full"} | ![](/images/bottommiddle.png){:class="full"} | ![](/images/bottomright.png){:class="full"} |
 
 ## 3BN /1BDE
