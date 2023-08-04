@@ -28,7 +28,7 @@ SSG Kimble learned of the GSDF from the brochure, obtained at the booth installe
 
 For recent work with Operation Vigilant Guard and Operation Patriot Bandoleer, SSG Kimble received a Challenge Coin for her “amazing patriotism” to serve on both missions. It’s only one of several recognitions SSG Kimble has earned. These recognitions include two GSDF Commendation Medals, a GSDF Unit commander Citation, a GSDF Master Mission Badge, and a GSDF Basic Instructor Badge, along with two GAARNG commendations. During Basic Noncommissioned Officer Class (BNCOC) Class 14-01 last year, SSG Kimble earned the Honor Graduate Leadership Award.
 
-![Treadwell_Chapman](/images/treadwell_chapman-1024x819.jpg)
+![Treadwell_Chapman](/images/treadwell_chapman-1024x819.jpg){:class="full"}
 
 
 
