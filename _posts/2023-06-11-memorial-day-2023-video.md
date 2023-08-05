@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Memorial Day 2023 Video "
-date: 2023-06-11T21:48:13.901Z
+date: 2023-05-01T21:48:13.901Z
 excerpt: Georgia State Defense Force Commanding General Brig. Gen. Mark D.
   Gelhardt Sr. delivers a Memorial Day address.
 author: gsdf
