@@ -20,4 +20,4 @@ The Laotian Award of Merit is the fourth highest award given by the nation of La
 
 The GASDF Soldiers were pinned by Major General Buford Compton of the Royal Lao Airborne.
 
-![4th Brigade RLA award ceremony on August 5th 2023.   Georgia State Defense Force photo by PVT Christina Turner.](/images/20230805_110944.jpg "4th Brigade RLA award ceremony on August 5th 2023.   Georgia State Defense Force photos by PVT Christina Turner.")
+![4th Brigade RLA award ceremony on August 5th 2023. Georgia State Defense Force photo by PVT Christina Turner.](/images/20230805_110944.jpg "4th Brigade RLA award ceremony on August 5th 2023. Georgia State Defense Force photos by PVT Christina Turner.")
