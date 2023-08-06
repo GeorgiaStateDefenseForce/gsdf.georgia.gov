@@ -8,7 +8,7 @@ excerpt: "On August 5th 2023, three Soldiers from the Georgia State Defense
   Nation of Laos and the Royal Lao Airborne for rescuing one of their
   Paratroopers. "
 author: gsdf
-image: /images/200px-Gasdflogo2_Responsive.jpg
+image: /images/20230805_110958.jpg
 ---
 On May 20, 2023, during airborne training in Waynesville, Ohio, (training not GSDF-related), a Laotian Airborne Soldier had a malfunction with his parachute and was blown three miles off course. Rescue efforts by the civilian employees of the drop zone failed to locate the Soldier. Following three hours of searching, nightfall rolled and a dangerous thunderstorm loomed ahead.
 
@@ -19,3 +19,5 @@ After several attempts to break through the hedge row, they finally reached the 
 The Laotian Award of Merit is the fourth highest award given by the nation of Laos and is awarded for "Setting oneself apart from form his/her comrades by outstanding non-combat meritorious achievement or service."
 
 The GASDF Soldiers were pinned by Major General Buford Compton of the Royal Lao Airborne.
+
+![4th Brigade RLA award ceremony on August 5th 2023.   Georgia State Defense Force photo by PVT Christina Turner.](/images/20230805_110944.jpg "4th Brigade RLA award ceremony on August 5th 2023.   Georgia State Defense Force photos by PVT Christina Turner.")
