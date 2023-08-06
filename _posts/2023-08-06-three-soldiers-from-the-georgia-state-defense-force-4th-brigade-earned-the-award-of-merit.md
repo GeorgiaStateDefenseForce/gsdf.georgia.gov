@@ -8,7 +8,7 @@ excerpt: " Soldiers Earn the Award of Merit from the Crown Prince of the Nation
 author: gsdf
 image: /images/20230805_110958.jpg
 ---
-On May 20, 2023, during airborne training in Waynesville, Ohio, (training not GSDF-related), a Laotian Airborne Soldier had a malfunction with his parachute and was blown three miles off course. Rescue efforts by the civilian employees of the drop zone failed to locate the Soldier. Following three hours of searching, nightfall rolled in and a dangerous thunderstorm loomed ahead.
+On May 20, 2023, during airborne training in Waynesville, Ohio, (non-GSDF-related training), a Laotian Airborne Soldier had a malfunction with his parachute and was blown three miles off course. Rescue efforts by the civilian employees of the drop zone failed to locate the Soldier. Following three hours of searching, nightfall rolled in and a dangerous thunderstorm loomed ahead. 
 
 Relying upon various GSDF trainings, 1st Lt. Travis Bryan, Master Sgt. Drew Kearns, and Pvt. Joseph Legg initiated a separate search for the Soldier. They obtained two-way radios, enlisted two Laotian Soldiers as interpreters, jumped in two cars, and headed out into the night. Within an hour, they found the missing Soldier, who had been hanging 15 feet up in a tree, beyond a densely thick hedge row.
 
