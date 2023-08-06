@@ -14,5 +14,4 @@ image: https://live.staticflickr.com/65535/52958040089_37b2c3b028_5k_d.jpg
 *The GSDF is a component of the Georgia Department of Defense, along with the Georgia Air National Guard and Georgia Army National Guard.* 
 
 *Georgia State Defense Force photos by Staff Sgt. Kerry Hatcher*
-
-<a data-flickr-embed="true" data-header="true" data-footer="true" data-context="true" href="https://www.flickr.com/photos/georgia_state_defense_force/52957890696/in/album-72177720308862180/" title="Day 1"><img src="https://live.staticflickr.com/65535/52957890696_96bea4b4c6_b.jpg" width="100%" height="683" alt="Day 1"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/georgia_state_defense_force/albums/72177720308862180" title="SFAB June 2023"><img src="https://live.staticflickr.com/65535/52958276130_f543ff7f9a_b.jpg" width="100%" height="768" alt="SFAB June 2023"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
