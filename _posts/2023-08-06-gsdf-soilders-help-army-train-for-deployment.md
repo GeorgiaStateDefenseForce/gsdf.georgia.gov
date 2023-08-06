@@ -15,4 +15,4 @@ image: https://live.staticflickr.com/65535/52958040089_37b2c3b028_5k_d.jpg
 
 *Georgia State Defense Force photos by Staff Sgt. Kerry Hatcher*
 
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/georgia_state_defense_force/albums/72177720308862180" title="SFAB June 2023"><img src="https://live.staticflickr.com/65535/52958276130_f543ff7f9a_b.jpg" width="100%" height="768" alt="SFAB June 2023"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/georgia_state_defense_force/albums/72177720308862180" title="SFAB June 2023"><img src="https://live.staticflickr.com/65535/52958276130_f543ff7f9a_b.jpg" width="100%" height="800" alt="SFAB June 2023"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
