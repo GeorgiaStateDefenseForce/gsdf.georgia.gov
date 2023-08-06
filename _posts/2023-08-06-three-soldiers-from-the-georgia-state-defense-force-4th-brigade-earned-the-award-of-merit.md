@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three Soldiers from the Georgia State Defense Force 4th Brigade earned
+title: "Three Soldiers from the Georgia State Defense Force 4th Brigade Earned
   the Award of Merit "
 date: 2023-08-05T16:29:53.035Z
 excerpt: "On August 5th 2023, three Soldiers from the Georgia State Defense
