@@ -16,9 +16,9 @@ After several attempts to break through the hedge row, the GSDF Soldiers finally
 
 The Laotian Award of Merit is the fourth highest award given by Laos and is awarded for "Setting oneself apart from form his/her comrades by outstanding non-combat meritorious achievement or service."
 
- Maj. Gen. Buford Compton of the Royal Lao Airborne pinned the three Soldiers on August 5, 2023, Ashburn, Ga.
+ Maj. Gen. Buford Compton of the Royal Lao Airborne pinned the three Soldiers, Ashburn, Ga., August 5, 2023.
 
-*Story submitted by Master Sgt. Drew Kearns*
+*Story by Master Sgt. Drew Kearns*
 
 *P﻿hotos by Pvt. Christina Turner*
 
