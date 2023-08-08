@@ -19,11 +19,11 @@ The 1BDE is the “boots on the ground” for the Georgia State Defense Force.
 
 The 1BDE is extensively trained in SAR (search and rescue) and land navigation, having provided skilled assistance to local authorities in their efforts to locate lost persons. the 1BDE is also trained in disaster relief, having provided assistance tot the state of Georgia and its communities.
 
- Whether it is shelter augmentation, chain saw operations, traffic control, SAR, area security, POD (point of distribution) operations or any other need, the 1BDE has always been ready to serve the citizens of the state of Georgia. 
+Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, area security, point of distribution operations or other needs, the 1BDE is ready to serve!
 
-**1st BDE AO**
+**1st BDE Area of Operation**
 
-**The “area of operation” (AO) of the 1BD**E is everything north of I-20 but including areas in Dekalb, Henry and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. 2nd Battalion headquartered in Marietta with a company also located in Rome. 3BN headquartered in Winder and 4BN headquartered in Dahlonega. 
+**The “area of operation” (AO) of the 1BD**E is north of I-20, but including areas in Dekalb, Henry, and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion, headquartered in Winder, and the 4th Battalion, is headquartered in Dahlonega. 
 
 **How to Join 1BDE**
 
