@@ -45,7 +45,7 @@ The Area of Operation (AO) for the 2nd Battalion roughly consists of the countie
 
 **When and Where Do We Train**
 
-The 2nd Battalion A Company drills third (Charlie) weekend of each month at the National Guard armory in Marietta Ga. The 2nd Battalion Company drills the second (Bravo) weekend of the month at the National Guard armory in Rome Ga. 
+The 2nd Battalion A Company drills third (Charlie) weekend of each month at the National Guard armory in Marietta Ga. The 2nd Battalion Company drills the second (Bravo) weekend of the month at the National Guard armory in Rome, Ga. 
 
 | ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
 | --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
@@ -100,17 +100,17 @@ The 4th Battalion is known as the Wilderness Search and Rescue (WSAR) battalion.
 
 The 4th Battalion specializes in wilderness search and rescue. The 4th Battalion regularly trains to sharpen and extend our skills and capabilities to support that mission. The 4th Battalion is also a force multiplier for TRADOC to guest instruct at SAR II classes and is also certified to host and run a SAR II course.  
 
-While our primary task is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban SAR, point of distribution operations, and FEMA and GEMA support during natural disasters. The 4th Battalion augments and supports the National Guard troops by providing opposition forces and providing support to local municipalities (from simple traffic control to running entire parades).  The Governor is our Commander-In-Chief but we serve the citizens of Georgia.
+While our primary task is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban SAR, point of distribution operations, and FEMA and GEMA support during natural disasters. The 4th Battalion augments and supports the National Guard troops by providing opposition forces and providing support to local municipalities (from simple traffic control to running entire parades). 
 
 **Area of Operation**
 
-The Area of Operations (AO) for 4BN is centered around the north Georgia mountains and surrounding areas.  However, we can be and have been deployed to locations across Georgia whenever needed to augment the National Guard units and serve the citizens of our state.  
+The Area of Operation (AO) for 4BN is centered around the north Georgia mountains and surrounding areas.  However, we have been deployed to locations across Georgia, whenever needed, to augment the National Guard units and serve the citizens of our state.  
 
-**When & Where Do We Train**
+**When and Where Do We Train**
 
 The 4BN training weekend is usually the 2nd weekend (Bravo weekend) of the month and annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (BN or BDE or GSDF-wide).
 
-4BN is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade).  A large number of the cadets serve in the National Guard while attending the university to graduate and commission as officers in a branch of the US military or in a National Guard unit.  The Pine Valley Recreation Center in Dahlonega is the primary drill location for 4BN but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
+4BN is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). A large number of the cadets serve in the National Guard while attending the university to graduate and commission as officers in a branch of the US military or in a National Guard unit. The Pine Valley Recreation Center in Dahlonega is the primary drill location for 4BN, but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
 
 ![](/images/41.png){:class="full"}
 
