@@ -31,9 +31,9 @@ Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, a
 
 ![Map of AOs](/images/picture1.png){:class="full"}
 
-## 2BN/1BDE
+## 2nd Battalion
 
-The Force Multipliers for GA National Guard, Emergency Mgmt Agencies & Civil Authorities
+The 2nd Battalion provides force multipliers for the Georgia National Guard, emergency management agencies and civil authorities.
 
 **What We Do**
 
