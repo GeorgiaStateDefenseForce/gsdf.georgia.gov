@@ -11,7 +11,7 @@ sitemap:
 
 # 1st Brigade
 
-The 1BDE is the “boots on the ground” for the Georgia State Defense Fore 
+The 1BDE is the “boots on the ground” for the Georgia State Defense Force.
 
 **1st BDE Mission**
 
