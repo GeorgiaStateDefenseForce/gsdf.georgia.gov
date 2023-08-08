@@ -67,7 +67,7 @@ The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG)
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 3BN roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and east to the South Carolina border. The 3BN also routinely augments other 1 BDE battalions, and provides mission support for other GSDF brigades. 
+The Area of Operation (AO) for the 3BN roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and east to the South Carolina border. The 3BN also routinely augments other 1 BDE battalions, and provides mission support for other GSDF brigades. 
 
 **What We Do**
 
@@ -81,13 +81,13 @@ Other METL (Mission Essential Task List) and Soldier skills training includes:
 •	Radio communication
 •	Search & Rescue (SAR)
 
-The 3BN also conducts additional training in relation to Disaster Relief, in case of hurricanes, tornados, or other weather-related events. This training includes:
+The 3rd Battalion also conducts additional training in relation to disaster relief, in case of hurricanes, tornados, or other weather-related events. This training includes:
 •	Chainsaw operations
 •	Debris clearing
 •	Evacuee shelter assistance
 •	Area security
 •	Traffic control
-•	Search & rescue
+•	Search and rescue
 •	Points of distribution (POD) operations of essential food supplies & water to citizens in need
 
 If you are willing to serve and live in the 3BN AO, please request to be part of the 3BN at MEPS or with your cadre at IET.
