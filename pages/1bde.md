@@ -92,15 +92,15 @@ The 3BN also conducts additional training in relation to Disaster Relief, in cas
 
 If you are willing to serve and live in the 3BN AO, please request to be part of the 3BN at MEPS or with your cadre at IET.
 
-## 4BN/1BDE
+## 4th Battalion
 
-The 4BN is known as the WSAR (Wilderness Search and Rescue) Battalion.
+The 4th Battalion is known as the Wilderness Search and Rescue (WSAR) battalion.
 
 **What We Do**
 
 The 4the Battalion specializes in wilderness search and resuce. The 4th Battalion regularly trains to sharpen and extend our skills and capabilities to support that mission. The 4BN is also a force multiplier for TRADOC to guest instruct at SAR II classes and is also certified to host and run a SAR II course.  
 
-While our primary tasking is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban SAR, point of distribution operations, FEMA and GEMA support during natural disasters. The 4th Battalion augmenting and supporting our National Guard troops by providing opposition forces and providing support to local municipalities (from simple traffic control to running entire parades).  The Governor is our Commander-In-Chief but we serve the citizens of Georgia.
+While our primary tasking is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban SAR, point of distribution operations, FEMA and GEMA support during natural disasters. The 4th Battalion augments and supports the National Guard troops by providing opposition forces and providing support to local municipalities (from simple traffic control to running entire parades).  The Governor is our Commander-In-Chief but we serve the citizens of Georgia.
 
 **Area of Operation**
 
