@@ -63,7 +63,7 @@ The 3rd Battalion training occurs one weekend a month, usually the third (Charli
 
 **Where We Train**
 
-The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, Ga., airport. This facility supports GAARNG Black Hawk maintenance work and has  24/7 security on site.
+The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, Ga., airport. This facility supports GAARNG Black Hawk maintenance work and has 24/7 security on site.
 
 **Area of Operation**
 
@@ -75,7 +75,7 @@ Our primary goal is supporting the Georgia Army National Guard. Since 2014, 3BN 
 
 While some of those missions were adding additional Soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. These OPFORs allow the GAANG to utilize us as “enemies” to help better train their soldiers for real world missions.
 
-Other METL (Mission Essential Task List) and Soldier Skills training includes:
+Other METL (Mission Essential Task List) and Soldier skills training includes:
 •	Land navigation
 •	CPR & First Aid
 •	Radio communication
@@ -94,15 +94,17 @@ If you are willing to serve and live in the 3BN AO, please request to be part of
 
 ## 4BN/1BDE
 
-The 4BN is known as the WSAR (Wilderness Search and Rescue) BN.
+The 4BN is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
 **What We Do**
 
-The 4BN specialty is WSAR and we train regularly to sharpen and extend our skills and capabilities to support that mission.  4BN is also a force multiplier for TRADOC to guest instruct at SAR II classes and is also a certified BN to host and run a SAR II course.  While our primary tasking is SAR, we are also trained and proficient to deploy for all GSDF missions.  Those missions include urban SAR, POD operations, FEMA and GEMA support during natural disasters, augmenting and supporting our National Guard troops by providing opposition forces and providing support to local municipalities (from simple traffic control to running entire parades).  The Governor is our Commander-In-Chief but we serve the citizens of Georgia.
+The 4the Battalion specializes in wilderness search and resuce. The 4th Battalion regularly trains to sharpen and extend our skills and capabilities to support that mission. The 4BN is also a force multiplier for TRADOC to guest instruct at SAR II classes and is also certified to host and run a SAR II course.  
+
+While our primary tasking is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban SAR, point of distribution operations, FEMA and GEMA support during natural disasters. The 4th Battalion augmenting and supporting our National Guard troops by providing opposition forces and providing support to local municipalities (from simple traffic control to running entire parades).  The Governor is our Commander-In-Chief but we serve the citizens of Georgia.
 
 **Area of Operation**
 
-The Area of Operations (AO) for 4BN is centered around the North Georgia mountains and surrounding areas.  However, we can be and have been deployed to locations across Georgia whenever needed to augment the National Guard units and serve the citizens of our state.  
+The Area of Operations (AO) for 4BN is centered around the north Georgia mountains and surrounding areas.  However, we can be and have been deployed to locations across Georgia whenever needed to augment the National Guard units and serve the citizens of our state.  
 
 **When & Where Do We Train**
 
@@ -112,4 +114,4 @@ The Area of Operations (AO) for 4BN is centered around the North Georgia mountai
 
 ![](/images/41.png){:class="full"}
 
-If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1ST BDE as your preferred unit: <https://gsdf.georgia.gov/pages/contact/>
+If interested in joining the 1BDE, contact the 1BDE recruiter by filling out this contact form and choosing 1ST BDE as your preferred unit: <https://gsdf.georgia.gov/pages/contact/>
