@@ -54,3 +54,7 @@ img.full {
 .post_content img {
     width: 100% !important;
 }
+
+[data-slate-editor] { 
+    -webkit-user-modify: read-write !important; 
+}
