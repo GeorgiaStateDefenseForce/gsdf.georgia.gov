@@ -11,9 +11,11 @@ sitemap:
 
 # 1st Brigade
 
+#  "Boots on the Ground!"
+
 The 1BDE is the “boots on the ground” for the Georgia State Defense Force.
 
-**1st BDE Mission**
+**Mission**
 
 The 1BDE is extensively trained in SAR (search and rescue) and land navigation.  1BDE has provided skilled assistance to local authorities in their efforts to locate lost persons. Disaster relief is also a large part of what the 1BDE is involved with and trains for every year. Whether it is shelter augmentation, chain saw operations, traffic control, SAR, area security, POD (point of distribution) operations or any other need, the 1BDE has always been ready to serve the citizens of the state of Georgia. 
 
