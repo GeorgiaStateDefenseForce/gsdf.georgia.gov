@@ -33,19 +33,19 @@ Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, a
 
 ## 2nd Battalion
 
-The 2nd Battalion provides force multipliers for the Georgia National Guard, emergency management agencies and civil authorities.
+The 2nd Battalion provides force multipliers for the Georgia National Guard, emergency management agencies, and civil authorities.
 
 **What We Do**
 
-The 2BN is ready to serve the State of Georgia.  Our Soldiers are prepared to augment our Army and Air National Guard counterparts during pre-mobilization, annual training, and other special assignments.  When called upon by the Governor, we are ready to support civil authorities in the aftermath of natural disasters, during the pandemic and any time local authorities need a hand.  Our training includes search and rescue (SAR) in wilderness and urban environments, opposition forces (OPFOR), point of distribution (POD) operations, area and traffic control, special events, and much more.
+The 2nd Battalion is prepared to augment Army and Air National Guard counterparts during pre-mobilization, annual training, and other special assignments.  When called upon by the Governor, we are ready to support civil authorities in the aftermath of natural disasters, during the pandemic and any time local authorities need a hand.  Our training includes SAR in wilderness and urban environments, opposition forces (OPFOR), point of distribution  operations, area and traffic control, special events, and more.
 
 **Area of Operation**
 
-The Area of Operations (AO) for 2BN roughly consists of the counties within the area north of I-20 & west of 400 to the Tennesseeborder.  Soldiers from 2BN routinely augment and deploy with other GSDF units across the state.
+The Area of Operations (AO) for 2BN roughly consists of the counties within the area north of I-20 and west of 400 to the Tennessee border.  Soldiers from 2nd Battalion routinely augment and deploy with other GSDF units across the state.
 
-**When & Where Do We Train**
+**When and Where Do We Train**
 
-2BN A Company drills third (Charlie) weekend at the National Guard armory located in Marietta Ga.  2BN Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF Soldier, 2BN is the place to be!
+The 2nd Battalion A Company drills third (Charlie) weekend of each month at the National Guard armory in Marietta Ga.  The 2BN Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF Soldier, 2BN is the place to be!
 
 | ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
 | --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
