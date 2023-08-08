@@ -45,7 +45,7 @@ The Area of Operations (AO) for 2BN roughly consists of the counties within the 
 
 **When and Where Do We Train**
 
-The 2nd Battalion A Company drills third (Charlie) weekend of each month at the National Guard armory in Marietta Ga.  The 2BN Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF Soldier, 2BN is the place to be!
+The 2nd Battalion A Company drills third (Charlie) weekend of each month at the National Guard armory in Marietta Ga.  The 2nd Battalion Company drills the second (Bravo) weekend of the month at the National Guard armory  in Rome Ga. 
 
 | ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
 | --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
