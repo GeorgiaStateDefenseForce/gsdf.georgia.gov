@@ -15,7 +15,7 @@ sitemap:
 
 ![OPFOR HOOAH!!](/images/opfor10.jpg "OPFOR HOOAH!!"){:class="full"}
 
-OPFOR (**OP**posing **FOR**ce) Battalion is a special unit tasked with emulating enemy tactics for purposes of military training. OPFOR Battalion was established by the GSDF in 2018 to conduct direct support operations to the Georgia Army National Guard during pre-deployment preparation and training. OPFOR Soldiers learn and execute both traditional and irregular warfare and combat tactics. When called upon to conduct training exercises with the Georgia Army National Guard, OPFOR Battalion Soldiers are able to imitate potential enemy tactics at a high level to provide realistic training scenarios for Georgia Army National Guard Soldiers as they prepare for international deployment.   
+OPFOR (**OP**posing **FOR**ce) Battalion is a special unit tasked with emulating enemy tactics for purposes of military training. In 2018, the GSDF established the OPFOR Battalion to conduct direct support operations to the Georgia Army National Guard during pre-deployment preparation and training. OPFOR Soldiers learn and execute both traditional and irregular warfare and combat tactics. When called upon to conduct training exercises with the Georgia Army National Guard, OPFOR Battalion Soldiers are able to imitate potential enemy tactics at a high level to provide realistic training scenarios for Georgia Army National Guard Soldiers as they prepare for international deployment.     
 
 ![OPFOR doing OPFOR stuff with Blackhawks](/images/opfor5.jpg "OPFOR doing OPFOR stuff with Blackhawks"){:class="full"}
 
@@ -27,15 +27,15 @@ Any GSDF Soldiers can earn the OPFOR rocker patch by deploying and participating
 
 OPFOR Battalion is composed of the following:
 
-* **Headquarters and Headquarters Company**. Located in Cumming, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team, the HQ oversees operations, intelligence, personnel and recruiting..
+* **Headquarters and Headquarters Company**. Located in Cumming, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team, the HQ oversees operations, intelligence, personnel and recruiting.
 * **A Company**. Located in Cumming, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team. Responsibility: Combat Training Support.
-* **B Company**. Located in Atlanta, Ga, and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team. Responsibility: Combat Training Support.
-* **D Company**. Located in Cumming, Ga. Responsibility: Initial Entry Training (IET) for new GSDF and OPFOR recruits.
+* **B Company**. Located in Atlanta, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team. Responsibility: Combat Training Support.
+* **D Company**. Located in Cumming, Ga., Responsibility: Initial Entry Training (IET) for new GSDF and OPFOR recruits.
 
 For Domestic Operations (**DOMOPS**) and the Defense Support of Civil Authorities (**DSCA**), OPFOR Battalion Soldiers are prepared and ready to answer the call-up at any time to support the mission.
 
 ![Throwin' smoke!](/images/opfor2.jpeg "OPFOR Mission"){:class="full"}
 
-Serving in OPFOR Battalion requires a higher-than-average commitment, with frequent overnight stays in outdoor settings and physically challenging military training. Serving in the GSDF OPFOR unit is a privilege and an adventure. OPFOR soldiers are 100% dedicated to supporting the Georgia Army National Guard in its training, missions, and deployments.
+Serving in OPFOR Battalion requires a higher-than-average commitment, with frequent overnight stays in outdoor settings and physically challenging military training. Serving in the GSDF OPFOR unit is a privilege and an adventure. OPFOR Soldiers are 100% dedicated to supporting the Georgia Army National Guard in its training, missions, and deployments.
 
 ![OPFOR taking a 4-mile ruck to downtown Cumming, GA](/images/opfor1.jpg "OPFOR RUCK"){:class="full"}
