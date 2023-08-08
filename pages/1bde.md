@@ -63,7 +63,7 @@ The 3rd Battalion training occurs one weekend a month, usually the third (Charli
 
 **Where We Train**
 
-The 3BN home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, GA airport. This facility supports GAARNG Black Hawk maintenance work and has 24 hour/7 day a week security on site.
+The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, GA airport. This facility supports GAARNG Black Hawk maintenance work and has 24 hour/7 day a week security on site.
 
 **Area of Operation**
 
