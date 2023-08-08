@@ -41,7 +41,7 @@ The 2nd Battalion is prepared to augment Army and Air National Guard counterpart
 
 **Area of Operation**
 
-The Area of Operations (AO) for 2BN roughly consists of the counties within the area north of I-20 and west of 400 to the Tennessee border.  Soldiers from 2nd Battalion routinely augment and deploy with other GSDF units across the state.
+The Area of Operation (AO) for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west of 400 to the Tennessee border. Soldiers from 2nd Battalion routinely augment and deploy with other GSDF units across the state.
 
 **When and Where Do We Train**
 
@@ -67,7 +67,7 @@ The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG)
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 3BN roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and East to the South Carolina border. The 3BN also routinely augments other 1 BDE Battalions, and provides mission support for other GSDF brigades. 
+The Area of Operations (AO) for the 3BN roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and east to the South Carolina border. The 3BN also routinely augments other 1 BDE battalions, and provides mission support for other GSDF brigades. 
 
 **What We Do**
 
@@ -98,9 +98,9 @@ The 4th Battalion is known as the Wilderness Search and Rescue (WSAR) battalion.
 
 **What We Do**
 
-The 4the Battalion specializes in wilderness search and resuce. The 4th Battalion regularly trains to sharpen and extend our skills and capabilities to support that mission. The 4BN is also a force multiplier for TRADOC to guest instruct at SAR II classes and is also certified to host and run a SAR II course.  
+The 4th Battalion specializes in wilderness search and rescue. The 4th Battalion regularly trains to sharpen and extend our skills and capabilities to support that mission. The 4th Battalion is also a force multiplier for TRADOC to guest instruct at SAR II classes and is also certified to host and run a SAR II course.  
 
-While our primary tasking is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban SAR, point of distribution operations, FEMA and GEMA support during natural disasters. The 4th Battalion augments and supports the National Guard troops by providing opposition forces and providing support to local municipalities (from simple traffic control to running entire parades).  The Governor is our Commander-In-Chief but we serve the citizens of Georgia.
+While our primary task is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban SAR, point of distribution operations, and FEMA and GEMA support during natural disasters. The 4th Battalion augments and supports the National Guard troops by providing opposition forces and providing support to local municipalities (from simple traffic control to running entire parades).  The Governor is our Commander-In-Chief but we serve the citizens of Georgia.
 
 **Area of Operation**
 
@@ -108,7 +108,7 @@ The Area of Operations (AO) for 4BN is centered around the north Georgia mountai
 
 **When & Where Do We Train**
 
-4BN training weekend is usually the 2nd weekend (Bravo weekend) of the month and annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (BN or BDE or GSDF-wide).
+The 4BN training weekend is usually the 2nd weekend (Bravo weekend) of the month and annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (BN or BDE or GSDF-wide).
 
 4BN is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade).  A large number of the cadets serve in the National Guard while attending the university to graduate and commission as officers in a branch of the US military or in a National Guard unit.  The Pine Valley Recreation Center in Dahlonega is the primary drill location for 4BN but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
 
