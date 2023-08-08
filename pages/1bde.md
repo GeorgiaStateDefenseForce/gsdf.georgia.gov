@@ -19,11 +19,11 @@ The 1BDE is extensively trained in SAR (search and rescue) and land navigation. 
 
 **1st BDE AO**
 
-**The “area of operation” (AO) of the 1BD**E is everything north of I-20 but including areas in Dekalb, Henry and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. 2BN headquartered in Marietta with a company also located in Rome. 3BN headquartered in Winder and 4BN headquartered in Dahlonega. 
+**The “area of operation” (AO) of the 1BD**E is everything north of I-20 but including areas in Dekalb, Henry and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. 2nd Battalion headquartered in Marietta with a company also located in Rome. 3BN headquartered in Winder and 4BN headquartered in Dahlonega. 
 
 **How to Join 1BDE**
 
-**If you live in north Georgia and are interested in being where the action really is, contact SSG Timothy Richardson, lead recruiter for 1BDE**
+**To join the 1BD, please contact SSG Timothy Richardson, lead recruiter for the 1BDE.**
 
 ![Map of AOs](/images/picture1.png){:class="full"}
 
@@ -33,15 +33,15 @@ The Force Multipliers for GA National Guard, Emergency Mgmt Agencies & Civil Aut
 
 **What We Do**
 
-The 2BN is ready to serve the State of Georgia.  Our soldiers are prepared to augment our Army and Air National Guard counterparts during pre-mobilization, annual training, and other special assignments.  When called upon by the Governor, we are ready to support civil authorities in the aftermath of natural disasters, during the pandemic and any time local authorities need a hand.  Our training includes search and rescue (SAR) in wilderness and urban environments, opposition forces (OPFOR), point of distribution (POD) operations, area and traffic control, special events, and much more.
+The 2BN is ready to serve the State of Georgia.  Our Soldiers are prepared to augment our Army and Air National Guard counterparts during pre-mobilization, annual training, and other special assignments.  When called upon by the Governor, we are ready to support civil authorities in the aftermath of natural disasters, during the pandemic and any time local authorities need a hand.  Our training includes search and rescue (SAR) in wilderness and urban environments, opposition forces (OPFOR), point of distribution (POD) operations, area and traffic control, special events, and much more.
 
 **Area of Operation**
 
-The Area of Operations (AO) for 2BN roughly consists of the counties within the area north of I-20 & west of 400 to the **TN b**order.  Soldiers from 2BN routinely augment and deploy with other GSDF units across the state.
+The Area of Operations (AO) for 2BN roughly consists of the counties within the area north of I-20 & west of 400 to the Tennesseeborder.  Soldiers from 2BN routinely augment and deploy with other GSDF units across the state.
 
 **When & Where Do We Train**
 
-2BN A Company drills third (Charlie) weekend at the National Guard armory located in Marietta Ga.  2BN B Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF soldier, 2BN is the place to be!
+2BN A Company drills third (Charlie) weekend at the National Guard armory located in Marietta Ga.  2BN Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF soldier, 2BN is the place to be!
 
 | ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
 | --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
@@ -57,7 +57,7 @@ The 3rd Battalion (3BN) is one of the three (3) battalions within the **1st Brig
 
 **When We Train**
 
-3BN training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on holiday conflicts. In addition to training drills, 3BN usually conducts two (2) field training exercises (FTX) a year, bivouacking in the “woods”, to field test our training results.
+The 3rd Battalion training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on holiday conflicts. In addition to training drills, 3rd Battalion usually conducts two (2) field training exercises (FTX) a year, bivouacking in the “woods”, to field test our training results.
 
 **Where We Train**
 
