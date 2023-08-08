@@ -11,7 +11,7 @@ sitemap:
 
 # 1st Brigade
 
-The 1BDE is the “boots on the ground” for the Georgia State Defense Force in north Georgia. 1**B BDE Commander Col Anthony Evangelista.**
+The 1BDE is the “boots on the ground” for the Georgia State Defense Fore **B BDE Commander Col Anthony Evangelista.**
 
 **1st BDE Mission**
 
@@ -53,19 +53,19 @@ The Area of Operations (AO) for 2BN roughly consists of the counties within the 
 
 ## 3BN /1BDE
 
-The 3rd Battalion (3BN) is one of the three (3) battalions within the 1st Brigade (1BDE) of the GSDF.
+The 3rd Battalion (3BN) is one of the three (3) battalions within the **1st Brigade (1BDE)** of the GSDF.
 
 **When We Train**
 
-3BN training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on Holiday conflicts. In additional to training drills, 3BN usually conducts two (2) Field Training Exercises (FTX) a year, bivouacking in the “woods”, to field test our training results.
+3BN training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on holiday conflicts. In addition to training drills, 3BN usually conducts two (2) field training exercises (FTX) a year, bivouacking in the “woods”, to field test our training results.
 
 **Where We Train**
 
-The 3BN home training base is the Georgia Army National Guard (GAANG) Army Aviation Support Facility (AASF#1) located at the Winder, GA airport. This facility supports GAANG Blackhawk maintenance work and has 24 hour/7 day a week security on site.
+The 3BN home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, GA airport. This facility supports GAARNG Black Hawk maintenance work and has 24 hour/7 day a week security on site.
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 3BN roughly consists of the counties within the area North of I-20, West to I-285, South of I-85, and East to the SC border. The 3BN also routinely augments other 1BDE BNs, and mission support for other GSDF BDEs, so therefore 3BN soldiers could provide support anywhere within the State of Georgia.
+The Area of Operations (AO) for the 3BN roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and East to the SC border. The 3BN also routinely augments other **1BDE BN**s, and mission support for other GSDF **BDEs,** so therefore 3BN Soldiers could provide support anywhere within the State of Georgia.
 
 **What We Do**
 
