@@ -45,7 +45,7 @@ The Area of Operations (AO) for 2BN roughly consists of the counties within the 
 
 **When and Where Do We Train**
 
-The 2nd Battalion A Company drills third (Charlie) weekend of each month at the National Guard armory in Marietta Ga.  The 2nd Battalion Company drills the second (Bravo) weekend of the month at the National Guard armory  in Rome Ga. 
+The 2nd Battalion A Company drills third (Charlie) weekend of each month at the National Guard armory in Marietta Ga. The 2nd Battalion Company drills the second (Bravo) weekend of the month at the National Guard armory in Rome Ga. 
 
 | ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
 | --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
@@ -59,21 +59,21 @@ The 2nd Battalion A Company drills third (Charlie) weekend of each month at the 
 
 **When We Train**
 
-The 3rd Battalion training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on holiday conflicts. In addition to training drills, 3rd Battalion usually conducts two (2) field training exercises (FTX) a year, bivouacking in the “woods”, to field test our training results.
+The 3rd Battalion training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on holiday conflicts. In addition to training drills, 3rd Battalion usually conducts two (2) field training exercises a year, bivouacking in the “woods,” to field test our training results.
 
 **Where We Train**
 
-The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, GA airport. This facility supports GAARNG Black Hawk maintenance work and has 24 hour/7 day a week security on site.
+The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, Ga., airport. This facility supports GAARNG Black Hawk maintenance work and has  24/7 security on site.
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 3BN roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and East to the SC border. The 3BN also routinely augments other **1BDE BN**s, and mission support for other GSDF **BDEs,** so therefore 3BN Soldiers could provide support anywhere within the State of Georgia.
+The Area of Operations (AO) for the 3BN roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and East to the South Carolina border. The 3BN also routinely augments other 1 BDE Battalions, and provides mission support for other GSDF brigades. 
 
 **What We Do**
 
-Our primary goal is supporting the Georgia Army National Guard. Since 2014, 3BN have provided assistance to the GAANG 178th MP Company based in Monroe, GA, and the 1-121 Infantry Unit based in Winder, GA. 
+Our primary goal is supporting the Georgia Army National Guard. Since 2014, 3BN have provided assistance to the GAANG 178th MP Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, GA. 
 
-While some of those missions were adding additional soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. These OPFORs allow the GAANG to utilize us as “enemies” to help better train their soldiers for real world missions.
+While some of those missions were adding additional Soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. These OPFORs allow the GAANG to utilize us as “enemies” to help better train their soldiers for real world missions.
 
 Other METL (Mission Essential Task List) and Soldier Skills training includes:
 •	Land navigation
@@ -82,7 +82,7 @@ Other METL (Mission Essential Task List) and Soldier Skills training includes:
 •	Search & Rescue (SAR)
 
 The 3BN also conducts additional training in relation to Disaster Relief, in case of hurricanes, tornados, or other weather-related events. This training includes:
-•	Chain saw operations
+•	Chainsaw operations
 •	Debris clearing
 •	Evacuee shelter assistance
 •	Area security
