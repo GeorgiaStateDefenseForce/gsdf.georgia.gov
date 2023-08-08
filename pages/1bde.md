@@ -55,9 +55,7 @@ The 2nd Battalion A Company drills third (Charlie) weekend of each month at the 
 | ------------------------------------------ | -------------------------------------------- | ------------------------------------------- |
 | ![](/images/bottomleft.png){:class="full"} | ![](/images/bottommiddle.png){:class="full"} | ![](/images/bottomright.png){:class="full"} |
 
-## 3BN /1BDE
-
-The 3rd Battalion (3BN) is one of the three (3) battalions within the **1st Brigade (1BDE)** of the GSDF.
+## 3rd Battalion
 
 **When We Train**
 
