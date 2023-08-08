@@ -11,7 +11,7 @@ sitemap:
 
 # 1st Brigade
 
-The 1BDE is the “boots on the ground” for the Georgia State Defense Fore **B BDE Commander Col Anthony Evangelista.**
+The 1BDE is the “boots on the ground” for the Georgia State Defense Fore 
 
 **1st BDE Mission**
 
@@ -41,7 +41,7 @@ The Area of Operations (AO) for 2BN roughly consists of the counties within the 
 
 **When & Where Do We Train**
 
-2BN A Company drills third (Charlie) weekend at the National Guard armory located in Marietta Ga.  2BN Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF soldier, 2BN is the place to be!
+2BN A Company drills third (Charlie) weekend at the National Guard armory located in Marietta Ga.  2BN Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF Soldier, 2BN is the place to be!
 
 | ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
 | --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
