@@ -13,17 +13,17 @@ sitemap:
 
 # "Boots on the Ground!"
 
-The 1BDE is the “boots on the ground” for the Georgia State Defense Force.
+
 
 **Mission**
 
-The 1BDE is extensively trained in SAR (search and rescue) and land navigation, having provided skilled assistance to local authorities in their efforts to locate lost persons. the 1BDE is also trained in disaster relief, having provided assistance tot the state of Georgia and its communities.
+The 1BDE is the “boots on the ground” for the Georgia State Defense Force. The 1BDE is extensively trained in SAR (search and rescue) and land navigation, having provided skilled assistance to local authorities in their efforts to locate lost persons. The 1BDE is also trained in disaster relief, having provided assistance to the state of Georgia and its communities.
 
-Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, area security, point of distribution operations or other needs, the 1BDE is ready to serve!
+Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, area security, point of distribution operations, or other needs, the 1BDE is ready to serve!
 
 **1st BDE Area of Operation**
 
-**The “area of operation” (AO) of the 1BD**E is north of I-20, but including areas in Dekalb, Henry, and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion, headquartered in Winder, and the 4th Battalion, is headquartered in Dahlonega. 
+**The “area of operation” (AO) of the 1BD**E is north of I-20, but including areas in Dekalb, Henry, and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to North Carolina and Tennessee. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion is headquartered in Winder, and the 4th Battalion is headquartered in Dahlonega. 
 
 **How to Join 1BDE**
 
