@@ -26,10 +26,6 @@ Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, a
 
 **The “area of operation” (AO) of the 1BD**E is everything north of I-20 but including areas in Dekalb, Henry and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3red Battalion, headquartered in Winder, and 4BN headquartered in Dahlonega. 
 
-**To Join the 1BDE**
-
-**To join the 1BDE, please contact SSG Timothy Richardson,1BDE lead recruiter.**
-
 ![Map of AOs](/images/picture1.png){:class="full"}
 
 ## 2nd Battalion
@@ -42,7 +38,7 @@ The 2BN is ready to serve the State of Georgia.  Our Soldiers are prepared to au
 
 **Area of Operation**
 
-The Area of Operations (AO) for 2BN roughly consists of the counties within the area north of I-20 & west of 400 to the Tennesseeborder.  Soldiers from 2BN routinely augment and deploy with other GSDF units across the state.
+The Area of Operations (AO) for 2BN roughly consists of the counties within the area north of I-20 & west of 400 to the Tennessee border.  Soldiers from 2BN routinely augment and deploy with other GSDF units across the state.
 
 **When & Where Do We Train**
 
@@ -93,8 +89,6 @@ The 3BN also conducts additional training in relation to Disaster Relief, in cas
 •	Search & rescue
 •	Traffic control
 
-If you are willing to serve and live in the 3BN AO, please request to be part of the 3BN at MEPS or with your cadre at IET.
-
 ## 4BN/1BDE
 
 The 4BN is known as the WSAR (Wilderness Search and Rescue) BN.
@@ -115,4 +109,4 @@ The Area of Operations (AO) for 4BN is centered around the North Georgia mountai
 
 ![](/images/41.png){:class="full"}
 
-If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1ST BDE as your preferred unit: <https://gsdf.georgia.gov/pages/contact/>
+**If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1ST BDE as your preferred unit:** <https://gsdf.georgia.gov/pages/contact/>
