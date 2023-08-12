@@ -15,7 +15,7 @@ Boots on the Ground!
 
 
 
-**Mission**
+## **Mission**
 
 The 1st Brigade (1BDE) is “boots on the ground” for the Georgia State Defense Force (GSDF).
 
@@ -23,7 +23,7 @@ The 1BDE is extensively trained in search and rescue (commonly called, SAR) and 
 
 Whether it is search and rescue, shelter augmentation, chainsaw operations, traffic control, area security, point of distribution operations, or other needs, the 1BDE is always ready to serve!
 
-**1BDE Area of Operation**
+## **1BDE Area of Operation**
 
 The area of operation of the 1BDE is north of I-20, but including areas in Dekalb, Henry, and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion is headquartered in Winder. The 4th Battalion is headquartered in Dahlonega. 
 
