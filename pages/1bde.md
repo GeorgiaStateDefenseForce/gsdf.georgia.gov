@@ -35,7 +35,7 @@ The 2nd Battalion Soldiers are force multipliers for the Georgia National Guard,
 
 **What We Do**
 
-Soldiers from the 2nd Battalion are prepared to augment our **Army** and Air National Guard counterparts during pre-mobilization, annual training, and other special assignments.  Our training includes search and rescue (SAR) in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
+Soldiers from the 2nd Battalion are prepared to augment our **Army and Air National Guard** counterparts during pre-mobilization, annual training, and other special assignments.  Our training includes search and rescue (SAR) in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
 
 **Area of Operations**
 
@@ -61,11 +61,11 @@ The 3rd Battalion training occurs one weekend a month, usually the third (Charli
 
 **Where We Train**
 
-The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, Ga., airport. This facility supports GAARNG Black Hawk maintenance work and has 24 hour/7 day-a-week security on site.
+The 3rd Battalion home training base is the Georgia Army National Guard Army Aviation Support Facility (AASF#1) located at the Winder, Ga., airport. This facility supports Georgia Army National Guard Black Hawk maintenance work and has 24 hour/7 day-a-week security on site.
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 3 Battalion roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and east to the South Carolina border. The 3rd Battalion also routinely augments other 1BDE battalions in their mission support for other GSDF brigades; therefore, 3rd Battalion Soldiers could provide support anywhere within the state of Georgia.
+The Area of Operations (AO) for the 3rd Battalion roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and east to the South Carolina border. The 3rd Battalion also routinely augments other 1BDE battalions in their mission support for other GSDF brigades; therefore, 3rd Battalion Soldiers could provide support anywhere within the state of Georgia.
 
 **What We Do**
 
@@ -94,7 +94,7 @@ The 4th Battalion is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
 **What We Do**
 
-The 4th Battalion's specialty is WSAR, and we train regularly to sharpen and extend our skills and capabilities to support that mission. The 4th Battalion is also a force multiplier for Training and Doctrine Command (TRADOC) to guest instruct at SAR II classes. The 4th Battalion is also certified to host and run a SAR II course.  While our primary task is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban search and rescue, point of distribution operations, and FEMA and GEMA support during natural disasters, augmenting and supporting our Georgia Army National Guard troops by providing opposing forces and providing support to local municipalities.
+The 4th Battalion's specialty is WSAR, and we train regularly to sharpen and extend our skills and capabilities to support that mission. The 4th Battalion is also a force multiplier for GSDF Training and Doctrine Command to guest instruct at SAR II classes. The 4th Battalion is also certified to host and run a SAR II course.  While our primary task is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban search and rescue, point of distribution operations, and FEMA and GEMA support during natural disasters, augmenting and supporting our Georgia Army National Guard troops by providing opposing forces and providing support to local municipalities.
 
 **Area of Operation**
 
