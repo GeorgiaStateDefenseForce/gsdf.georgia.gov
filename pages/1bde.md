@@ -100,7 +100,7 @@ The Area of Operations for the 4th Battalion is centered around the north Georgi
 
 The 4th Battalion's specialty is WSAR, and we train regularly to sharpen and extend our skills and capabilities to support that mission. The 4th Battalion is also a force multiplier for GSDF Training and Doctrine Command to guest instruct at SAR II classes. The 4th Battalion is also certified to host and run a SAR II course.  While our primary task is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban search and rescue, point of distribution operations, and FEMA and GEMA support during natural disasters, augmenting and supporting our Georgia Army National Guard troops by providing opposing forces and providing support to local municipalities.
 
-**When and Where Do We Train**
+**When and Where We Train**
 
 The 4th Battalion training weekend is usually the second weekend (Bravo weekend) of the month. Annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (Battalion or Brigade or GSDF-wide).
 
