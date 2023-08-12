@@ -19,9 +19,9 @@ sitemap:
 
 The 1st Brigade (1BDE) is “boots on the ground” for the Georgia State Defense Force (GSDF).
 
-The 1BDE is extensively trained in search and rescue (SAR) and land navigation, having provided skilled assistance to local authorities in their efforts to locate lost persons. The 1BDE is also trained to provide disaster relief assistance to the state of Georgia and its communities.
+The 1BDE is extensively trained in search and rescue (commonly called, SAR) and land navigation, having provided skilled assistance to local authorities in their efforts to locate lost persons. The 1BDE is also trained to provide disaster relief assistance to the state of Georgia and its communities.
 
-Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, area security, point of distribution operations, or other needs, the 1BDE is always ready to serve!
+Whether it is search and rescue, shelter augmentation, chainsaw operations, traffic control, area security, point of distribution operations, or other needs, the 1BDE is always ready to serve!
 
 **1BDE Area of Operation**
 
@@ -39,7 +39,7 @@ The Area of Operations (AO) for the 2nd Battalion roughly consists of the counti
 
 **What We Do**
 
-Soldiers from the 2nd Battalion are prepared to augment our **Army and Air National Guard** counterparts during pre-mobilization, annual training, and other special assignments.  Our training includes search and rescue (SAR) in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
+Soldiers from the 2nd Battalion are prepared to augment our **Army and Air National Guard** counterparts during pre-mobilization, annual training, and other special assignments.  Our training includes search and rescue in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
 
 **When and Where We Train**
 
@@ -108,4 +108,4 @@ The 4th Battalion is officially attached to the University of North Georgia Corp
 
 ![](/images/41.png){:class="full"}
 
-**If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1BDE as your preferred unit:** <https://gsdf.georgia.gov/pages/contact/>
+**To join the 1BDE, contact the 1BDE recruiter by filling out the contact form and choosing 1BDE as your preferred unit:** <https://gsdf.georgia.gov/pages/contact/>
