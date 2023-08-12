@@ -72,13 +72,13 @@ Our primary goal is supporting the Georgia Army National Guard. Since 2014, 3BN 
 
 While some of those missions were adding additional soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. These OPFORs allow the GAARNG to utilize us as “enemies” to help better train their soldiers for real world missions.
 
-Other METL (Mission Essential Task List) and Soldier Skills training includes:
+Other Mission Essential Task List (METL) and Soldier skills training includes:
 •	CPR & First Aid
 •	Land navigation
 •	Radio communication
 •	Search & Rescue (SAR)
 
-The 3BN also conducts additional training in relation to Disaster Relief, in case of hurricanes, tornados, or other weather-related events. This training includes:
+The 3rd Batalion also conducts additional training related to disaster relief, in preparation for hurricanes, tornados, or other weather-related events. This training includes:
 •	Area security
 •	Chain saw operations
 •	Debris clearing
@@ -97,13 +97,13 @@ The 4BN specialty is WSAR and we train regularly to sharpen and extend our skill
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 4th Battalion is centered around the north Georgia mountains and surrounding areas.  However, we can be and have been deployed to locations across Georgia whenever needed to augment the Georgia National Guard units and serve the citizens of our state.  
+The Area of Operations for the 4th Battalion is centered around the north Georgia mountains and surrounding areas.  However, we can be and have been deployed to locations across Georgia whenever needed to augment the Georgia National Guard units and serve the citizens of our state.  
 
 **When and Where Do We Train**
 
 The 4th Battalion training weekend is usually the second weekend (Bravo weekend) of the month and annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (Battalion or Brigade or GSDF-wide).
 
-4BN is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). A large number of the cadets serve in the Georgia National Guard while attending the university to graduate and commission as officers in a branch of the U.S. military or in a Georgia Army National Guard unit. The Pine Valley Recreation Center in Dahlonega is the primary drill location for the 4th Battalion, but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
+The 4th Battalion is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). A large number of the cadets serve in the Georgia National Guard while attending the university to graduate and commission as officers in a branch of the U.S. military or in a Georgia Army National Guard unit. The Pine Valley Recreation Center in Dahlonega is the primary drill location for the 4th Battalion, but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
 
 ![](/images/41.png){:class="full"}
 
