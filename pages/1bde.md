@@ -38,7 +38,7 @@ Soldiers from the 2nd Battalion are prepared to augment our **Army** and Air Nat
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west of **400** to the Tennessee border.  Soldiers from the 2nd Battalion routinely augment and deploy with other GSDF units across the state.
+The Area of Operations (AO) for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west ofGA 400 to the Tennessee border.  Soldiers from the 2nd Battalion routinely augment and deploy with other GSDF units across the state.
 
 **When and Where Do We Train**
 
@@ -56,21 +56,21 @@ The Area of Operations (AO) for the 2nd Battalion roughly consists of the counti
 
 **When We Train**
 
-The 3rd Battalion training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on holiday conflicts. In addition to training drills, 3rd Battalion usually conducts two (2) field training exercises (FTX) a year, bivouacking in the “woods”, to field test our training results.
+The 3rd Battalion training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on holiday conflicts. In addition to training drills, 3rd Battalion usually conducts two field training exercises a year, bivouacking in the “woods”, to field test our training results.
 
 **Where We Train**
 
-The 3BN home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, GA airport. This facility supports GAARNG Black Hawk maintenance work and has 24 hour/7 day a week security on site.
+The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG) Army Aviation Support Facility (AASF#1) located at the Winder, GA airport. This facility supports GAARNG Black Hawk maintenance work and has 24 hour/7 day a week security on site.
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 3BN roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and East to the SC border. The 3BN also routinely augments other **1BDE BN**s, and mission support for other GSDF **BDEs,** so therefore 3BN Soldiers could provide support anywhere within the State of Georgia.
+The Area of Operations (AO) for the 3BN roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and East to the SC border. The 3BN also routinely augments other **1BDE BN**s, and mission support for other GSDF brigades; therefore, 3rd Battalion Soldiers could provide support anywhere within the state of Georgia.
 
 **What We Do**
 
 Our primary goal is supporting the Georgia Army National Guard. Since 2014, 3BN have provided assistance to the GAARNG 178th Military Police Company based in Monroe, GA, and the 1-121 Infantry Unit based in Winder, GA. 
 
-While some of those missions were adding additional soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. These OPFORs allow the GAARNG to utilize us as “enemies” to help better train their soldiers for real world missions.
+While some of those missions were adding additional Soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. **These OPFORs allow the GAARNG to utilize us as “enemies” to help better train their soldiers for real world missions.**
 
 Other Mission Essential Task List (METL) and Soldier skills training includes:
 •	CPR & First Aid
