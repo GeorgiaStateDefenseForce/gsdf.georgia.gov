@@ -9,10 +9,11 @@ sitemap:
 ---
 ![](/images/1bde-creat.png)
 
-# 1st Brigade
-
+# 1st Brigade\
 \
 "Boots on the Ground!"
+
+
 
 **Mission**
 
@@ -64,19 +65,19 @@ The 3rd Battalion home training base is the Georgia Army National Guard (GAARNG)
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 3 Battalion roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and east to the South Carolina border. The 3rd Battalion also routinely augments other **1BDE** battalions in their mission support for other GSDF brigades; therefore, 3rd Battalion Soldiers could provide support anywhere within the state of Georgia.
+The Area of Operations (AO) for the 3 Battalion roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and east to the South Carolina border. The 3rd Battalion also routinely augments other 1BDE battalions in their mission support for other GSDF brigades; therefore, 3rd Battalion Soldiers could provide support anywhere within the state of Georgia.
 
 **What We Do**
 
-Our primary goal is supporting the Georgia Army National Guard. Since 2014, 3BN have provided assistance to the GAARNG 178th Military Police Company based in Monroe, GA, and the 1-121 Infantry Unit based in Winder, GA. 
+Our primary goal is supporting the Georgia Army National Guard. Since 2014, the 3rd battalion has provided assistance to the Georgia Army National Guard 178th Military Police Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, Ga. 
 
 While some of those missions were adding additional Soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. **These OPFORs allow the GAARNG to utilize us as “enemies” to help better train their soldiers for real world missions.**
 
 Other Mission Essential Task List (METL) and Soldier skills training includes:
-•	CPR and First Aid
+•	CPR and first aid
 •	Land navigation
 •	Radio communication
-•	Search and Rescue (SAR)
+•	Search and rescue
 
 The 3rd Battalion also conducts additional training related to disaster relief, in preparation for hurricanes, tornados, or other weather-related events. This training includes:
 •	Area security
