@@ -61,7 +61,7 @@ The Area of Operations (AO) for the 3rd Battalion roughly consists of the counti
 
 **When We Train**
 
-The 3rd Battalion training occurs one weekend a month, usually the third (Charlie) weekend, but can shift to another weekend based on holiday conflicts. In addition to training drills, 3rd Battalion usually conducts two field training exercises a year, bivouacking in the “woods,” to field test our training skills.
+The 3rd Battalion training occurs one weekend a month, usually the third (Charlie) weekend, **but can shift to another weekend based on holiday conflicts.** In addition to training drills, 3rd Battalion usually conducts two field training exercises a year, bivouacking in the “woods,” to field test our training skills.
 
 **Where We Train**
 
@@ -69,7 +69,7 @@ The 3rd Battalion home training base is the Georgia Army National Guard Army Avi
 
 **What We Do**
 
-Our primary goal is supporting the Georgia Army National Guard. Since 2014, the 3rd battalion has provided assistance to the Georgia Army National Guard 178th Military Police Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, Ga. 
+**Our primary goal is supporting the Georgia Army National Guard.** Since 2014, the 3rd battalion has provided assistance to the Georgia Army National Guard 178th Military Police Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, Ga. 
 
 While some of those missions were adding additional Soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. **These OPFORs allow the GAARNG to utilize us as “enemies” to help better train their soldiers for real world missions.**
 
@@ -94,7 +94,7 @@ The 4th Battalion is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
 **Area of Operation**
 
-The Area of Operations for the 4th Battalion is centered around the north Georgia mountains and surrounding areas.  However, we can be and have been deployed to locations across Georgia whenever needed to augment the Georgia National Guard units and serve the citizens of our state.  
+The Area of Operations for the 4th Battalion is centered around the north Georgia mountains and surrounding areas.  However, we have been deployed to locations across Georgia, whenever needed, to augment the Georgia National Guard units and serve the citizens of our state.  
 
 **What We Do**
 
