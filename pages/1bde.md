@@ -33,13 +33,13 @@ The area of operation of the 1BDE is north of I-20, but including areas in Dekal
 
 The 2nd Battalion Soldiers are force multipliers for the Georgia National Guard, emergency management agencies, and civil authorities.
 
-**Area of Operations**
+**Area of Operation**
 
-The Area of Operations (AO) for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west ofGA 400 to the Tennessee border. Soldiers from the 2nd Battalion routinely augment and deploy with other GSDF units across the state.
+The Area of Operation for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west ofGA 400 to the Tennessee border. Soldiers from the 2nd Battalion routinely augment and deploy with other GSDF units across the state.
 
 **What We Do**
 
-Soldiers from the 2nd Battalion are prepared to augment our **Army and Air National Guard** counterparts during pre-mobilization, annual training, and other special assignments.  Our training includes search and rescue in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
+Soldiers from the 2nd Battalion are prepared to augment our **Army and Air National Guard** counterparts during pre-mobilization, annual training, and other special assignments. Our training includes search and rescue in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
 
 **When and Where We Train**
 
@@ -71,7 +71,7 @@ The 3rd Battalion home training base is the Georgia Army National Guard Army Avi
 
 **Our primary goal is supporting the Georgia Army National Guard.** Since 2014, the 3rd battalion has provided assistance to the Georgia Army National Guard 178th Military Police Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, Ga. 
 
-While some of those missions were adding additional Soldier support, more recently, 3BN have been involved in their Opposing Force training called OPFORs. **These OPFORs allow the GAARNG to utilize us as “enemies” to help better train their soldiers for real world missions.**
+While some of those missions provided additional Soldier support, more recently, the 3rd Battalion has been involved opposing force training. 
 
 Other Mission Essential Task List (METL) and Soldier skills training includes:
 •	CPR and first aid
