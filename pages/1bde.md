@@ -88,7 +88,7 @@ The 3rd Battalion also conducts additional training related to disaster relief, 
 •	Search and rescue
 •	Traffic control
 
-## 4BN/1BDE
+## 4th Battalion
 
 The 4th Battalion is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
