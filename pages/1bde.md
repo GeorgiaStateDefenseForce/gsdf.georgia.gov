@@ -22,9 +22,9 @@ The 1BDE is extensively trained in search and rescue (SAR) and land navigation, 
 
 Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, area security, point of distribution operations, or other needs, the 1BDE is always ready to serve!
 
-**1st BDE AO**
+**1BD Area of Operation**
 
-The “area of operation” (AO) of the 1BDE is north of I-20 but including areas in Dekalb, Henry and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion is headquartered in Winder, and the 4BN is headquartered in Dahlonega. 
+The area of operation of the 1BDE is north of I-20, but including areas in Dekalb, Henry, and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion is headquartered in Winder. The 4th Battalion is headquartered in Dahlonega. 
 
 ![Map of AOs](/images/picture1.png){:class="full"}
 
@@ -53,8 +53,6 @@ The Area of Operations (AO) for the 2nd Battalion roughly consists of the counti
 | ![](/images/bottomleft.png){:class="full"} | ![](/images/bottommiddle.png){:class="full"} | ![](/images/bottomright.png){:class="full"} |
 
 ## 3rd Battalion
-
-The 3rd Battalion (3BN) is one of the three (3) battalions within the **1st Brigade (1BDE)** of the GSDF.
 
 **When We Train**
 
