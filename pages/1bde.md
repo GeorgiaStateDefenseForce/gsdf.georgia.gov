@@ -11,8 +11,7 @@ sitemap:
 
 # 1st Brigade
 
-# \
-Boots on the Ground!
+# Boots on the Ground!
 
 ## **Mission**
 
@@ -38,7 +37,7 @@ The Area of Operation for the 2nd Battalion roughly consists of the counties wit
 
 **What We Do**
 
-Soldiers from the 2nd Battalion are prepared to augment our **Army and Air National Guard** counterparts during pre-mobilization, annual training, and other special assignments. Our training includes search and rescue in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
+Soldiers from the 2nd Battalion are prepared to augment our Georgia Air National Guard and Georgia Army National Guard counterparts during pre-mobilization, annual training, and other special assignments. Our training includes search and rescue in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
 
 **When and Where We Train**
 
@@ -60,15 +59,15 @@ The Area of Operation for the 3rd Battalion roughly consists of the counties wit
 
 **When We Train**
 
-The 3rd Battalion training occurs one weekend a month, usually the third (Charlie) weekend, **but can shift to another weekend based on holiday conflicts.** In addition to training drills, 3rd Battalion usually conducts two field training exercises a year, bivouacking in the “woods,” to field test our training skills.
+The 3rd Battalion training occurs monthly on the third (Charlie) weekend. In addition to training drills, 3rd Battalion usually conducts two field training exercises a year, bivouacking in the “woods,” to field test our training skills.
 
 **Where We Train**
 
-The 3rd Battalion home training base is the Georgia Army National Guard Army Aviation Support Facility (AASF#1) located at the Winder, Ga., airport. This facility supports Georgia Army National Guard Black Hawk maintenance work and has 24 hour/7 day-a-week security on site.
+The 3rd Battalion home training base is the Georgia Army National Guard Army Aviation Support Facility (AASF#1) located at the Winder, Ga. airport. This facility supports Georgia Army National Guard Black Hawk maintenance work and has 24 hour/7 day-a-week security on site.
 
 **What We Do**
 
-**Our primary goal is supporting the Georgia Army National Guard.** Since 2014, the 3rd battalion has provided assistance to the Georgia Army National Guard 178th Military Police Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, Ga. 
+Since 2014, the 3rd battalion has provided assistance to the Georgia Army National Guard 178th Military Police Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, Ga. 
 
 While some of those missions provided additional Soldier support, more recently, the 3rd Battalion has been involved opposing force training. 
 
