@@ -41,7 +41,7 @@ Soldiers from the 2nd Battalion are prepared to augment our Georgia Air National
 
 **When and Where We Train**
 
-The 2nd Battalion A Company drills third (Charlie) weekend at the National Guard armory in Marietta Ga.  2nd Battalion Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  
+The 2nd Battalion A Company drills third (Charlie) weekend at the National Guard armory in Marietta Ga.  The 2nd Battalion Company drills second (Bravo) weekend at the National Guard armory in Rome Ga.  
 
 | ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
 | --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
@@ -59,7 +59,7 @@ The Area of Operation for the 3rd Battalion roughly consists of the counties wit
 
 **When We Train**
 
-The 3rd Battalion training occurs monthly on the third (Charlie) weekend. In addition to training drills, 3rd Battalion usually conducts two field training exercises a year, bivouacking in the “woods,” to field test our training skills.
+The 3rd Battalion training occurs monthly on the third (Charlie) weekend. In addition to training drills, the 3rd Battalion usually conducts two field training exercises a year, bivouacking in the “woods,” to field test our training skills.
 
 **Where We Train**
 
@@ -92,7 +92,7 @@ The 4th Battalion is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
 **Area of Operations**
 
-The Area of Operation for the 4th Battalion is centered around the north Georgia mountains and surrounding areas.  However, we have been deployed to locations across Georgia, whenever needed, to augment the Georgia National Guard units and serve the citizens of our state.  
+The Area of Operation for the 4th Battalion is centered around the north Georgia mountains and surrounding areas. However, we have been deployed to locations across Georgia, whenever needed, to augment the Georgia National Guard units and serve the citizens of our state.  
 
 **What We Do**
 
@@ -100,7 +100,7 @@ The 4th Battalion's specialty is WSAR, and we train regularly to sharpen and ext
 
 **When and Where We Train**
 
-The 4th Battalion training weekend is usually the second weekend (Bravo weekend) of the month. Annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (Battalion or Brigade or GSDF-wide).
+The 4th Battalion training weekend is usually the second weekend (Bravo weekend) of the month. Annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (battalion or brigade or GSDF-wide).
 
 The 4th Battalion is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). A large number of the cadets serve in the Georgia National Guard while attending the university to graduate and commission as officers in a branch of the U.S. military or in a Georgia Army National Guard unit. The Pine Valley Recreation Center in Dahlonega is the primary drill location for the 4th Battalion, but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
 
