@@ -11,7 +11,7 @@ sitemap:
 
 # 1st Brigade\
 \
-"Boots on the Ground!"
+Boots on the Ground!
 
 
 
@@ -57,7 +57,7 @@ The 2nd Battalion A Company drills third (Charlie) weekend at the National Guard
 
 **Area of Operation**
 
-The Area of Operations (AO) for the 3rd Battalion roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and east to the South Carolina border. The 3rd Battalion also routinely augments other 1BDE battalions in their mission support for other GSDF brigades; therefore, 3rd Battalion Soldiers could provide support anywhere within the state of Georgia.
+The Area of Operation for the 3rd Battalion roughly consists of the counties within the area north of I-20, west to I-285, south of I-85, and east to the South Carolina border. The 3rd Battalion also routinely augments other 1BDE battalions in their mission support for other GSDF brigades; therefore, 3rd Battalion Soldiers could provide support anywhere within the state of Georgia.
 
 **When We Train**
 
@@ -92,9 +92,9 @@ The 3rd Battalion also conducts additional training related to disaster relief, 
 
 The 4th Battalion is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
-**Area of Operation**
+**Area of Operations**
 
-The Area of Operations for the 4th Battalion is centered around the north Georgia mountains and surrounding areas.  However, we have been deployed to locations across Georgia, whenever needed, to augment the Georgia National Guard units and serve the citizens of our state.  
+The Area of Operation for the 4th Battalion is centered around the north Georgia mountains and surrounding areas.  However, we have been deployed to locations across Georgia, whenever needed, to augment the Georgia National Guard units and serve the citizens of our state.  
 
 **What We Do**
 
