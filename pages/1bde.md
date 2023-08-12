@@ -20,29 +20,29 @@ The 1st Brigade (1BDE) is “boots on the ground” for the Georgia State Defens
 
 The 1BDE is extensively trained in search and rescue (SAR) and land navigation, having provided skilled assistance to local authorities in their efforts to locate lost persons. The 1BDE is also trained to provide disaster relief assistance to the state of Georgia and its communities.
 
-Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, area security, point of distribution (POD) operations, or other needs, the 1BDE is always ready to serve!
+Whether it is SAR, shelter augmentation, chainsaw operations, traffic control, area security, point of distribution operations, or other needs, the 1BDE is always ready to serve!
 
 **1st BDE AO**
 
-**The “area of operation” (AO) of the 1BD**E is everything north of I-20 but including areas in Dekalb, Henry and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3red Battalion, headquartered in Winder, and 4BN headquartered in Dahlonega. 
+The “area of operation” (AO) of the 1BDE is north of I-20 but including areas in Dekalb, Henry and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion is headquartered in Winder, and the 4BN is headquartered in Dahlonega. 
 
 ![Map of AOs](/images/picture1.png){:class="full"}
 
 ## 2nd Battalion
 
-The 2nd Battalion Soldiers are force multipliers for the Georgia National Guard, emergency management agencies and civil authorities.
+The 2nd Battalion Soldiers are force multipliers for the Georgia National Guard, emergency management agencies, and civil authorities.
 
 **What We Do**
 
-The 2BN is ready to serve the State of Georgia.  Our Soldiers are prepared to augment our Army and Air National Guard counterparts during pre-mobilization, annual training, and other special assignments.  When called upon by the Governor, we are ready to support civil authorities in the aftermath of natural disasters, during the pandemic and any time local authorities need a hand.  Our training includes search and rescue (SAR) in wilderness and urban environments, opposition forces (OPFOR), point of distribution (POD) operations, area and traffic control, special events, and much more.
+Soldiers from the 2nd Battalion are prepared to augment our **Army** and Air National Guard counterparts during pre-mobilization, annual training, and other special assignments.  W**hen called upon by the Governor, we are ready to support civil authorities in the aftermath of natural disasters, during the pandemic and any time local authorities need a hand.**  Our training includes search and rescue (SAR) in wilderness and urban environments, opposition forces (OPFOR), point of distribution (POD) operations, area and traffic control, special events, and much more.
 
 **Area of Operation**
 
-The Area of Operations (AO) for 2BN roughly consists of the counties within the area north of I-20 & west of 400 to the Tennessee border.  Soldiers from 2BN routinely augment and deploy with other GSDF units across the state.
+The Area of Operations (AO) for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west of **400** to the Tennessee border.  Soldiers from the 2nd Battalion routinely augment and deploy with other GSDF units across the state.
 
-**When & Where Do We Train**
+**When and Where Do We Train**
 
-2BN A Company drills third (Charlie) weekend at the National Guard armory located in Marietta Ga.  2BN Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF Soldier, 2BN is the place to be!
+2nd Battalion A Company drills third (Charlie) weekend at the National Guard armory located in Marietta Ga.  2nd Battalion Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  **If you're looking to challenge yourself with a wide range of skills and explore all the essential tasks of a GSDF Soldier, 2BN is the place to be!**
 
 | ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
 | --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
@@ -52,7 +52,7 @@ The Area of Operations (AO) for 2BN roughly consists of the counties within the 
 | ------------------------------------------ | -------------------------------------------- | ------------------------------------------- |
 | ![](/images/bottomleft.png){:class="full"} | ![](/images/bottommiddle.png){:class="full"} | ![](/images/bottomright.png){:class="full"} |
 
-## 3BN /1BDE
+## 3rd Battalion
 
 The 3rd Battalion (3BN) is one of the three (3) battalions within the **1st Brigade (1BDE)** of the GSDF.
 
