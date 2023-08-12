@@ -107,4 +107,4 @@ The 4th Battalion training weekend is usually the second weekend (Bravo weekend)
 
 ![](/images/41.png){:class="full"}
 
-**If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1ST BDE as your preferred unit:** <https://gsdf.georgia.gov/pages/contact/>
+**If you live in north Georgia and are interested in being where the action really is, contact the 1BDE recruiter by filling out the contact form and choosing 1BDE as your preferred unit:** <https://gsdf.georgia.gov/pages/contact/>
