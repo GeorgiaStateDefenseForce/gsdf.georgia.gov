@@ -9,11 +9,10 @@ sitemap:
 ---
 ![](/images/1bde-creat.png)
 
-# 1st Brigade\
-\
+# 1st Brigade
+
+# \
 Boots on the Ground!
-
-
 
 ## **Mission**
 
