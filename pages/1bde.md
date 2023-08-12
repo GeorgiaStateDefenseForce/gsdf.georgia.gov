@@ -78,7 +78,7 @@ Other Mission Essential Task List (METL) and Soldier skills training includes:
 •	Radio communication
 •	Search and Rescue (SAR)
 
-The 3rd Batalion also conducts additional training related to disaster relief, in preparation for hurricanes, tornados, or other weather-related events. This training includes:
+The 3rd Battalion also conducts additional training related to disaster relief, in preparation for hurricanes, tornados, or other weather-related events. This training includes:
 •	Area security
 •	Chainsaw operations
 •	Debris clearing
@@ -89,11 +89,11 @@ The 3rd Batalion also conducts additional training related to disaster relief, i
 
 ## 4BN/1BDE
 
-The 4BN is known as the WSAR (Wilderness Search and Rescue) Battalion.
+The 4th Battalion is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
 **What We Do**
 
-The 4th Battalion's specialty is WSAR, and we train regularly to sharpen and extend our skills and capabilities to support that mission. The 4th Battalion is also a force multiplier for Training and Doctrine Command (TRADOC) to guest instruct at SAR II classes. The 4th Battalion is also certified to host and run a SAR II course.  While our primary task is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban SAR, POD operations, and FEMA and GEMA support during natural disasters, augmenting and supporting our Georgia Army National Guard troops by providing opposition forces and providing support to local municipalities (from traffic control to managing entire parades). 
+The 4th Battalion's specialty is WSAR, and we train regularly to sharpen and extend our skills and capabilities to support that mission. The 4th Battalion is also a force multiplier for Training and Doctrine Command (TRADOC) to guest instruct at SAR II classes. The 4th Battalion is also certified to host and run a SAR II course.  While our primary task is SAR, we are also trained and proficient to deploy for all GSDF missions. Those missions include urban search and rescue, point of distribution operations, and FEMA and GEMA support during natural disasters, augmenting and supporting our Georgia Army National Guard troops by providing opposing forces and providing support to local municipalities.
 
 **Area of Operation**
 
