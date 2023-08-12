@@ -103,7 +103,7 @@ The Area of Operations (AO) for the 4th Battalion is centered around the north G
 
 The 4th Battalion training weekend is usually the second weekend (Bravo weekend) of the month and annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (Battalion or Brigade or GSDF-wide).
 
-4BN is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). A large number of the cadets serve in the Georgia National Guard while attending the university to graduate and commission as officers in a branch of the US military or in a Georgia Army National Guard unit.  The Pine Valley Recreation Center in Dahlonega is the primary drill location for 4BN but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
+4BN is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). A large number of the cadets serve in the Georgia National Guard while attending the university to graduate and commission as officers in a branch of the U.S. military or in a Georgia Army National Guard unit. The Pine Valley Recreation Center in Dahlonega is the primary drill location for the 4th Battalion, but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
 
 ![](/images/41.png){:class="full"}
 
