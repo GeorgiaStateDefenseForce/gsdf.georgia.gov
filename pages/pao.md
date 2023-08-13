@@ -13,6 +13,8 @@ Public Affairs is a term the United States Department of Defense uses to
 encompass various specialties that include editing/writing, photography, social media, and video production. The Public Affairs Office (PAO) oversees these specialties on behalf of the organization.
 As the Georgia State Defense Force (GSDF) Public Affairs Office, we tell the GSDF story.
 
+![](/images/gsdf_for-the-pao-website_page_52662072139_c5ee5d2d6a_o.jpg)
+
 Audiences include:
 
 * The Community
