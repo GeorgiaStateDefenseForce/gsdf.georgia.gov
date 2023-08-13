@@ -52,7 +52,11 @@ img.full {
     }
 
 .post_content img {
-    width: 100% !important;
+    width: 100%;
+}
+
+.post_content table img {
+  width: auto;
 }
 
 [data-slate-editor] { 
