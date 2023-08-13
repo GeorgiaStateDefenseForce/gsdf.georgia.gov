@@ -39,6 +39,8 @@ For more information, contact the GSDF Public Affairs Branch Chief (PAO).
 
 ## Public Affairs Office Open Positions:
 
+![](/images/join-pao.png)
+
 ### Social Media Specialist:
 
 Minimum Requirements: Familiarity with tracking metrics for Facebook and Instagram; Ability to monitor online activities across various platforms; Passion to encourage greater social media engagement; Strong brand recognition, with promotional skills; Ability to create and distribute content on social media and traditional news outlets.
