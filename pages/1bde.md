@@ -7,7 +7,7 @@ sitemap:
   lastmod: 2021-10-08
   changefreq: yearly
 ---
-![](/images/1bde-creat.png){:class="image center"}
+<span class="image left"><img src="{{ "/images/1bde-creat.png" | absolute_url }}" alt="" /></span>
 
 # 1st Brigade
 
