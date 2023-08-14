@@ -37,7 +37,7 @@ The Area of Operation for the 2nd Battalion roughly consists of the counties wit
 
 **What We Do**
 
-Soldiers from the 2nd Battalion are prepared to augment our Georgia Air National Guard and Georgia Army National Guard counterparts during pre-mobilization, annual training, and other special assignments. Our training includes search and rescue in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
+Soldiers from the 2nd Battalion are prepared to augment our Georgia Air National Guard and Georgia Army National Guard counterparts during pre-mobilization, annual training, and other special assignments. Our training includes search and rescue in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters. 
 
 **When and Where We Train**
 
