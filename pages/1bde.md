@@ -7,7 +7,7 @@ sitemap:
   lastmod: 2021-10-08
   changefreq: yearly
 ---
-<span class="image left"><img src="{{ "/images/1bde-creat.png" | absolute_url }}" alt="" /></span>
+<span class="image center"><img src="{{ "/images/1bde-creat.png" | absolute_url }}" alt="" /></span>
 
 # 1st Brigade
 
