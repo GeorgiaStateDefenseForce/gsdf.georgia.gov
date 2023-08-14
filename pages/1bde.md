@@ -25,7 +25,7 @@ Whether it is search and rescue, shelter augmentation, chainsaw operations, traf
 
 The area of operation of the 1BDE is north of I-20, but including areas in Dekalb, Henry, and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion is headquartered in Winder. The 4th Battalion is headquartered in Dahlonega. 
 
-![Map of AOs](/images/picture1.png){:class="full"}
+![Map of AOs](/images/picture1.png)
 
 ## 2nd Battalion
 
@@ -45,11 +45,11 @@ The 2nd Battalion A Company drills third (Charlie) weekend at the National Guard
 
 | ﻿ Natural Disaster Assistance                   | Search & Rescue     | Assist Civil Authorities                 |
 | ----------------------------------------------- | ------------------- | ---------------------------------------- |
-| ![](/images/disaster_relief.png) | ![](/images/sr.png) | ![](/images/topright.png) |
+| ![](/images/disaster_relief.png){:class="full"} | ![](/images/sr.png){:class="full"} | ![](/images/topright.png){:class="full"} |
 
 | ﻿ Police Evidence Searches | Traffic Control                              | Opposing Force Training                     |
 | -------------------------- | -------------------------------------------- | ------------------------------------------- |
-| ![](/images/police.png)    | ![](/images/traffic.png) | ![](/images/bottomright.png) |
+| ![](/images/police.png){:class="full"}    | ![](/images/traffic.png){:class="full"} | ![](/images/bottomright.png){:class="full"} |
 
 ## 3rd Battalion
 
