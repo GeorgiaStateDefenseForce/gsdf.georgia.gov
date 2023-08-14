@@ -43,13 +43,13 @@ Soldiers from the 2nd Battalion are prepared to augment our Georgia Air National
 
 The 2nd Battalion A Company drills third (Charlie) weekend at the National Guard armory in Marietta Ga.  The 2nd Battalion Company drills second (Bravo) weekend at the National Guard armory in Rome Ga.  
 
-| ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
-| --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
-| ![](/images/topleft.png){:class="full"} | ![](/images/topmiddle.png){:class="full"} | ![](/images/topright.png){:class="full"} |
+| ﻿ Natural Disaster Assistance                   | Search & Rescue     | Assist Civil Authorities                 |
+| ----------------------------------------------- | ------------------- | ---------------------------------------- |
+| ![](/images/disaster_relief.png) | ![](/images/sr.png) | ![](/images/topright.png) |
 
-| ﻿ Police Evidence Searches                 | Traffic Control                              | Opposing Force Training                     |
-| ------------------------------------------ | -------------------------------------------- | ------------------------------------------- |
-| ![](/images/bottomleft.png){:class="full"} | ![](/images/bottommiddle.png){:class="full"} | ![](/images/bottomright.png){:class="full"} |
+| ﻿ Police Evidence Searches | Traffic Control                              | Opposing Force Training                     |
+| -------------------------- | -------------------------------------------- | ------------------------------------------- |
+| ![](/images/police.png)    | ![](/images/traffic.png) | ![](/images/bottomright.png) |
 
 ## 3rd Battalion
 
@@ -104,6 +104,6 @@ The 4th Battalion training weekend is usually the second weekend (Bravo weekend)
 
 The 4th Battalion is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). A large number of the cadets serve in the Georgia National Guard while attending the university to graduate and commission as officers in a branch of the U.S. military or in a Georgia Army National Guard unit. The Pine Valley Recreation Center in Dahlonega is the primary drill location for the 4th Battalion, but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
 
-![](/images/41.png){:class="full"}
+![](/images/41.png)
 
 **To join the 1BDE, contact the 1BDE recruiter by filling out the contact form and choosing 1BDE as your preferred unit:** <https://gsdf.georgia.gov/pages/contact/>
