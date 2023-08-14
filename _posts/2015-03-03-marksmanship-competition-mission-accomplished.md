@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Marksmanship Competition: Mission Accomplished5"
+title: "Marksmanship Competition: Mission Accomplished"
 date: 2015-03-03T22:22:14.059Z
-excerpt: GEORGIA GARRISON TRAINING CENTER, Fort Stewart, Georgia, February 25 – March 1, 2015, By 2LT Ted Burzynski – Soldiers from the Georgia State Defense Force (GSDF) provided support to the Georgia Army National Guard (GAARNG) Marksmanship Unit during the 2nd Annual Andrew Sullens Marksmanship Competition.
+excerpt: GEORGIA GARRISON TRAINING CENTER, Fort Stewart, Georgia, February 25 –
+  March 1, 2015, By 2LT Ted Burzynski – Soldiers from the Georgia State Defense
+  Force (GSDF) provided support to the Georgia Army National Guard (GAARNG)
+  Marksmanship Unit during the 2nd Annual Andrew Sullens Marksmanship
+  Competition.
 author: gsdf
 image: /images/2015/03/16677949912_7f7e4a1122_o_Chapman-1024x703.jpg
 ---
