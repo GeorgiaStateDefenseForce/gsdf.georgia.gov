@@ -9,7 +9,7 @@ sitemap:
 ---
 <span class="image center"><img src="{{ "/images/1bde-creat.png" | absolute_url }}" alt="" /></span>
 
-# 1st Brigade 
+# 1st Brigade
 
 # Boots on the Ground!
 
