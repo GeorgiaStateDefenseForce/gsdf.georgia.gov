@@ -71,7 +71,6 @@ Click on a unit's name to learn more.
 
 
 
-<div id="unit-table">
 
 
 |           |       |  
@@ -84,10 +83,8 @@ Click on a unit's name to learn more.
 | ![](/images/76thCoin-e1605320174988.jpg )  | [76th Spt. BDE](/pages/76bde)
 | ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pages/pao) |
 | ![](/images/logo_tr_bg_sm1.png )  | [HQ/HHC](/pages/hhc)|
+{: #unit-table }
 
-
-
-</div>
 
 
 								
