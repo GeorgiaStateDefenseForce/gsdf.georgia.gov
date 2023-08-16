@@ -90,7 +90,7 @@ The 3rd Battalion also conducts additional training related to disaster relief, 
 
 The 4th Battalion is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
-**Area of Operations**
+**Area of Operation**
 
 The Area of Operation for the 4th Battalion is centered around the north Georgia mountains and surrounding areas. However, we have been deployed to locations across Georgia, whenever needed, to augment Georgia National Guard units and serve the citizens of our state.  
 
