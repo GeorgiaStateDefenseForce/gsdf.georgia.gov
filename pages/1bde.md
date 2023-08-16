@@ -33,7 +33,7 @@ The 2nd Battalion Soldiers are force multipliers for the Georgia National Guard,
 
 **Area of Operation**
 
-The Area of Operation for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west ofGA 400 to the Tennessee border. Soldiers from the 2nd Battalion routinely augment and deploy with other GSDF units across the state.
+The Area of Operation for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west of GA 400 to the Tennessee border. Soldiers from the 2nd Battalion routinely augment and deploy with other GSDF units across the state.
 
 **What We Do**
 
@@ -47,8 +47,8 @@ The 2nd Battalion A Company drills third (Charlie) weekend at the National Guard
 | ----------------------------------------------- | ---------------------------------- | ---------------------------------------- |
 | ![](/images/disaster_relief.png){:class="full"} | ![](/images/sr.png){:class="full"} | ![](/images/topright.png){:class="full"} |
 
-| ﻿ Police Evidence Searches             | Traffic Control                         | Opposing Force Training                     |
-| -------------------------------------- | --------------------------------------- | ------------------------------------------- |
+| ﻿ Police Evidence Searches             | Traffic Control                         | Opposing Force Training                    |
+| -------------------------------------- | --------------------------------------- | ------------------------------------------ |
 | ![](/images/police.png){:class="full"} | ![](/images/traffic.png){:class="full"} | ![](/images/opp_again.jpeg){:class="full"} |
 
 ## 3rd Battalion
