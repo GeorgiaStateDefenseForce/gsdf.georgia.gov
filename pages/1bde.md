@@ -7,12 +7,11 @@ sitemap:
   lastmod: 2021-10-08
   changefreq: yearly
 ---
-![](/images/1bde-creat.png)
+<span class="image center"><img src="{{ "/images/1bde-creat.png" | absolute_url }}" alt="" /></span>
 
 # 1st Brigade
 
-# \
-Boots on the Ground!
+# Boots on the Ground!
 
 ## **Mission**
 
@@ -26,7 +25,7 @@ Whether it is search and rescue, shelter augmentation, chainsaw operations, traf
 
 The area of operation of the 1BDE is north of I-20, but including areas in Dekalb, Henry, and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion is headquartered in Winder. The 4th Battalion is headquartered in Dahlonega. 
 
-![Map of AOs](/images/picture1.png){:class="full"}
+![Map of AOs](/images/aos-v2.jpg){:class="image center"}
 
 ## 2nd Battalion
 
@@ -34,23 +33,23 @@ The 2nd Battalion Soldiers are force multipliers for the Georgia National Guard,
 
 **Area of Operation**
 
-The Area of Operation for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west ofGA 400 to the Tennessee border. Soldiers from the 2nd Battalion routinely augment and deploy with other GSDF units across the state.
+The Area of Operation for the 2nd Battalion roughly consists of the counties within the area north of I-20 and west of GA 400 to the Tennessee border. Soldiers from the 2nd Battalion routinely augment and deploy with other GSDF units across the state.
 
 **What We Do**
 
-Soldiers from the 2nd Battalion are prepared to augment our **Army and Air National Guard** counterparts during pre-mobilization, annual training, and other special assignments. Our training includes search and rescue in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters.
+Soldiers from the 2nd Battalion are prepared to augment our Georgia Air National Guard and Georgia Army National Guard counterparts during pre-mobilization, annual training, and other special assignments. Our training includes search and rescue in wilderness and urban environments, opposing forces, point of distribution operations, traffic control, and much more. We also are ready to support civil authorities in the aftermath of natural disasters. 
 
 **When and Where We Train**
 
-The 2nd Battalion A Company drills third (Charlie) weekend at the National Guard armory in Marietta Ga.  2nd Battalion Company drills second (Bravo) weekend at the National Guard armory located in Rome Ga.  
+The 2nd Battalion A Company drills third (Charlie) weekend at the National Guard armory in Marietta Ga.  The 2nd Battalion Company drills second (Bravo) weekend at the National Guard armory in Rome Ga.  
 
-| ﻿ Natural Disaster Assistance           | Search & Rescue                           | Assist Civil Authorities                 |
-| --------------------------------------- | ----------------------------------------- | ---------------------------------------- |
-| ![](/images/topleft.png){:class="full"} | ![](/images/topmiddle.png){:class="full"} | ![](/images/topright.png){:class="full"} |
+| ﻿ Natural Disaster Assistance                   | Search & Rescue                    | Assist Civil Authorities                 |
+| ----------------------------------------------- | ---------------------------------- | ---------------------------------------- |
+| ![](/images/disaster_relief.png){:class="full"} | ![](/images/sr.png){:class="full"} | ![](/images/topright.png){:class="full"} |
 
-| ﻿ Police Evidence Searches                 | Traffic Control                              | Opposing Force Training                     |
-| ------------------------------------------ | -------------------------------------------- | ------------------------------------------- |
-| ![](/images/bottomleft.png){:class="full"} | ![](/images/bottommiddle.png){:class="full"} | ![](/images/bottomright.png){:class="full"} |
+| ﻿ Police Evidence Searches             | Traffic Control                         | Opposing Force Training                    |
+| -------------------------------------- | --------------------------------------- | ------------------------------------------ |
+| ![](/images/police.png){:class="full"} | ![](/images/traffic.png){:class="full"} | ![](/images/opp_again.jpeg){:class="full"} |
 
 ## 3rd Battalion
 
@@ -60,19 +59,19 @@ The Area of Operation for the 3rd Battalion roughly consists of the counties wit
 
 **When We Train**
 
-The 3rd Battalion training occurs one weekend a month, usually the third (Charlie) weekend, **but can shift to another weekend based on holiday conflicts.** In addition to training drills, 3rd Battalion usually conducts two field training exercises a year, bivouacking in the “woods,” to field test our training skills.
+The 3rd Battalion training occurs monthly on the third (Charlie) weekend. In addition to training drills, the 3rd Battalion usually conducts two field training exercises a year, bivouacking in the “woods,” to field test our training skills.
 
 **Where We Train**
 
-The 3rd Battalion home training base is the Georgia Army National Guard Army Aviation Support Facility (AASF#1) located at the Winder, Ga., airport. This facility supports Georgia Army National Guard Black Hawk maintenance work and has 24 hour/7 day-a-week security on site.
+The 3rd Battalion home training base is the Georgia Army National Guard Army Aviation Support Facility (AASF#1) located at the Winder, Ga. airport. This facility supports Georgia Army National Guard Black Hawk maintenance work and has 24 hour/7 day-a-week security on site.
 
 **What We Do**
 
-**Our primary goal is supporting the Georgia Army National Guard.** Since 2014, the 3rd battalion has provided assistance to the Georgia Army National Guard 178th Military Police Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, Ga. 
+Since 2014, the 3rd battalion has provided assistance to the Georgia Army National Guard 178th Military Police Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, Ga. 
 
-While some of those missions provided additional Soldier support, more recently, the 3rd Battalion has been involved opposing force training. 
+While some of those missions provided additional Soldier support, more recently, the 3rd Battalion has been involved in opposing force training that assists the Army National Guard in pre-deployment readiness. 
 
-Other Mission Essential Task List (METL) and Soldier skills training includes:
+Other Mission Essential Task List (METL) and Soldier skills training include:
 •	CPR and first aid
 •	Land navigation
 •	Radio communication
@@ -91,9 +90,9 @@ The 3rd Battalion also conducts additional training related to disaster relief, 
 
 The 4th Battalion is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
-**Area of Operations**
+**Area of Operation**
 
-The Area of Operation for the 4th Battalion is centered around the north Georgia mountains and surrounding areas.  However, we have been deployed to locations across Georgia, whenever needed, to augment the Georgia National Guard units and serve the citizens of our state.  
+The Area of Operation for the 4th Battalion is centered around the north Georgia mountains and surrounding areas. However, we have been deployed to locations across Georgia, whenever needed, to augment Georgia National Guard units and serve the citizens of our state.  
 
 **What We Do**
 
@@ -101,10 +100,10 @@ The 4th Battalion's specialty is WSAR, and we train regularly to sharpen and ext
 
 **When and Where We Train**
 
-The 4th Battalion training weekend is usually the second weekend (Bravo weekend) of the month. Annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (Battalion or Brigade or GSDF-wide).
+The 4th Battalion training weekend is usually the second weekend (Bravo weekend) of the month. Annual training can be 3-5 days in duration, depending on the unit level of training that is held for that year (battalion or brigade or GSDF-wide).
 
 The 4th Battalion is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). A large number of the cadets serve in the Georgia National Guard while attending the university to graduate and commission as officers in a branch of the U.S. military or in a Georgia Army National Guard unit. The Pine Valley Recreation Center in Dahlonega is the primary drill location for the 4th Battalion, but we also drill at the Yonah Preserve and at several locations on the Appalachian Trail.
 
-![](/images/41.png){:class="full"}
+![](/images/41.png)
 
 **To join the 1BDE, contact the 1BDE recruiter by filling out the contact form and choosing 1BDE as your preferred unit:** <https://gsdf.georgia.gov/pages/contact/>
