@@ -49,7 +49,7 @@ The 2nd Battalion A Company drills third (Charlie) weekend at the National Guard
 
 | ﻿ Police Evidence Searches             | Traffic Control                         | Opposing Force Training                     |
 | -------------------------------------- | --------------------------------------- | ------------------------------------------- |
-| ![](/images/police.png){:class="full"} | ![](/images/traffic.png){:class="full"} | ![](/images/bottomright.png){:class="full"} |
+| ![](/images/police.png){:class="full"} | ![](/images/traffic.png){:class="full"} | ![](/images/opp_again.jpeg){:class="full"} |
 
 ## 3rd Battalion
 
