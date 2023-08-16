@@ -69,9 +69,9 @@ The 3rd Battalion home training base is the Georgia Army National Guard Army Avi
 
 Since 2014, the 3rd battalion has provided assistance to the Georgia Army National Guard 178th Military Police Company based in Monroe, Ga., and the 1-121 Infantry Unit based in Winder, Ga. 
 
-While some of those missions provided additional Soldier support, more recently, the 3rd Battalion has been involved opposing force training. 
+While some of those missions provided additional Soldier support, more recently, the 3rd Battalion has been involved in opposing force training that assists the Army National Guard in pre-deployment readiness. 
 
-Other Mission Essential Task List (METL) and Soldier skills training includes:
+Other Mission Essential Task List (METL) and Soldier skills training include:
 •	CPR and first aid
 •	Land navigation
 •	Radio communication
@@ -92,7 +92,7 @@ The 4th Battalion is known as the WSAR (Wilderness Search and Rescue) Battalion.
 
 **Area of Operations**
 
-The Area of Operation for the 4th Battalion is centered around the north Georgia mountains and surrounding areas. However, we have been deployed to locations across Georgia, whenever needed, to augment the Georgia National Guard units and serve the citizens of our state.  
+The Area of Operation for the 4th Battalion is centered around the north Georgia mountains and surrounding areas. However, we have been deployed to locations across Georgia, whenever needed, to augment Georgia National Guard units and serve the citizens of our state.  
 
 **What We Do**
 
