@@ -17,6 +17,6 @@ Thanks to his GSDF training, he responded quickly and with authority.  PFC Pham 
 
 PFC Pham and some other good samaritans continued CPR for over 10 minutes while deploying AED shocks at least 4 times.  "We had to cut his shirt off and I applied the pads in the appropriate places... We then followed the prompts from the device..."
 
-PFC Pham said, "Chest compressions are hard, I had to help others keep up the pace when they slowed down.... "
+> PFC Pham said, "Chest compressions are hard, I had to help others keep up the pace when they slowed down.... "
 
 GSDF's motto is Parati Servire, meaning "Ready to Serve".  As Georgians, we are grateful PFC Pham was ready to serve and there are many more like him in the GSDF ready to serve the citizens of Georgia.
