@@ -2,7 +2,7 @@
 layout: post
 title: Soldier Uses GSDF Training to Save a Life
 date: 2023-08-25T17:10:05.401Z
-excerpt: Pfc. Dennis Pham is in the Right Place, At the Right Time, with the
+excerpt: Pfc. Dennis Pham is in the Right Place, at the Right Time, with the
   Right Knowledge
 author: gsdf
 image: /images/pham_photo.webp
