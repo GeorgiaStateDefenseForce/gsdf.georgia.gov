@@ -9,7 +9,7 @@ image: /images/pham_photo.webp
 ---
 *Written By Pfc. George Taylor*
 
-On Wednesday evening, August, 23, 2023, Georgia State Defense Force (GSDF) Pfc. Dennis Pham was working out at his local gym, when he noticed, out of the corner of his eye, someone doing "strange pushups." 
+On Wednesday evening, August 23, 2023, Georgia State Defense Force (GSDF) Pfc. Dennis Pham was working out at his local gym, when he noticed, out of the corner of his eye, someone doing "strange pushups." 
 
 "I first noticed someone doing what seemed like 'strange pushups,' and I then realized something was wrong," Pfc. Pham said. 
 
