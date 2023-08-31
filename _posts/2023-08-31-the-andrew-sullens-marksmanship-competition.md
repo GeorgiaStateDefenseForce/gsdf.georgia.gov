@@ -69,3 +69,5 @@ I’m also very proud to have been a part of the ASMC since 2013. Hopefully, the
 **How can GSDF Soldiers volunteer?**
 
 To volunteer for the ASMC, first check with your chain of command. Then, contact Warrant Officer Joseph Mezzatesta via GSDF email.
+
+![](/images/don-salc-2.jpg)
