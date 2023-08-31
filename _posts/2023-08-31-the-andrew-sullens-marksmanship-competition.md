@@ -8,15 +8,13 @@ author: gsdf
 image: /images/van-holm-getting-the-governers-20-tab.jpg
 ---
 **In this Interview, Col. Don Lankford Speaks about the Origins of the 
-Georgia State Defense Force’s Involvement in the Andrew Sullens Marksmanship Competition** 
+Georgia State Defense Force’s Involvement in the Andrew Sullens Marksmanship Competition** (ASMC)
 
 *Responses Compiled by Warrant Officer Joseph Mezzatesta, GSDF Competition Marksmanship Team Officer in Charge*
 
-The Andrew Sullens Marksmanship Competition is named for Georgia Army National Guard veteran, Andrew Sullens. He was wounded in Afghanistan in 2009. He is an advocate for joint readiness, team-building, and rehabilitation for Soldiers.
+The Andrew Sullens Marksmanship Competition is named for Georgia Army National Guard veteran, Andrew Sullens. He was wounded in Afghanistan in 2009 and is an advocate for joint readiness, team-building, and rehabilitation for Soldiers to this day.
 
-This year, the GSDF will have a competition marksmanship team! The concept of a GSDF competition marksmanship team was the brainchild of Col. Lankford, who spent years laying the groundwork. 
-
-Col. Lankford is Commander of the GSDF 5th Brigade.
+This year, the GSDF will have a competition marksmanship team! The concept of a GSDF competition marksmanship team was the brainchild of Col. Lankford, Commander of the 5th Brigade, who spent years laying the groundwork. 
 
 In this Interview, Col. Don Lankford Speaks about the Origins of the 
 Georgia State Defense Force’s Involvement in the Andrew Sullens Marksmanship Competition 
