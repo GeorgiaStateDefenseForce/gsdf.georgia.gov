@@ -11,13 +11,13 @@ The Andrew Sullens Marksmanship Competition (ASMC) is named for Georgia Army Nat
 
 **This year, the Georgia State Defense Force (GSDF) will have a competition marksmanship team in the ASMC!** The concept of a GSDF competition marksmanship team was the brainchild of Col. Don Lankford, Commander of the GSDF 5th Brigade. Col. Lankford spent years laying the groundwork. 
 
-*In this Interview, Col. Lankford speaks about the origins of the GSDF's involvement in the Andrew Sullens Marksmanship Competition.* 
+*In this Interview, Col. Lankford speaks about the origins of the GSDF's involvement in the ASMC.*
 
 *Responses Compiled by Warrant Officer Joseph Mezzatesta, GSDF Competition Marksmanship Team Officer in Charge*
 
 **Q1. How did you become interested in the ASMC?**
 
-I knew a Soldier in the Georgia Army National Guard (GAARNG), Warrant Officer Jakob Raven . Given his role in the GAARNG, he wanted to start a comprehensive marksmanship program. He asked for help, and on behalf of the GSDF, we agreed to help. 
+I knew a Soldier in the Georgia Army National Guard (GAARNG), Warrant Officer Jakob Raven. Given his role in the GAARNG, he wanted to start a comprehensive marksmanship program. He asked for help, and on behalf of the GSDF, we agreed to help. 
 
 In 2013, the first year of the ASMC, the GSDF had about 25 troops assisting with setting up the range.
 
@@ -58,20 +58,18 @@ Yes. We hope to have others tabbed in the future as our participation grows and 
 
 The competition marksmanship team conducts training sessions quarterly. We plan to continue to do so after ASMC so that we are ready for the next event.
 
-**Q9. Do you have any closing remarks?**
-\
-All that has happened has been a collective of GSDF grit and determination. We have some very talented Soldiers, who have worked hard to contribute and support the Georgia National Guard Marksmanship Program. \
-\
-I am very proud of the GSDF Soldiers who have helped make this a reality.\
-
-I’m also very proud to have been a part of the ASMC since 2013. Hopefully, the ASMC will go on for many years to come.
-
-**Q10. How can GSDF Soldiers volunteer?**
+**Q9. How can GSDF Soldiers volunteer?**
 
 To volunteer for the ASMC, first check with your chain of command. Then, contact Warrant Officer Joseph Mezzatesta via GSDF email.
 
-For more on the ASMC, follow the GSDF on Facebook and Instagram.
+**Q10. Do you have any closing remarks?**
+\
+All that has happened has been a collective of GSDF grit and determination. We have some very talented Soldiers, who have worked hard to contribute and support the Georgia National Guard Marksmanship Program. I am very proud of the GSDF Soldiers who have helped make this a reality.\
+
+I’m also very proud to have been a part of the ASMC since 2013. Hopefully, the ASMC will go on for many years to come.
 
 
+
+For more on the ASMC, follow the GSDF on [Facebook](https://www.facebook.com/GeorgiaSDF) and [Instagram](https://www.instagram.com/georgiastatedefenseforce/).
 
 ![](/images/don-salc-2.jpg)
