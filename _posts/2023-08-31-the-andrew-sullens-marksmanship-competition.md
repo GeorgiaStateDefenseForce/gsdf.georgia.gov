@@ -29,7 +29,7 @@ Yes. Georgia Adjutant General Maj. Gen. General Thomas M. Carden Jr. approved th
 
 **Q3. When did ASMC begin?**
 
-ASMC began in 2013. The Combat Leaders Academy hosts the Small Arms Leaders Course as a primer for the ASMC so Soldiers that can learn the skills needed and bring those skills back to their units for training and team-building. 
+ASMC began in 2013. The Combat Leaders Academy hosts the Small Arms Leaders Course as a primer for the ASMC so that Soldiers can learn the skills needed and bring those skills back to their units for training and team-building. 
 
 **Q4. How many years has the GSDF participated in the ASMC?**
 
@@ -37,7 +37,7 @@ GSDF Soldiers have participated, in some form, since 2013, so this year will be 
 
 **Q5. In what years did the GSDF have teams?** 
 
-GSDF Soldiers participated in 2019 and 2021, and will we enter our first full team in 2023.
+GSDF Soldiers participated in 2019 and 2021. We will enter our first full team in 2023.
 
 **Q6. Which GSDF Soldiers are on the team?** 
 
@@ -64,7 +64,7 @@ To volunteer for the ASMC, first check with your chain of command. Then, contact
 
 **Q10. Do you have any closing remarks?**
 \
-All that has happened has been a collective of GSDF grit and determination. We have some very talented Soldiers, who have worked hard to contribute and support the Georgia National Guard Marksmanship Program. I am very proud of the GSDF Soldiers who have helped make this a reality.\
+All that has happened has been a collective of GSDF grit and determination. We have some very talented Soldiers, who have worked hard to contribute to and support the Georgia National Guard Marksmanship Program. I am very proud of the GSDF Soldiers who have helped make this a reality.\
 
 I’m also very proud to have been a part of the ASMC since 2013. Hopefully, the ASMC will go on for many years to come.
 
