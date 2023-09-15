@@ -18,7 +18,7 @@ sitemap:
 OPFOR (**OP**posing **FOR**ce) Battalion is a special unit tasked with emulating enemy tactics for purposes of military training. In 2018, the GSDF established the OPFOR Battalion to conduct direct support operations to the Georgia Army National Guard during pre-deployment preparation and training. OPFOR Soldiers learn and execute both traditional and irregular warfare and combat tactics. When called upon to conduct training exercises with the Georgia Army National Guard, OPFOR Battalion Soldiers are able to imitate potential enemy tactics at a high level to provide realistic training scenarios for Georgia Army National Guard Soldiers as they prepare for international deployment.     
 
 ![](https://lh4.googleusercontent.com/L-_hBT79dLSTgLWaRx_p6aN1QAXqjU2EiuBBKmhqZTZTZX9NQtZcJb3R6YHJ6b0i394-bzMKdvje8g8qOd6uZbkxjIjIXZt9dZ-6bgJOue9pylJQEp_4lxYk5L3hQaCZdNNwE9yxu7WpXxxSV6B8L98)\
-*Any GSDF Soldiers can earn the OPFOR rocker patch by deploying and participating in five (5) OPFOR missions with direct interaction with the Georgia National Guard. The OPFOR rocker patch is worn above the GSDF patch on the Soldier’s left shoulder.*
+*Any GSDF Soldier can earn the OPFOR rocker patch by deploying and participating in five (5) OPFOR missions with direct interaction with the Georgia National Guard. The OPFOR rocker patch is worn above the GSDF patch on the Soldier’s left shoulder.*
 
 OPFOR Battalion Soldiers drill monthly and participate in regular training at armories and military installations throughout Georgia. To simulate conventional and irregular warfare scenarios in potential operational environments, OPFOR Soldiers must be physically fit, mentally strong, and ready and able to deploy at short notice. 
 
@@ -34,7 +34,7 @@ OPFOR Battalion is composed of the following:
 For Domestic Operations (**DOMOPS**) and the Defense Support of Civil Authorities (**DSCA**), OPFOR Battalion Soldiers are prepared and ready to answer the call-up at any time to support the mission.
 
 ![Throwin' smoke!](/images/opfor2.jpeg "OPFOR Mission")\
-*The Georgia State Defense Force is an unarmed component of the Georgia Department of Defense. Weapons are used for training, sanctioned competitions, or other authorized purpose.*
+*OPFOR Soldiers in training at the Volunteer Training Site Catoosa, Tunnel Hill, Ga., May 5 - 7, 2023. The Georgia State Defense Force is an unarmed component of the Georgia Department of Defense. Weapons are used for training, sanctioned competitions, or other authorized purpose.*
 
 Serving in OPFOR Battalion requires a higher-than-average commitment, with frequent overnight stays in outdoor settings and physically challenging military training. Serving in the GSDF OPFOR unit is a privilege and an adventure. OPFOR Soldiers are 100% dedicated to supporting the Georgia Army National Guard in its training, missions, and deployments.
 
