@@ -2,7 +2,7 @@
 layout: post
 title: The History of VOLUNTEER TRAINING SITE – CATOOSA
 date: 2023-08-15T12:15:28.268Z
-excerpt: The History of VOLUNTEER TRAINING SITE – CATOOSA
+excerpt: The History of Volunteer Training Site – Catoosa
 author: gsdf
 image: /images/catoosa_sign.jpg
 ---
