@@ -1,5 +1,11 @@
 ---
+layout: page
 title: Watch Live
+description: Watch live
+sitemap:
+  priority: 0.7
+  lastmod: 2023-09-02
+  changefreq: yearly
 ---
 <div style="position: relative; padding-top: 56.25%;">
   <iframe
