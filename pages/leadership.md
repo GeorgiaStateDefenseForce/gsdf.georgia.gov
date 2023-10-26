@@ -9,7 +9,7 @@ sitemap:
 ---
 # Current Leadership
 
-<div class="box alt">
+<!-- <div class="box alt">
     <div class="row 50% ">
         <div class="6u">
             Brig. Gen. Mark D. Gelhardt Sr.
@@ -22,12 +22,13 @@ sitemap:
     </div>
 </div>
 
-- - -
-
-# Commanding Generals
+- - - 
+-->
+## Commanding Generals
 
 | Commanders                    | Dates                       |
 | ----------------------------- | --------------------------- |
+| BG Dennis Watts               | Sept 22, 2023 – PRESENT     |
 | BG Mark D. Gelhardt, Sr.      | Dec 5, 2020 – June 23, 2023 |
 | BG Thomas H. Blackstock, Jr.  | Nov 3, 2018 – Dec 4, 2020   |
 | BG Thomas Danielson           | Sept 7, 2013 – Nov 2, 2018  |
