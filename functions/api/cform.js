@@ -14,7 +14,7 @@ export async function onRequestPost(context) {
         output[key] = [].concat(tmp, value);
       }
     }
-    console.log(input);
+    
 
 
   let token, secret;
@@ -41,12 +41,12 @@ export async function onRequestPost(context) {
     method: 'POST',
   });
   let outcome = await result.json();
-  // comment out below for testing google form entry... TODO
-  // if (!outcome.success) {
-  //  console.log("Token Failure from " + ip);
-  //  return new Response('The provided Spam Protection token was not valid!', { status: 401 });
-  //  //return next();
-  // }
+  // comment out below for testing google form entry... 
+  if (!outcome.success) {
+   console.log("Token Failure from " + ip);
+   return new Response('The provided Spam Protection token was not valid!', { status: 401 });
+   //return next();
+  }
   input.delete("cf-turnstile-response");
 
   let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
@@ -71,7 +71,7 @@ export async function onRequestPost(context) {
   if(!googleResult.ok){
     console.log("Error from Google Form Submit: " + await googleResult.text());
     console.log("Error code from Google Form: " + googleResult.status);
-    return new Response('We had trouble processing your information.  Please email pao@gsdf.ga.gov and let us know', { status: 401 });
+    return new Response('We had trouble processing your information.  Please email pao@gsdf.ga.gov and let us know', { status: 501 });
   }
   
   
