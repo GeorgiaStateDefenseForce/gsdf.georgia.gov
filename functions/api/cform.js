@@ -67,6 +67,10 @@ export async function onRequestPost(context) {
       'entry.909904957': input.get("preferred").toString()
     })
   }).then(response => {
+    if(!response.ok){
+      return response.json();
+    }
+    console.log(`Response OK from Google `);
     console.log("Then:" + response.ok);
   })
   .catch(error => {
