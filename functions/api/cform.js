@@ -70,6 +70,7 @@ export async function onRequestPost(context) {
     console.log("Then:" + response.ok);
   })
   .catch(error => {
+    console.log(`[LOGGING FROM /cform.js]: google error: ${error.toString}`);
     console.log("Error: " + error);
   });;
   
