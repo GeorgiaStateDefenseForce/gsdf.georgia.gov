@@ -51,7 +51,7 @@ export async function onRequestPost(context) {
 
   let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
   // let googleResult = await 
-  fetch(googleUrl, {
+  let googleResult = await fetch(googleUrl, {
     method: "POST",
     headers: {
       'Content-Type': 'application/x-www-form-urlencoded',
@@ -66,17 +66,14 @@ export async function onRequestPost(context) {
       'entry.1514106883': input.get("findout").toString(),
       'entry.909904957': input.get("preferred").toString()
     })
-  }).then(response => {
-    if(!response.ok){
-      return response.json();
-    }
-    console.log(`Response OK from Google `);
-    console.log("Then:" + response.ok);
-  })
-  .catch(error => {
-    console.log(`[LOGGING FROM /cform.js]: google error: ${error.toString}`);
-    console.log("Error: " + error);
-  });;
+  });
+  
+  if(!googleResult.ok){
+    console.log("Error from Google Form Submit: " + await googleResult.text());
+    console.log("Error code from Google Form: " + googleResult.status);
+    return new Response('We had trouble processing your information.  Please email pao@gsdf.ga.gov and let us know', { status: 401 });
+  }
+  
   
   const destinationURL = "https://gsdf.georgia.gov/thank-you/";
   const statusCode = 303;
