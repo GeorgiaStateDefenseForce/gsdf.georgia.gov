@@ -12,11 +12,13 @@ sitemap:
 <div class="box alt">
     <div class="row 50% ">
         <div class="6u">
-            Brigadier General Dennis Watts
-        <span class="image fit"><img src="{{ "/images/cropped_gen3.png" | absolute_url }}" alt="Commanding General Brig. Gen. Dennis Watts" /></span>
+            <p>Brigadier General Dennis Watts</p>
+            <p>GSDF Commanding General</p>
+        <span class="image fit"><img src="{{ "/images/cropped_gen_watts2.png" | absolute_url }}" alt="Commanding General Brig. Gen. Dennis Watts" /></span>
         </div>
         <div class="6u$">
-            Command Sergeant Major Robert Bayne
+            <p>Command Sergeant Major Robert Bayne</p>
+            <p>GSDF Command Sergeant Major</p>
         <span class="image fit"><img src="{{ "/images/cropped_csm_bayne.png" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
         </div>
     </div>
@@ -26,7 +28,7 @@ sitemap:
 
 ## Commanding Generals
 
-| Commanders                    | Dates                       |
+|                               |                             |
 | ----------------------------- | --------------------------- |
 | BG Dennis Watts               | Sept 22, 2023 – PRESENT     |
 | BG Mark D. Gelhardt, Sr.      | Dec 5, 2020 – June 23, 2023 |
