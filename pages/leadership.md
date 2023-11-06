@@ -12,11 +12,11 @@ sitemap:
 <div class="box alt">
     <div class="row 50% ">
         <div class="6u">
-            Brig. Gen. Dennis Watts
-        <span class="image fit"><img src="{{ "/images/cropped_gen_watts.png" | absolute_url }}" alt="Commanding General Brig. Gen. Dennis Watts" /></span>
+            Brigadier General Dennis Watts
+        <span class="image fit"><img src="{{ "/images/cropped_gen3.png" | absolute_url }}" alt="Commanding General Brig. Gen. Dennis Watts" /></span>
         </div>
         <div class="6u$">
-            Command Sgt. MAJ Robert Bayne
+            Command Sergeant Major Robert Bayne
         <span class="image fit"><img src="{{ "/images/cropped_csm_bayne.png" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
         </div>
     </div>
