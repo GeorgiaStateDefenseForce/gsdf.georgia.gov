@@ -9,21 +9,21 @@ sitemap:
 ---
 # Current Leadership
 
-<!-- <div class="box alt">
+<div class="box alt">
     <div class="row 50% ">
         <div class="6u">
-            Brig. Gen. Mark D. Gelhardt Sr.
-        <span class="image fit"><img src="{{ "/images/2020-10-09_BG_Gelhardt-offical_Photo_edit.jpg" | absolute_url }}" alt="Commanding General Brig. Gen. Mark D. Gelhardt Sr." /></span>
+            Brig. Gen. Dennis Watts
+        <span class="image fit"><img src="{{ "/images/cropped_gen_watts.png" | absolute_url }}" alt="Commanding General Brig. Gen. Dennis Watts" /></span>
         </div>
         <div class="6u$">
             Command Sgt. MAJ Robert Bayne
-        <span class="image fit"><img src="{{ "/images/CSM_Bayne_CMD_20220907_edit.jpg" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
+        <span class="image fit"><img src="{{ "/images/cropped_csm_bayne.png" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
         </div>
     </div>
 </div>
 
 - - - 
--->
+
 ## Commanding Generals
 
 | Commanders                    | Dates                       |
