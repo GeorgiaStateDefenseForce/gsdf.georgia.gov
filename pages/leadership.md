@@ -9,24 +9,26 @@ sitemap:
 ---
 # Current Leadership
 
-<!-- <div class="box alt">
+<div class="box alt">
     <div class="row 50% ">
         <div class="6u">
-            Brig. Gen. Mark D. Gelhardt Sr.
-        <span class="image fit"><img src="{{ "/images/2020-10-09_BG_Gelhardt-offical_Photo_edit.jpg" | absolute_url }}" alt="Commanding General Brig. Gen. Mark D. Gelhardt Sr." /></span>
+            <p><strong>Brigadier General Dennis Watts</strong><br />
+            GSDF Commanding General</p>
+        <span class="image fit"><img src="{{ "/images/cropped_gen_watts2.png" | absolute_url }}" alt="Commanding General Brig. Gen. Dennis Watts" /></span>
         </div>
         <div class="6u$">
-            Command Sgt. MAJ Robert Bayne
-        <span class="image fit"><img src="{{ "/images/CSM_Bayne_CMD_20220907_edit.jpg" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
+            <p><strong>Command Sergeant Major Robert Bayne</strong><br />
+            GSDF Command Sergeant Major</p>
+        <span class="image fit"><img src="{{ "/images/cropped_csm_bayne.png" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
         </div>
     </div>
 </div>
 
 - - - 
--->
+
 ## Commanding Generals
 
-| Commanders                    | Dates                       |
+|                               |                             |
 | ----------------------------- | --------------------------- |
 | BG Dennis Watts               | Sept 22, 2023 – PRESENT     |
 | BG Mark D. Gelhardt, Sr.      | Dec 5, 2020 – June 23, 2023 |
