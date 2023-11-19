@@ -9,7 +9,7 @@ sitemap:
 ---
 # OPFOR HOOAH!!
 
-![OPFOR Battalion](/images/opfor-gold-patch-on-black-arrow-300x300.jpg "OPFOR Battalion"){:class="medium"}
+![OPFOR Battalion](/images/opfor-gold-patch-on-black-arrow-300x300.jpg "OPFOR Battalion"){:class="small"}
 
 **OPFOR MISSION STATEMENT**: *The mission of OPFOR Battalion is two-fold.*
 
