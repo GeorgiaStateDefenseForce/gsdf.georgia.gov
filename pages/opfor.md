@@ -17,7 +17,7 @@ sitemap:
 
 OPFOR (Opposing Force) Battalion is a special unit tasked with emulating enemy tactics for purposes of military training. In 2018, the GSDF established the OPFOR Battalion to conduct direct support operations to the Georgia Army National Guard during pre-deployment preparation and training. OPFOR Soldiers learn and execute both conventional and irregular warfare and combat tactics. When called upon to conduct training exercises with the Georgia Army National Guard, OPFOR Battalion Soldiers are able to imitate potential enemy tactics at to provide realistic training scenarios for Georgia Army National Guard Soldiers as they prepare for combat zone deployment.  
 
-![](https://lh4.googleusercontent.com/L-_hBT79dLSTgLWaRx_p6aN1QAXqjU2EiuBBKmhqZTZTZX9NQtZcJb3R6YHJ6b0i394-bzMKdvje8g8qOd6uZbkxjIjIXZt9dZ-6bgJOue9pylJQEp_4lxYk5L3hQaCZdNNwE9yxu7WpXxxSV6B8L98)
+![OPFOR Bn soldiers conduct Field Training Exercise at Camp Merrill](/images/opfor-at-camp-merrill-11-mar-2023.jpg "OPFOR Bn soldiers conduct Field Training Exercise at Camp Merrill")
 
 OPFOR Battalion Soldiers drill monthly and participate in regular training at armories and military installations throughout Georgia. To simulate conventional and irregular warfare scenarios in potential operational environments, OPFOR Soldiers must be physically fit, mentally strong, and ready and able to deploy at short notice. 
 
