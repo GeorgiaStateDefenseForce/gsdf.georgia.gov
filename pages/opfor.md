@@ -23,7 +23,7 @@ The GSDF is a unarmed component of the Georgia Department of Defense. Weapons ar
 
 OPFOR Battalion Soldiers drill monthly and participate in regular training at armories and military installations throughout Georgia. To simulate conventional and irregular warfare scenarios in potential operational environments, OPFOR Soldiers must be physically fit, mentally strong, and ready and able to deploy at short notice. 
 
-![OPFOR doing OPFOR stuff with Blackhawks](/images/opfor5.jpg "OPFOR doing OPFOR stuff with Blackhawks"){:size="10px"}
+![OPFOR doing OPFOR stuff with Blackhawks](/images/opfor5.jpg "OPFOR doing OPFOR stuff with Blackhawks"){:class=medium}
 
 OPFOR Battalion is composed of the following:
 
