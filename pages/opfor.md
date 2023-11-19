@@ -24,7 +24,7 @@ OPFOR Battalion Soldiers drill monthly and participate in regular training at ar
 
 OPFOR Battalion is composed of the following:
 
-* **Headquarters and Headquarters Company**. Located in Cumming, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team, the HQ oversees operations, intelligence, personnel and recruiting.
+* **Headquarters and Headquarters Company**. Located in Cumming, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team, the HQ conduct C2 (Command and Control), oversees operations, intelligence, personnel and recruiting.
 * **A Company**. Located in Cumming, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team. Responsibility: Combat Training Support.
 * **B Company**. Located in Atlanta, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team. Responsibility: Combat Training Support.
 * **D Company**. Located in Cumming, Ga., Responsibility: Initial Entry Training (IET) for new GSDF and OPFOR recruits.
