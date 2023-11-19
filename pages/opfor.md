@@ -45,3 +45,5 @@ To receive more information, scroll down this page to "JOIN THE FORCE" section a
 ![OPFOR taking a 4-mile ruck march to Downtown Cumming, GA](/images/opfor1.jpg "OPFOR RUCK")
 
 ![OPFOR Taskforce is ready for the Mission](/images/opfor-tf.jpg "OPFOR Taskforce is ready for the Mission")
+
+*The Georgia State Defense Force is an unarmed component of the Georgia Department of Defense. Weapons are used for training, sanctioned competitions, or other authorized purpose.*
