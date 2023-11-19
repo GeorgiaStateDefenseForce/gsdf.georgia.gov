@@ -43,3 +43,5 @@ Serving in OPFOR Battalion requires a higher-than-average commitment, with frequ
 To receive more information, scroll down this page to "JOIN THE FORCE" section and fill out the form. Select "OPFOR Battalion within the "PREFERRED UNIT" field. Submit the from with your contact details. One of our recruiters will be contacting you.
 
 ![OPFOR taking a 4-mile ruck march to Downtown Cumming, GA](/images/opfor1.jpg "OPFOR RUCK")
+
+![OPFOR Taskforce is ready for the Mission](/images/opfor-tf.jpg "OPFOR Taskforce is ready for the Mission")
