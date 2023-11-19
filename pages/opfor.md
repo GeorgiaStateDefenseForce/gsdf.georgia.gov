@@ -38,4 +38,8 @@ For Domestic Operations (**DOMOPS**) and the Defense Support of Civil Authoritie
 
 Serving in OPFOR Battalion requires a higher-than-average commitment, with frequent overnight stays in outdoor settings and physically challenging military training. Serving in the GSDF OPFOR unit is a privilege and an adventure. OPFOR Soldiers are 100% dedicated to supporting the Georgia Army National Guard in its training, missions, and deployments.
 
+To receive more information, scroll the page down, to 
+
+## <!--StartFragment-->JOIN THE FORCE!<!--EndFragment-->
+
 ![OPFOR taking a 4-mile ruck to downtown Cumming, GA](/images/opfor1.jpg "OPFOR RUCK")
