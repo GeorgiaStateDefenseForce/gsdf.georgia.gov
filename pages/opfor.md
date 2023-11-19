@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OPFOR Bn
+title: OPFOR Battalion
 description: About the OPFOR Battalion
 sitemap:
   priority: 0.7
@@ -28,6 +28,8 @@ OPFOR Battalion is composed of the following:
 * **A Company**. Located in Cumming, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team. Responsibility: Combat Training Support.
 * **B Company**. Located in Atlanta, Ga., and attached to the 3rd Battalion, 121st Infantry Regiment, 48th Infantry Brigade Combat Team. Responsibility: Combat Training Support.
 * **D Company**. Located in Cumming, Ga., Responsibility: Initial Entry Training (IET) for new GSDF and OPFOR recruits.
+
+![DOMOPS training](/images/opfor-annual-training-2021_51456567563_o.jpg)
 
 For Domestic Operations (**DOMOPS**) and the Defense Support of Civil Authorities (**DSCA**), OPFOR Battalion Soldiers are prepared and ready to answer the call-up at any time to support the mission.
 
