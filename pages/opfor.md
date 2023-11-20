@@ -9,8 +9,6 @@ sitemap:
 ---
 ![OPFOR Battalion](/images/opfor-bn-field-logo.gif)
 
-# **OPFOR Battalion**
-
 - - -
 
 <span class="image left"><img src="{{ "/images/opfor-bn-field-logo.gif" | absolute_url }}" alt="" /></span>
