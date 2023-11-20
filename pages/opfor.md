@@ -7,12 +7,15 @@ sitemap:
   lastmod: 2021-10-08
   changefreq: yearly
 ---
-![OPFOR Battalion](/images/opfor-bn-field-logo.gif "OPFOR Battalion")
-<span class="image center"><img src="{{ "opfor-bn-field-logo.gif" | absolute_url }}" alt="" /></span>
+![OPFOR Battalion](/images/opfor-bn-field-logo.gif)
 
-**OPFOR Battalion** 
+# **OPFOR Battalion**
 
-**MISSION STATEMENT**:
+- - -
+
+<span class="image left"><img src="{{ "/images/opfor-bn-field-logo.gif" | absolute_url }}" alt="" /></span>
+
+**OPFOR Bn MISSION STATEMENT**:
 A*s a unit of the Georgia State Defense Force, we provide mission-ready military forces to assist state and local authorities in times of state emergencies (man-made disasters, natural disasters, pandemic), to conduct Homeland Security and Community Service activities under the umbrella of Defense Support to Civil Authorities, and to augment the Georgia Air National Guard and Georgia Army National Guard, as required. As the Opposing Force unit, OPFOR provides physically fit and well-trained Soldiers as a force multiplier in the pre-deployment combat tactical training of Georgia Army National Guard Soldiers.*
 
 ![OPFOR Unit](/images/gsdf-opfor-image-_288949592_344341291205427_257733229097107550_n.jpg)
