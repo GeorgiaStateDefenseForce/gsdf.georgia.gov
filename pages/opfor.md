@@ -8,6 +8,7 @@ sitemap:
   changefreq: yearly
 ---
 ![OPFOR Battalion](/images/opfor-bn-field-logo.gif "OPFOR Battalion")
+<span class="image center"><img src="{{ "opfor-bn-field-logo.gif" | absolute_url }}" alt="" /></span>
 
 **OPFOR Battalion** 
 
