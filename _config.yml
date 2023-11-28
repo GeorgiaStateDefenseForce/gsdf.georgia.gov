@@ -92,3 +92,6 @@ collections:
   authors:
     output: true
     permalink: author/:title/
+
+plugins:
+  - jekyll-redirect-from

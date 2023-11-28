@@ -6,6 +6,8 @@ sitemap:
   priority: 0.7
   lastmod: 2023-03-11
   changefreq: yearly
+redirect_from:
+  - /pages/contact/
 ---
 
 

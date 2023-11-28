@@ -10,6 +10,6 @@ gem 'jekyll-import'
 gem 'hpricot'
 gem 'open_uri_redirections'
 gem 'safe_yaml'
-
+gem 'jekyll-redirect-from'
 
 gem "webrick", "~> 1.8"
