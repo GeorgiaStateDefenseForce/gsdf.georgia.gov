@@ -25,7 +25,7 @@ Whether it is search and rescue, shelter augmentation, chainsaw operations, traf
 
 The area of operation of the 1BDE is north of I-20, but including areas in Dekalb, Henry, and Rockdale counties that are south of I-20, from the Alabama state line to South Carolina and extending up to Tennessee and North Carolina. This large area is supported by three battalions of the 1BDE. The 2nd Battalion, headquartered in Marietta, is also located in Rome. The 3rd Battalion is headquartered in Winder. The 4th Battalion is headquartered in Dahlonega. 
 
-![Map of AOs](/images/aos-v2.jpg){:class="image center"}
+![1BDE area map](/images/1bde-ao-map-with-bn-locations.jpg){:class="image center"}
 
 ## 2nd Battalion
 
