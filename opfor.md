@@ -6,6 +6,8 @@ sitemap:
   priority: 0.7
   lastmod: 2021-10-08
   changefreq: yearly
+redirect_from:
+  - /pages/opfor/
 ---
 ![OPFOR Battalion](/images/opfor-bn-field-logo.gif "OPFOR Battalion")
 

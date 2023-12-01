@@ -6,6 +6,8 @@ sitemap:
   priority: 0.7
   lastmod: 2017-11-02
   changefreq: weekly
+redirect_from:
+  - /pages/about/
 ---
 <!-- <a href="https://www.flickr.com/photos/georgia_state_defense_force/37153644215/">
     <span class="image fit">

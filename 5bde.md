@@ -7,6 +7,8 @@ sitemap:
     priority: 0.7
     lastmod: 2023-03-23
     changefreq: yearly
+redirect_from:
+  - /pages/5bde/
 ---
 
 

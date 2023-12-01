@@ -6,6 +6,8 @@ sitemap:
   priority: 0.7
   lastmod: 2021-10-08
   changefreq: yearly
+redirect_from:
+  - /pages/1bde/
 ---
 <span class="image center"><img src="{{ "/images/1bde-creat.png" | absolute_url }}" alt="" /></span>
 

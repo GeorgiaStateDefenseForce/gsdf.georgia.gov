@@ -6,6 +6,8 @@ sitemap:
   priority: 0.2
   lastmod: 2023-01-31
   changefreq: yearly
+redirect_from:
+  - /pages/portal/
 ---
 
 
