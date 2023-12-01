@@ -6,6 +6,8 @@ sitemap:
   priority: 0.7
   lastmod: 2021-10-08
   changefreq: yearly
+redirect_from:
+  - /pages/1bde/
 ---
 <span class="image center"><img src="{{ "/images/1bde-creat.png" | absolute_url }}" alt="" /></span>
 
@@ -106,4 +108,4 @@ The 4th Battalion is officially attached to the University of North Georgia Corp
 
 ![](/images/41.png)
 
-**To join the 1BDE, contact the 1BDE recruiter by filling out the contact form and choosing 1BDE as your preferred unit:** <https://gsdf.georgia.gov/pages/contact/>
+**To join the 1BDE, contact the 1BDE recruiter by filling out the contact form and choosing 1BDE as your preferred unit:** <https://gsdf.georgia.gov/contact/>

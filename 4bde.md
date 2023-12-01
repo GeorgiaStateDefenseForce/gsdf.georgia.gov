@@ -6,6 +6,8 @@ sitemap:
     priority: 0.7
     lastmod: 2021-10-08
     changefreq: yearly
+redirect_from:
+  - /pages/4bde/
 ---
 
 # 4th Brigade

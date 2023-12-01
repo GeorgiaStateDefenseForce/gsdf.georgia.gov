@@ -6,6 +6,8 @@ sitemap:
   priority: 0.7
   lastmod: 2017-11-02
   changefreq: weekly
+redirect_from:
+  - /pages/about/
 ---
 <!-- <a href="https://www.flickr.com/photos/georgia_state_defense_force/37153644215/">
     <span class="image fit">
@@ -75,14 +77,14 @@ Click on a unit's name to learn more.
 
 |           |       |  
 |--------------|-----------|
-| ![](/images/TRADOCLOGO-e1605319963366.png ) | [TRADOC](/pages/tradoc) | 
-| ![](/images/OPFOR-gold-patch-on-Black-arrow-icon-e1646752628316.jpg )  | [OPFOR Battalion](/pages/opfor) | 
-| ![](/images/1BDELogo-e1605319549785.jpg )  | [1st BDE](/pages/1bde) |
-| ![](/images/4BDELogo1-e1605714540671.jpg )  | [4th BDE](/pages/4bde) |
-| ![](/images/5bde_coin_65x60.png )  | [5th BDE](/pages/5bde) |
-| ![](/images/76thCoin-e1605320174988.jpg )  | [76th Spt. BDE](/pages/76bde)
-| ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pages/pao) |
-| ![](/images/logo_tr_bg_sm1.png )  | [HQ/HHC](/pages/hhc)|
+| ![](/images/TRADOCLOGO-e1605319963366.png ) | [TRADOC](/tradoc) | 
+| ![](/images/OPFOR-gold-patch-on-Black-arrow-icon-e1646752628316.jpg )  | [OPFOR Battalion](/opfor) | 
+| ![](/images/1BDELogo-e1605319549785.jpg )  | [1st BDE](/1bde) |
+| ![](/images/4BDELogo1-e1605714540671.jpg )  | [4th BDE](/4bde) |
+| ![](/images/5bde_coin_65x60.png )  | [5th BDE](/5bde) |
+| ![](/images/76thCoin-e1605320174988.jpg )  | [76th Spt. BDE](/76bde)
+| ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pao) |
+| ![](/images/logo_tr_bg_sm1.png )  | [HQ/HHC](/hhc)|
 {: #unit-table }
 
 

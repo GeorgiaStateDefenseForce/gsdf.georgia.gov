@@ -7,6 +7,8 @@ sitemap:
     priority: 0.7
     lastmod: 2023-03-23
     changefreq: yearly
+redirect_from:
+  - /pages/5bde/
 ---
 
 
@@ -44,7 +46,7 @@ The 5BDE is made up of volunteers from various backgrounds, including law enforc
 
 
 <div align="center">
-<a href="/pages/join">Contact a Recruiter</a>
+<a href="/join">Contact a Recruiter</a>
 </div>
 <br>
 While all GSDF units can operate anywhere in Georgia, the Vikings Area of Responsibility (AOR) covers a very large portion of the state. A loop including Carrollton, LaGrange, Columbus, Cordele, Hinesville, and Augusta would encompass nearly the entire area. With such a large geographic span to cover, the 5th Brigade has more than one drill station. Our primary drill stations are shown below.
@@ -135,7 +137,7 @@ DSCA and COMENG are also significant parts of the 5BDE ission set. In addition t
 <p style="text-align: center;">Urban search and rescue (USAR) training hones the skills needed to respond to a natural disaster and work with other agencies for large-scale relief efforts.</p>
 
 <div align="center">
-<a href="/pages/join">Contact a Recruiter</a>
+<a href="/join">Contact a Recruiter</a>
 </div>
 
 <br>
