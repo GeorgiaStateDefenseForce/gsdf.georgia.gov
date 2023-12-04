@@ -40,6 +40,7 @@ collections:
     create: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Redirects", name: "redirect_from", widget: "list" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Excerpt", name: "excerpt", widget: "string" }
@@ -60,8 +61,8 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Redirects", name: "redirect_from", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "redirect_from", name: "redirect_from", widget: "string" }
   - name: "authors"
     label: "Authors"
     folder: "_authors/"
