@@ -1,6 +1,7 @@
 ---
 layout: post
-redirect_from: []
+redirect_from:
+  - /shepard
 title: Georgia State Defense Force Recognized for Service
 date: 2016-02-06T22:22:14.059Z
 excerpt: Members of the GSDF gather near the National Guard-themed rug at Clay
