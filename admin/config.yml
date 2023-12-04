@@ -61,6 +61,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "redirect_from", name: "redirect_from" widget: "string" }
   - name: "authors"
     label: "Authors"
     folder: "_authors/"
