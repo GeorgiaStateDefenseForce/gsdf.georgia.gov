@@ -3,7 +3,7 @@ layout: post
 title: U.S. Veteran Served 11 Years as Georgia State Defense Force Commanding  General
 date: 2023-12-12T13:40:25.070Z
 excerpt: Georgia National Guard Service Spanned 39 Years
-author: gsdf
+author: emmafoley
 image: /images/brig-gen-seymour-obit-graphic.jpg
 ---
 *Compiled by Pvt. Emma B. Foley*
