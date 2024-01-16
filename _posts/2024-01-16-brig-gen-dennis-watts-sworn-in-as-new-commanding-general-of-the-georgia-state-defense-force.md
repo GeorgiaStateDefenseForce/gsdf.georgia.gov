@@ -2,7 +2,7 @@
 layout: post
 title: Brig. Gen. Dennis Watts Sworn In As New Commanding General of the Georgia
   State Defense Force
-date: 2024-01-16T20:02:02.826Z
+date: 2023-09-22T19:02:02.826Z
 excerpt: Brig. Gen. Dennis Watts Sworn In As New Commanding General of the
   Georgia State Defense Force
 author: gsdf
