@@ -9,7 +9,7 @@ sitemap:
 redirect_from:
   - /pages/opfor/
 ---
-![OPFOR Battalion](/images/opfor-bn-field-logo.gif "OPFOR Battalion")
+![OPFOR Battalion](/images/gsdf-opfor-bn.svg "OPFOR Battalion")
 
 **OPFOR Battalion** 
 
