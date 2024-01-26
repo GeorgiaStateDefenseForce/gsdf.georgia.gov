@@ -4,7 +4,7 @@ title: 1st Anniversary of GSDF Website
 date: 2024-01-26T14:02:31.788Z
 excerpt: Q&A with Staff Sgt. Kerry Hatcher
 author: gsdf
-image: /images/screenshot-2024-01-26-at-8.58.45 am.png
+image: /images/gsdf-photo-of-ssg-kerry-hatcher-2.png
 ---
 **The Georgia State Defense Force (GSDF) Public Affairs Office conducts an interview with Staff Sgt. Kerry Hatcher.** 
 
