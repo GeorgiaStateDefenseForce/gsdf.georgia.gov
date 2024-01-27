@@ -44,4 +44,4 @@ When a change occurs, a process compiles the HTML of the site and pushes it to C
 
 The GSDF is a government organization, and as such, qualifies to have a .gov domain. Since .gov domains are tightly regulated and controlled, they add a certain amount of trust and credibility to the organization represented.
 
-The GSDF is a component of the Georgia Department of Defense. The .gov domain clearly associates the GSDF with the government, in this case, state government. The .gov also clearly distinguishes the GSDF from non-government organizations with similar names and/or acronyms.Q&A with Staff Sgt. Kerry Hatcher
+The GSDF is a component of the Georgia Department of Defense. The .gov domain clearly associates the GSDF with the government, in this case, state government. The .gov also clearly distinguishes the GSDF from non-government organizations with similar names and/or acronyms.
