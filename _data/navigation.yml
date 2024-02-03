@@ -2,12 +2,14 @@ items:
   - name: Home
     link: /
   - name: Join
-    link: /pages/join
+    link: /join
   - name: History
-    link: /pages/history
+    link: /history
   - name: About
-    link: /pages/about
+    link: /about
+  - name: Leadership
+    link: /leadership
   - name: Soldiers
-    link: /pages/portal
+    link: /portal
   - name: Contact us
-    link: /pages/contact
+    link: /contact

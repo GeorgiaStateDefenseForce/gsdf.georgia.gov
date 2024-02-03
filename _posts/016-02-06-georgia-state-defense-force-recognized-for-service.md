@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Georgia State Defense Force Recognized for Service"
+redirect_from:
+  - /shepard
+title: Georgia State Defense Force Recognized for Service
 date: 2016-02-06T22:22:14.059Z
-excerpt: Members of the GSDF gather near the National Guard-themed rug at Clay National Guard Center. The rug is displayed in the GSDF headquarters building.
+excerpt: Members of the GSDF gather near the National Guard-themed rug at Clay
+  National Guard Center. The rug is displayed in the GSDF headquarters building.
 author: gsdf
 image: /images/2016/02/DSC_CHAPMAN71.jpg
 ---
