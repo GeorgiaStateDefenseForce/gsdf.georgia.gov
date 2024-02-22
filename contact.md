@@ -19,4 +19,4 @@ redirect_from:
 ## Phone: 833-715-GSDF(4733)
 
 
-## Email: gasdf@gasdf.us
+## Email: gsdf@gsdf.ga.gov
