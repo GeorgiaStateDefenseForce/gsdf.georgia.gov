@@ -28,7 +28,7 @@ While there are minimum requirements to join the GSDF, it is recommended to spea
 
 <a href="{{ "/join#join-today" | absolute_url }}">
     <span class="image right">
-        <img src="{{ "/images/2016-06-15_022207000_CF994_iOS.jpg" | absolute_url }}" alt="" />
+        <img src="{{ "/images/join_image_below.jpg" | absolute_url }}" alt="" />
     </span>
 </a>
 
