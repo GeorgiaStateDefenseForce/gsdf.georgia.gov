@@ -1,10 +1,3 @@
-<script>
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    const eventName = urlParams.get('event');
-    console.log(eventName);
-    document.getElementById('findout').value=eventName;
-</script>
 <form id="join" action="/api/cform" method="post">
     <div class="field">
       <label for="fname">First Name*</label>
@@ -59,3 +52,10 @@
       <li><input type="Submit" value="Contact Recruiter" /></li>
     </ul>
 </form>
+<script>
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const eventName = urlParams.get('event');
+    console.log(eventName);
+    document.getElementById('findout').value=eventName;
+</script>
