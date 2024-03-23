@@ -57,5 +57,13 @@
     const urlParams = new URLSearchParams(queryString);
     const eventName = urlParams.get('event');
     console.log(eventName);
-    document.getElementById('findout').value=eventName;
+    const regex = /^[a-zA-Z0-9]+$/;
+    if(regex.test(eventName))
+    {
+        document.getElementById('findout').value=eventName;
+    }else
+    {
+        document.getElementById('form').innerHTML="<div><span>Bad Input</span></div>";
+    }
+    
 </script>
