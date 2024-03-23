@@ -1,0 +1,61 @@
+<script>
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const eventName = urlParams.get('event');
+    console.log(eventName);
+    document.getElementById('findout').value=eventName;
+</script>
+<form id="join" action="/api/cform" method="post">
+    <div class="field">
+      <label for="fname">First Name*</label>
+      <input type="text" name="fname" id="fname" required />
+    </div>
+    <div class="field">
+      <label for="lname">Last Name*</label>
+      <input type="text" name="lname" id="lname" required />
+    </div>
+    <div class="field">
+      <label for="email">Email*</label>
+      <input type="email" name="email" id="email" required /> 
+    </div>
+    <div class="field">
+      <label for="phone">Phone Number</label>
+      <input type="text" name="phone" id="phone" /> 
+    </div>
+    <div class="field">
+      <label for="city">City*</label>
+      <input type="text" name="city" id="city" required /> 
+    </div>
+    <div class="field">
+      <label for="state">State*</label>
+      <input type="text" name="state" id="state" required /> 
+    </div>
+    <div class="field">
+      <label for="findout">How did you find out about us?*</label>
+      <input type="text" name="findout" id="findout" required disabled /> 
+    </div>
+    <div class="field">
+      <label for="preferred">Preferred Unit*</label>
+      <select name="preferred" id="preferred" form_id="join" required>
+        <option value="">Please Pick One</option>
+        <option value="No Preference/Unsure">No Preference/Unsure</option>
+        <option value="1st Brigade">1st Brigade</option>
+        <option value="4th Brigade">4th Brigade</option>
+        <option value="5th Brigade">5th Brigade</option>
+        <option value="76th Support Brigade">76th Support Brigade</option>
+        <option value="132nd Medical Battalion">132nd Medical Battalion</option>
+        <option value="Band">Band</option>
+        <option value="Chaplain Corps">Chaplain Corps</option>
+        <option value="HQ/HHC">HQ/HHC</option>
+        <option value="JAG">JAG</option>
+        <option value="OPFOR Battalion">OPFOR Battalion</option>
+        <option value="Public Affairs Office">Public Affairs Office</option>
+        <option value="TRADOC">TRADOC</option>
+      </select>
+    </div>
+    <div class="cf-turnstile field" data-sitekey="0x4AAAAAAAGhkeh46MpW7Ati"></div>
+    <!-- <div class="cf-turnstile field" data-sitekey="1x00000000000000000000AA"></div> -->
+    <ul class="actions">
+      <li><input type="Submit" value="Contact Recruiter" /></li>
+    </ul>
+</form>

@@ -12,5 +12,5 @@ redirect_from:
 
 
 <section>
-	{% include joinform.html %}
+	{% include recruitform.html %}
 	</section>
