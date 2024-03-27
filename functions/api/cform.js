@@ -14,7 +14,7 @@ export async function onRequestPost(context) {
         output[key] = [].concat(tmp, value);
       }
     }
-    console.log(output);
+    // console.log(output);
 
 
   let token, secret;
@@ -42,11 +42,11 @@ export async function onRequestPost(context) {
   });
   let outcome = await result.json();
   // comment out below for testing google form entry... 
-  //if (!outcome.success) {
-   //console.log("Token Failure from " + ip);
-   //return new Response('The provided Spam Protection token was not valid!', { status: 401 });
-   ////return next();
-  //}
+  if (!outcome.success) {
+   console.log("Token Failure from " + ip);
+   return new Response('The provided Spam Protection token was not valid!', { status: 401 });
+   //return next();
+  }
   input.delete("cf-turnstile-response");
 
   let googleUrl = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeJAeEHO1H4vpLkMdwG1kc_U4KtAEAYFqbgeDXbhDpXQuFpvA/formResponse';
