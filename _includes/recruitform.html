@@ -25,7 +25,8 @@
     </div>
     <div class="field">
       <label for="findout">How did you find out about us?*</label>
-      <input type="text" name="findout" id="findout" required disabled /> 
+      <input type="text" name="forshow" id="forshow" disabled style="color: gray;" /> 
+      <input type="hidden" name="findout" id="findout" required /> 
     </div>
     <div class="field">
       <label for="preferred">Preferred Unit*</label>
@@ -61,6 +62,7 @@
     if(regex.test(eventName))
     {
         document.getElementById('findout').value=eventName;
+        document.getElementById('forshow').value=eventName;
     }else
     {
         document.getElementById('join').innerHTML="<div><span>Bad Input</span></div>";
