@@ -14,7 +14,7 @@ export async function onRequestPost(context) {
         output[key] = [].concat(tmp, value);
       }
     }
-    
+    console.log(output);
 
 
   let token, secret;
