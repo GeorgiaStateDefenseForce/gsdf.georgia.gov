@@ -9,9 +9,11 @@ excerpt: By Sgt. Lauren Boyle-Estheimer and Spc. George Yarnell, 1st Brigade,
 author: gsdf
 image: /images/boyle-estheimer_09mar2024_1bde-sar-ftx_5.jpg
 ---
-Georgia State Defense Force (GSDF) Soldiers from the 1st Brigade participated in a wilderness search and rescue (SAR) field training xercise (FTX) at Pine Valley Outdoor Recreation Facility in Dahlonega, Ga., March 9, 2024.
+Georgia State Defense Force (GSDF) Soldiers from the 1st Brigade participated in a wilderness search and rescue (SAR) field training exercise (FTX) at Pine Valley Outdoor Recreation Facility in Dahlonega, Ga., March 9, 2024.
 
 This FTX prepared Soldiers to respond to SAR emergency missions by training them at all levels of the operation, from individual skills to team dynamics and operational coordination. These trainings are crucial for ensuring the readiness and effectiveness of GSDF troops in real-world SAR emergencies.
+
+![](/images/01-300x189.jpg)
 
 Training for the Unpredictable: A Simulation of a SAR Operation
 
