@@ -7,13 +7,13 @@ date: 2024-04-04T16:44:06.967Z
 excerpt: By Sgt. Lauren Boyle-Estheimer and Spc. George Yarnell, 1st Brigade,
   4th Battalion
 author: gsdf
-image: /images/boyle-estheimer_09mar2024_1bde-sar-ftx_5.jpg
+image: /images/boyle-estheimer_09mar2024_1bde-sar-ftx_9.jpg
 ---
 Georgia State Defense Force (GSDF) Soldiers from the 1st Brigade participated in a wilderness search and rescue (SAR) field training exercise (FTX) at Pine Valley Outdoor Recreation Facility in Dahlonega, Ga., March 9, 2024.
 
 This FTX prepared Soldiers to respond to SAR emergency missions by training them at all levels of the operation, from individual skills to team dynamics and operational coordination. These trainings are crucial for ensuring the readiness and effectiveness of GSDF troops in real-world SAR emergencies.
 
-![](/images/01-300x189.jpg)
+![](/images/boyle-estheimer_09mar2024_1bde-sar-ftx_30.jpg)
 
 Training for the Unpredictable: A Simulation of a SAR Operation
 
@@ -27,6 +27,8 @@ On Wednesday, March 6, 1st Brigade Soldiers were issued a warning order (WARNORD
 
 Troop Movement to AO\
 On Saturday, March 9, 1st Brigade Soldiers reported to Pine Valley Outdoor Recreation Center in Dahlonega, the site of the SAR FTX. Soldiers from 4th Battalion, 1st Brigade served as the notional Local Emergency Management Agency (LEMA), requesting assistance from 1st Brigade Soldiers to conduct search operations for two missing persons last known to be in the Pine Valley Outdoor Recreation Center area for this mock exercise. 
+
+![](/images/boyle-estheimer_09mar2024_1bde-sar-ftx_31.jpg)
 
 Conducting Search Operations\
 The search team was given the Last Known Point (LKP), where the persons were last known to be located based on physical evidence (personal effects, footprints, digital/cell phone traces). Troops were broken out into search teams and given a map of the area of operation (AO). Each search team was assigned an area on the map to search and clear. 
