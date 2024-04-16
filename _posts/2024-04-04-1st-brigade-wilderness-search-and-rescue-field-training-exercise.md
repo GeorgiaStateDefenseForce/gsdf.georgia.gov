@@ -60,7 +60,7 @@ For some Soldiers, this exercise reinforced their reasons for joining the GSDF. 
 \
 Goode joined the GSDF last year.
 
-“I think that it’s critical for us to learn the skills we need to be able to go out and perform a mission like this,” he said, when asked how the training helped prepare 1st Brigade Soldiers for real-word scenario. "It’s very important for us to learn how to execute the plan effectively because we’re out there to save lives. This is excellent practice.”
+“I think that it’s critical for us to learn the skills we need to be able to go out and perform a mission like this,” she said, when asked how the training helped prepare 1st Brigade Soldiers for real-word scenario. "It’s very important for us to learn how to execute the plan effectively because we’re out there to save lives. This is excellent practice.”
 
 ![](/images/spcyarnell_09mar24_1bde-ftx2024-167-adj-cropped-pointing.jpg)
 
