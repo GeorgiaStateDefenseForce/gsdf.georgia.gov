@@ -10,14 +10,14 @@ redirect_from:
   - /pages/band/
 ---
 
-![](/images/army_bands_emb_n11062.gif)
+<img src="{{ "/images/army_bands_emb_n11062.gif" | absolute_url }}" alt="" style="width: 100px;" />
 # GSDF Band
 
-The GSDF Band conducts music support missions for
+## The GSDF Band conducts music support missions for
 - GSDF Troops—Graduations, ceremonies, protocol functions, and funeral/memorial services, and
 - Community Relations/Outreach—Concerts, patriotic observances (e.g., Memorial Day, Independence Day, Veteran’s Day) and other special events for cities, towns, and municipalities.
 
-At full capacity, the GSDF Band will support multiple music missions, including
+## At full capacity, the GSDF Band will support multiple music missions, including
 - A concert band to perform concert literature and ceremonial music,
 - Brass and woodwind chamber ensembles (quintets—brass/woodwind choirs or larger),
 - Large and small music ensembles (a combo-type group)—rhythm section with or without vocals and/or horns (saxophone, trumpet, trombone) to perform contemporary and popular music,
