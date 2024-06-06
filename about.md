@@ -77,15 +77,15 @@ Click on a unit's name to learn more.
 
 |           |       |  
 |--------------|-----------|
-| <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width=50px !important;" /> | [HQ/HHC](/hhc)|
-| ![](/images/army_bands_emb_n11062.gif) | [Band](/band) |
-| ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pao) |
-| ![](/images/TRADOCLOGO-e1605319963366.png) | [TRADOC](/tradoc) | 
-| ![](/images/1BDELogo-e1605319549785.jpg)  | [1st Brigade](/1bde) |
-| ![](/images/4BDELogo1-e1605714540671.jpg)  | [4th Brigade](/4bde) |
-| ![](/images/5bde_coin_65x60.png)  | [5th Brigade](/5bde) |
-| ![](/images/76thCoin-e1605320174988.jpg)  | [76th Support Brigade](/76bde) |
-| ![](/images/OPFOR-gold-patch-on-Black-arrow-icon-e1646752628316.jpg)  | [OPFOR Battalion](/opfor) | 
+| <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width=50px;" /> | [HQ/HHC](/hhc)|
+| <img src="{{ "/images/army_bands_emb_n11062.gif" | absolute_url }}" alt="" style="width=50px;" /> | [Band](/band) |
+| <img src="{{ "/images/pao-logo-e1631193304168.png" | absolute_url }}" alt="" style="width=50px;" /> | [Public Affairs Office](/pao) |
+| <img src="{{ "/images/TRADOCLOGO-e1605319963366.png" | absolute_url }}" alt="" style="width=50px;" /> | [TRADOC](/tradoc) | 
+| <img src="{{ "/images/1BDELogo-e1605319549785.jpg" | absolute_url }}" alt="" style="width=50px;" /> | [1st Brigade](/1bde) |
+| <img src="{{ "/images/4BDELogo1-e1605714540671.jpg" | absolute_url }}" alt="" style="width=50px;" /> | [4th Brigade](/4bde) |
+| <img src="{{ "/images/5bde_coin_65x60.png" | absolute_url }}" alt="" style="width=50px;" /> | [5th Brigade](/5bde) |
+| <img src="{{ "/images/76thCoin-e1605320174988.jpg" | absolute_url }}" alt="" style="width=50px;" /> | [76th Support Brigade](/76bde) |
+| <img src="{{ "/images/OPFOR-gold-patch-on-Black-arrow-icon-e1646752628316.jpg" | absolute_url }}" alt="" style="width=50px;" /> | [OPFOR Battalion](/opfor) | 
 
 
 {: #unit-table }
