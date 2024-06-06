@@ -77,7 +77,7 @@ Click on a unit's name to learn more.
 
 |           |       |  
 |--------------|-----------|
-| <img src="{{ "/images/GSDF_2_People_51616385339_3f2035db23_o.jpg" | absolute_url }}" alt="" style="width=50px;" /> | [HQ/HHC](/hhc)|
+| <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width=50px !important;" /> | [HQ/HHC](/hhc)|
 | ![](/images/army_bands_emb_n11062.gif) | [Band](/band) |
 | ![](/images/pao-logo-e1631193304168.png) | [Public Affairs Office](/pao) |
 | ![](/images/TRADOCLOGO-e1605319963366.png) | [TRADOC](/tradoc) | 
