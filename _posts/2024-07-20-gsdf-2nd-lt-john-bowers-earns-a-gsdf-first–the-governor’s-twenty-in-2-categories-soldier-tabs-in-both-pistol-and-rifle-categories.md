@@ -24,7 +24,6 @@ Also noteworthy, the GSDF team placed 3rd in the overall competition in 2023. He
 the GSDF competition marksmanship team in 2023 (Ranks at that time): 
 
 * 2nd Lt. John Bowers – 5BDE
-   
 
   Pfc. Scott Lawler – 5BDE
   Prior to 2nd Lt. Bowers, Staff Sgt. Jon Van Holm was the first and the only GSDF Soldier
@@ -103,5 +102,12 @@ mission running in a smooth manner.  As far as preparing for the competition, a
 
 you’ve served in the support role, I’d look into the GSDF marksmanship team. They
 practice regularly throughout the year.
+
+![](/images/378860839_703895998448586_2949252924073931479_n-1-_team-photo-asmc-1-.jpg)
+
+*The Georgia State Defense Force (GSDF) team runs the distance before taking a firing position during the Andrew Sullens Marksmanship Competition, Fort Stewart, Ga., Sept. 6 - 11.*\
+*Shown: The GSDF Team: 2nd Lt. John Bowers, Command Sgt. Maj. Bill Ford, Spc. Tom Peters, and Pfc. Scott Lawler. Also shown: Georgia Army National Guard Staff Sgt. Troy Mayfield.*
+
+
 For more on the GSDF’s involvement in the ASMC, go to this GSDF interview with Col.
 Don Lankford: t.ly/wrKYL
