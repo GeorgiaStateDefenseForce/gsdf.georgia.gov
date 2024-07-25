@@ -68,10 +68,12 @@ ASMC is shot over many days, with both rifle and pistol, under many challenging 
 What advice would you give others preparing for competition? The first thing I would recommend is to go on the mission in a support role.  That will allow you to learn, firsthand, what’s really involved. GSDF soldiers help the Georgia Marksmanship Unit (our brothers/sisters in the GAANG that, along with GSDF help, run the match). Support activities include helping to build/setup/manage the
 targetry, issue/track/control ammunition, and perform ad hoc tasks keep the mission running in a smooth manner.  As far as preparing for the competition, after you’ve served in the support role, I’d look into the GSDF marksmanship team. They practice regularly throughout the year.
 
+![](/images/378860839_703895998448586_2949252924073931479_n-1-_team-photo-asmc-1-.jpg)
 
 *The Georgia State Defense Force (GSDF) team runs the distance before taking a firing position during the Andrew Sullens Marksmanship Competition, Fort Stewart, Ga., Sept. 6 - 11.*\
 *Shown: The GSDF Team: 2nd Lt. John Bowers, Command Sgt. Maj. Bill Ford, Spc. Tom Peters, and Pfc. Scott Lawler. Also shown: Georgia Army National Guard Staff Sgt. Troy Mayfield.*
 
+![](/images/378326668_292014786873878_7331124469187306452_n-1-12st-asmc_cropped.jpg)
 
 *Georgia State Defense Force 2nd. Lt. John Bowers (second from right) stands alongside others from the Georgia Army National Guard who earned the Governor's Twenty during the Andrew Sullens Marksmanship Competition, held at Fort Stewart, Ga., Sept. 6 - 11.*
 
