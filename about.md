@@ -129,12 +129,24 @@ GFAB South supports various Georgia Army National Guard units across its  area o
 
 GFAB South battalions are listed below.
 
-|          |              |
-|<img width=75/>|           |
-|4th Battalion | The 4th Battalion is headquartered in Ashburn, Ga. |
-|5th Battalion | The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga. |
-
-								
+<table style="width: 100%;">
+    <thead>
+        <tr>
+            <th style="width: 50%;">Battalion</th>
+            <th style="width: 50%;">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>4th Battalion</td>
+            <td>The 4th Battalion is headquartered in Ashburn, Ga.</td>
+        </tr>
+        <tr>
+            <td>5th Battalion</td>
+            <td>The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga.</td>
+        </tr>
+    </tbody>
+</table>
 
 ### BASIC MISSION ESSENTIAL TASK LIST (BMETL)
 
