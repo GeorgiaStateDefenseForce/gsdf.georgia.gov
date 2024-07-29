@@ -57,7 +57,7 @@ When ordered by the Adjutant General, provide an organized, trained, disciplined
     </span>
 </a>
 								
-The Georgia State Defense Force is a legally constituted element of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of the State of Georgia.</p>
+The Georgia State Defense Force is a legally constituted element of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of the State of Georgia.
 
 <a href="https://law.justia.com/codes/us/2018/title-32/chapter-1/sec-109/">32 U.S.C. § 109 (2018)</a>
 
