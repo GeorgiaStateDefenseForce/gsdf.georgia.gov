@@ -75,22 +75,50 @@ Click on a unit's name to learn more.
 
 
 
-|           |       |  
-|--------------|-----------|
+|           |       |          |
+|--------------|-----------| ----------------|
 | <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [HQ/HHC](/hhc)|
 | <img src="{{ "/images/army_bands_emb_n11062.gif" | absolute_url }}" alt="" style="width: 50px;" /> | [Band](/band) |
 | <img src="{{ "/images/pao-logo-e1631193304168.png" | absolute_url }}" alt="" style="width: 50px;" /> | [Public Affairs Office](/pao) |
 | <img src="{{ "/images/TRADOCLOGO-e1605319963366.png" | absolute_url }}" alt="" style="width: 50px;" /> | [TRADOC](/tradoc) | 
-| <img src="{{ "/images/1BDELogo-e1605319549785.jpg" | absolute_url }}" alt="" style="width: 50px;" /> | [1st Brigade](/1bde) |
-| <img src="{{ "/images/4BDELogo1-e1605714540671.jpg" | absolute_url }}" alt="" style="width: 50px;" /> | [4th Brigade](/4bde) |
-| <img src="{{ "/images/5bde_coin_65x60.png" | absolute_url }}" alt="" style="width: 50px;" /> | [5th Brigade](/5bde) |
 | <img src="{{ "/images/76thCoin-e1605320174988.jpg" | absolute_url }}" alt="" style="width: 50px;" /> | [76th Support Brigade](/76bde) |
-| <img src="{{ "/images/OPFOR-gold-patch-on-Black-arrow-icon-e1646752628316.jpg" | absolute_url }}" alt="" style="width: 50px;" /> | [OPFOR Battalion](/opfor) | 
 
 
 {: #unit-table }
 
+## Georgia Force Assistance Brigade North
 
+GFAB North is the operational headquarters for north Georgia. 
+
+GFAB North supports various Georgia Army National Guard units. This includes GFAB North 1st Battalion attachment to the Georgia Army National Guard  3rd Battalion, 121st Regiment, 48th Infantry Brigade Combat Team. The GFAB North 4th Battalion is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). Some of these cadets serve in the Georgia National Guard while attending the university, with the goal of graduating as officers serving in the Georgia Army National Guard or other U.S. military component.
+
+GFAB North battalions are listed below.
+
+### 1st Battalion (OPFOR Battalion)
+The 1st Battalion, headquartered in Cumming.
+
+### 2nd Battalion
+The 2nd Battalion, headquartered in Marietta, is also in Rome.
+
+### 3rd Battalion
+The 3rd Battalion is headquartered in Winder, Ga. 
+
+### 4th Battalion
+The 4th Battalion is headquartered in Dahlonega, Ga.
+
+## Georgia Force Assistance Brigade South
+
+GFAB South is the operational headquarters for south Georgia. 
+
+GFAB South supports various Georgia Army National Guard units across its  area of responsibility, including the 1177th Transportation Company in LaGrange, 1/54th SFAB at Fort Moore, multiple companies of the 2-121st Infantry Regiment at various armories across the state. GFAB South also supports the Georgia Marksmanship Unit at Fort Stewart. GFAB South supports additional units not listed above, upon request and approval.
+
+GFAB South battalions are listed below.
+
+### 4th Battalion
+The 4th Battalion is headquartered in Ashburn, Ga. 
+
+### 5th Battalion
+The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga.
 
 								
 
