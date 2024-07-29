@@ -94,7 +94,7 @@ GFAB North supports various Georgia Army National Guard units. This includes GFA
 
 GFAB North battalions are listed below.
 
-| <div style="width: 75px;">          |              |
+|              |              |
 |--------------|-----------|
 | 1st Battalion (OPFOR Battalion) | The 1st Battalion, headquartered in Cumming. |
 
@@ -112,7 +112,8 @@ GFAB South supports various Georgia Army National Guard units across its  area o
 
 GFAB South battalions are listed below.
 
-| <div style="width: 75px;">          |              |
+|          |              |
+|<img width=75/>|           |
 |4th Battalion | The 4th Battalion is headquartered in Ashburn, Ga. |
 
 |5th Battalion | The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga. |
