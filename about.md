@@ -67,9 +67,9 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 ---
    
    
-## Units
+## Support Units
 
-Click on a unit's name to learn more.
+Click on a support unit's name to learn more.
 
 
 
@@ -98,13 +98,13 @@ GFAB North battalions are listed below.
 - The 1st Battalion, headquartered in Cumming.
 
 ### 2nd Battalion
-The 2nd Battalion, headquartered in Marietta, is also in Rome.
+- The 2nd Battalion, headquartered in Marietta, is also in Rome.
 
 ### 3rd Battalion
-The 3rd Battalion is headquartered in Winder, Ga. 
+- The 3rd Battalion is headquartered in Winder, Ga. 
 
 ### 4th Battalion (WSAR Battalion)
-The 4th Battalion is headquartered in Dahlonega, Ga.
+- The 4th Battalion is headquartered in Dahlonega, Ga.
 
 ## Georgia Force Assistance Brigade South
 
@@ -115,10 +115,10 @@ GFAB South supports various Georgia Army National Guard units across its  area o
 GFAB South battalions are listed below.
 
 ### 4th Battalion
-The 4th Battalion is headquartered in Ashburn, Ga. 
+- The 4th Battalion is headquartered in Ashburn, Ga. 
 
 ### 5th Battalion
-The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga.
+- The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga.
 
 								
 
