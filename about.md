@@ -94,15 +94,32 @@ GFAB North supports various Georgia Army National Guard units. This includes GFA
 
 GFAB North battalions are listed below.
 
-|              |              |
-|--------------|-----------|
-| 1st Battalion (OPFOR Battalion) | The 1st Battalion, headquartered in Cumming. |
-
-| 2nd Battalion | The 2nd Battalion, headquartered in Marietta, is also in Rome. |
-
-| 3rd Battalion | The 3rd Battalion is headquartered in Winder, Ga. |
-
-| 4th Battalion (Wilderness SAR Battalion) | The 4th Battalion is headquartered in Dahlonega, Ga. |
+<table style="width: 100%;">
+    <thead>
+        <tr>
+            <th style="width: 50%;">Battalion</th>
+            <th style="width: 50%;">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1st Battalion (OPFOR Battalion)</td>
+            <td>The 1st Battalion, headquartered in Cumming.</td>
+        </tr>
+        <tr>
+            <td>2nd Battalion</td>
+            <td>The 2nd Battalion, headquartered in Marietta, is also in Rome.</td>
+        </tr>
+        <tr>
+            <td>3rd Battalion</td>
+            <td>The 3rd Battalion is headquartered in Winder, Ga.</td>
+        </tr>
+        <tr>
+            <td>4th Battalion (Wilderness SAR Battalion)</td>
+            <td>The 4th Battalion is headquartered in Dahlonega, Ga.</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Georgia Force Assistance Brigade South
 
@@ -115,7 +132,6 @@ GFAB South battalions are listed below.
 |          |              |
 |<img width=75/>|           |
 |4th Battalion | The 4th Battalion is headquartered in Ashburn, Ga. |
-
 |5th Battalion | The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga. |
 
 								
