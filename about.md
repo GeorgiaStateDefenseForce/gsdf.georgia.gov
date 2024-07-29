@@ -94,17 +94,13 @@ GFAB North supports various Georgia Army National Guard units. This includes GFA
 
 GFAB North battalions are listed below.
 
-### 1st Battalion (OPFOR Battalion)
-- The 1st Battalion, headquartered in Cumming.
+- 1st Battalion (OPFOR Battalion) - The 1st Battalion, headquartered in Cumming.
 
-### 2nd Battalion
-- The 2nd Battalion, headquartered in Marietta, is also in Rome.
+- 2nd Battalion - The 2nd Battalion, headquartered in Marietta, is also in Rome.
 
-### 3rd Battalion
-- The 3rd Battalion is headquartered in Winder, Ga. 
+- 3rd Battalion - The 3rd Battalion is headquartered in Winder, Ga. 
 
-### 4th Battalion (WSAR Battalion)
-- The 4th Battalion is headquartered in Dahlonega, Ga.
+- 4th Battalion (WSAR Battalion) - The 4th Battalion is headquartered in Dahlonega, Ga.
 
 ## Georgia Force Assistance Brigade South
 
@@ -113,12 +109,9 @@ GFAB South is the operational headquarters for south Georgia.
 GFAB South supports various Georgia Army National Guard units across its  area of responsibility, including the 1177th Transportation Company in LaGrange, 1/54th SFAB at Fort Moore, multiple companies of the 2-121st Infantry Regiment at various armories across the state. GFAB South also supports the Georgia Marksmanship Unit at Fort Stewart. GFAB South supports additional units not listed above, upon request and approval.
 
 GFAB South battalions are listed below.
+- 4th Battalion - The 4th Battalion is headquartered in Ashburn, Ga. 
 
-### 4th Battalion
-- The 4th Battalion is headquartered in Ashburn, Ga. 
-
-### 5th Battalion
-- The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga.
+- 5th Battalion - The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga.
 
 								
 
