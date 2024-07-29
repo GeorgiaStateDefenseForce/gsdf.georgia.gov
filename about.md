@@ -104,11 +104,11 @@ GFAB North battalions are listed below.
     <tbody>
         <tr>
             <td>1st Battalion (OPFOR Battalion)</td>
-            <td>The 1st Battalion, headquartered in Cumming.</td>
+            <td>The 1st Battalion, headquartered in Cumming, GA.</td>
         </tr>
         <tr>
             <td>2nd Battalion</td>
-            <td>The 2nd Battalion, headquartered in Marietta, is also in Rome.</td>
+            <td>The 2nd Battalion, headquartered in Marietta, GA and has a location in Rome.</td>
         </tr>
         <tr>
             <td>3rd Battalion</td>
