@@ -94,13 +94,15 @@ GFAB North supports various Georgia Army National Guard units. This includes GFA
 
 GFAB North battalions are listed below.
 
-- 1st Battalion (OPFOR Battalion) - The 1st Battalion, headquartered in Cumming.
+|           |              |
+|--------------|-----------|
+| 1st Battalion (OPFOR Battalion) | The 1st Battalion, headquartered in Cumming. |
 
-- 2nd Battalion - The 2nd Battalion, headquartered in Marietta, is also in Rome.
+| 2nd Battalion | The 2nd Battalion, headquartered in Marietta, is also in Rome. |
 
-- 3rd Battalion - The 3rd Battalion is headquartered in Winder, Ga. 
+| 3rd Battalion | The 3rd Battalion is headquartered in Winder, Ga. |
 
-- 4th Battalion (WSAR Battalion) - The 4th Battalion is headquartered in Dahlonega, Ga.
+| 4th Battalion (Wilderness SAR Battalion) | The 4th Battalion is headquartered in Dahlonega, Ga. |
 
 ## Georgia Force Assistance Brigade South
 
