@@ -78,6 +78,8 @@ Click on a component name to learn more.
 |           |       |          |
 |--------------|-----------| ----------------|
 | <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [HQ/HHC](/hhc)|
+| <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [GFAB North](/gfab-n) |
+| <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [GFAB South](/gfab-s) |
 | <img src="{{ "/images/army_bands_emb_n11062.gif" | absolute_url }}" alt="" style="width: 50px;" /> | [Band](/band) |
 | <img src="{{ "/images/pao-logo-e1631193304168.png" | absolute_url }}" alt="" style="width: 50px;" /> | [Public Affairs Office](/pao) |
 | <img src="{{ "/images/TRADOCLOGO-e1605319963366.png" | absolute_url }}" alt="" style="width: 50px;" /> | [TRADOC](/tradoc) | 
@@ -85,68 +87,6 @@ Click on a component name to learn more.
 
 
 {: #unit-table }
-
-## Georgia Force Assistance Brigade North
-
-GFAB North is the operational headquarters for north Georgia. 
-
-GFAB North supports various Georgia Army National Guard units. This includes GFAB North 1st Battalion attachment to the Georgia Army National Guard  3rd Battalion, 121st Regiment, 48th Infantry Brigade Combat Team. The GFAB North 4th Battalion is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). Some of these cadets serve in the Georgia National Guard while attending the university, with the goal of graduating as officers serving in the Georgia Army National Guard or other U.S. military component.
-
-GFAB North battalions are listed below.
-
-<table style="width: 100%;">
-    <thead>
-        <tr>
-            <th style="width: 50%;">Battalion</th>
-            <th style="width: 50%;">Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1st Battalion (OPFOR Battalion)</td>
-            <td>The 1st Battalion, headquartered in Cumming, GA.</td>
-        </tr>
-        <tr>
-            <td>2nd Battalion</td>
-            <td>The 2nd Battalion, headquartered in Marietta, GA and has a location in Rome.</td>
-        </tr>
-        <tr>
-            <td>3rd Battalion</td>
-            <td>The 3rd Battalion is headquartered in Winder, Ga.</td>
-        </tr>
-        <tr>
-            <td>4th Battalion (Wilderness SAR Battalion)</td>
-            <td>The 4th Battalion is headquartered in Dahlonega, Ga.</td>
-        </tr>
-    </tbody>
-</table>
-
-## Georgia Force Assistance Brigade South
-
-GFAB South is the operational headquarters for south Georgia. 
-
-GFAB South supports various Georgia Army National Guard units across its  area of responsibility, including the 1177th Transportation Company in LaGrange, 1/54th SFAB at Fort Moore, multiple companies of the 2-121st Infantry Regiment at various armories across the state. GFAB South also supports the Georgia Marksmanship Unit at Fort Stewart. GFAB South supports additional units not listed above, upon request and approval.
-
-GFAB South battalions are listed below.
-
-<table style="width: 100%;">
-    <thead>
-        <tr>
-            <th style="width: 50%;">Battalion</th>
-            <th style="width: 50%;">Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>4th Battalion</td>
-            <td>The 4th Battalion is headquartered in Ashburn, Ga.</td>
-        </tr>
-        <tr>
-            <td>5th Battalion</td>
-            <td>The 5th Battalion is headquartered at Garrison Training Center/Land Dominance Center at Fort Stewart, Ga. and co-exists at 48th Infantry Brigade Combat Team headquarters in Macon, Ga.</td>
-        </tr>
-    </tbody>
-</table>
 
 ### BASIC MISSION ESSENTIAL TASK LIST (BMETL)
 
