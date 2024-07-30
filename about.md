@@ -71,19 +71,15 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 
 Click on a component name to learn more.
 
-
-
-
-
 |           |       |          |
 |--------------|-----------| ----------------|
 | <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [HQ/HHC](/hhc)|
-| <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [GFAB North](/gfab-n) |
-| <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [GFAB South](/gfab-s) |
 | <img src="{{ "/images/army_bands_emb_n11062.gif" | absolute_url }}" alt="" style="width: 50px;" /> | [Band](/band) |
 | <img src="{{ "/images/pao-logo-e1631193304168.png" | absolute_url }}" alt="" style="width: 50px;" /> | [Public Affairs Office](/pao) |
 | <img src="{{ "/images/TRADOCLOGO-e1605319963366.png" | absolute_url }}" alt="" style="width: 50px;" /> | [TRADOC](/tradoc) | 
 | <img src="{{ "/images/76thCoin-e1605320174988.jpg" | absolute_url }}" alt="" style="width: 50px;" /> | [76th Support Brigade](/76bde) |
+| <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [Georgia Force Assistance Brigade North](/gfab-n) |
+| <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [Georgia Force Assistance Brigade South](/gfab-s) |
 
 
 {: #unit-table }
