@@ -69,7 +69,7 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
    
 ## Components
 
-Click on a Component name to learn more.
+Click on a component name to learn more.
 
 
 
