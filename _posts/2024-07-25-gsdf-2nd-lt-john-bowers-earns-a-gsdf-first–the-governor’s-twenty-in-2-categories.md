@@ -1,7 +1,7 @@
 ---
 layout: post
-title: GSDF 2nd Lt. John Bowers Earns a GSDF First–The Governor’s Twenty in 2
-  Categories!
+title: Q&A with GSDF 2nd Lt. John Bowers, Who Earned a GSDF First–The Governor’s
+  Twenty in 2 Categories!
 date: 2024-07-25T17:19:28.073Z
 excerpt: Soldier Tabs in Both Pistol and Rifle Categories
 author: gsdf
