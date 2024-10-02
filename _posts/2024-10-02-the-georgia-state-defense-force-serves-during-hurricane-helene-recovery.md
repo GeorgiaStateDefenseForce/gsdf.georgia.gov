@@ -10,6 +10,8 @@ In the aftermath of Hurricane Helene, the Georgia State Defense Force (GSDF) ass
 
 The GSDF is a component of the Georgia Department of Defense, along with the Georgia Air National Guard and Georgia Army National Guard.  
 
+(Georgia State Defense Force photo by Chief Warrant Officer 4 Tim Wimberley)
+
 <iframe width="315" height="560"
 src="https://youtube.com/embed/lDtQ9iYiKTU?si=aHFLpqdY1nmFTOd7"
 title="YouTube video player"
