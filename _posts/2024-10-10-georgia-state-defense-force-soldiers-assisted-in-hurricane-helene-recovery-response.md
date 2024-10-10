@@ -9,8 +9,6 @@ image: /images/54032817284_c3d8eabec2_o.jpg
 ---
 <!--StartFragment-->
 
-By Capt. Beverly Shepard and PFC Emma Foley
-
 In the aftermath of Hurricane Helene, Georgia State Defense Force (GSDF) Soldiers answered the call to serve Georgia and its citizens.
 
 The [Georgia Emergency Management and Homeland Security Agency](https://www.facebook.com/GeorgiaEMAHS?__cft__%5b0%5d=AZUcGDgq9lqBeVjGsGlk16d6Ghp60mNp2O_p0VjwMNRniD3G79Q5KJOZS7-hoB3yLiD_XkL3szhnfhXtEnlYWQ_llLOqeEJOMBof4w_epAaMO49c2dfJjrM-Hklz-rwPwb5sTyZQCanNtim8PI0SRu9j5ivJIor4AhgQcdvR4bgmLkdnzeNA1jbO2HedZqTCWcg&__tn__=-%5dK-R) led the state’s recovery efforts. The GSDF assisted the [Georgia National Guard](https://www.facebook.com/GeorgiaArmyNationalGuard?__cft__%5b0%5d=AZUcGDgq9lqBeVjGsGlk16d6Ghp60mNp2O_p0VjwMNRniD3G79Q5KJOZS7-hoB3yLiD_XkL3szhnfhXtEnlYWQ_llLOqeEJOMBof4w_epAaMO49c2dfJjrM-Hklz-rwPwb5sTyZQCanNtim8PI0SRu9j5ivJIor4AhgQcdvR4bgmLkdnzeNA1jbO2HedZqTCWcg&__tn__=-%5dK-R) with debris clearance, water distribution, and traffic control operations in both northern and southern portions of the state.
@@ -27,9 +25,9 @@ Throughout the response, the GSDF personified its motto: Parati Servire!, meanin
 
  “I could not be more proud of the men and women of Georgia’s State Defense Force and their selfless response to the citizens of the state,” said GSDF Commanding General Brig. Gen. Dennis Watts.
 
+(Georgia State Defense Force photo by Sgt. Lauren Boyle-Estheimer)
+
 For more on the GSDF’s response to Hurricane Helene, follow the GSDF [Facebook](https://www.facebook.com/GeorgiaSDF), [Instagram](https://www.instagram.com/georgiastatedefenseforce/), or [LinkedIn](https://www.linkedin.com/company/georgia-state-defense-force/).
-
-
 
 About the GSDF
 
