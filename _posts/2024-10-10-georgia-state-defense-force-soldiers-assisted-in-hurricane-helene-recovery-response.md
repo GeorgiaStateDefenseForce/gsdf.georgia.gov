@@ -1,10 +1,10 @@
 ---
 layout: post
 title: " Georgia State Defense Force Soldiers Assisted in Hurricane Helene
-  Recovery Response"
+  Recovery Response. Story by CPT Beverly Shepard and PFC Emma Foley"
 date: 2024-10-10T20:56:14.422Z
 excerpt: Storm Devastates Portions of the Southeast in September 2024
-author: beverlyshepard
+author: gsdf
 image: /images/54032817284_c3d8eabec2_o.jpg
 ---
 <!--StartFragment-->
