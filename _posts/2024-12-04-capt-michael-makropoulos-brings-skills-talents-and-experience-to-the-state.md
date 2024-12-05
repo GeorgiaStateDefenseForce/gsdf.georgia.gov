@@ -27,7 +27,7 @@ His certifications include:
 
 In his GSDF capacity, Capt. Makropoulos serves as executive officer for GSDF Headquarters and Headquarters Company. 
 
-Capt. Makropoulos is a coach for the Georgia National Guard Marksmanship team. He has assisted with the Andrew Sullens Marksmanship Competition (ASMC). He also assists with Georgia National Guard marksmanship training during the Small Arms Leadership Course, and he performs other marksmanship functions at Fort Stewart.
+Capt. Makropoulos is an instructor with the Georgia National Guard Marksmanship Unit at Fort Stewart. He is also a coach for the Goergia National Guard marksmanship team.
 
 **Q1.   You own a security company. What skills does that allow you to use with your service to  the state of Georgia?** 
 
