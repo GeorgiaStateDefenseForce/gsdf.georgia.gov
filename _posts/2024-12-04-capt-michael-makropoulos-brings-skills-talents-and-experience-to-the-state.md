@@ -27,7 +27,7 @@ His certifications include:
 
 In his GSDF capacity, Capt. Makropoulos serves as executive officer for GSDF Headquarters and Headquarters Company. 
 
-Capt. Makropoulos is an instructor with the Georgia National Guard Marksmanship Unit at Fort Stewart. He is also a coach for the Goergia National Guard marksmanship team.
+Capt. Makropoulos is an instructor with the Georgia National Guard Marksmanship Unit at Fort Stewart. He is also a coach for the Georgia National Guard marksmanship team.
 
 **Q1.   You own a security company. What skills does that allow you to use with your service to  the state of Georgia?** 
 
@@ -59,5 +59,7 @@ Capt. Makropoulos is an instructor with the Georgia National Guard Marksmanship 
 **Q6. When did you join the GSDF? What motivates you to serve in the GSDF?**  
 
 **A.**	I joined 10 years ago. Being a son of a career U.S. Army officer, I always wanted to serve.  After working 2 years in the Middle East as a security contractor as a young man, I  decided to pursue a civilian career in technology. After seeing the GSDF in action, I heard Maj. Clark Howard (GSDF, ret.) promoting the GSDF, and I joined.
+
+*The GSDF is an unarmed component of the Georgia Department of Defense. Weapons are used for training, sanctioned competitions, or other authorized purposes.*
 
 ![](/images/img_1444-adj1.jpg)
