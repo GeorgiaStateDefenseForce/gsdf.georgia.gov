@@ -4,7 +4,7 @@ title: About GSDF
 description: About the GSDF
 sitemap:
   priority: 0.7
-  lastmod: 2017-11-02
+  lastmod: 2024-12-08
   changefreq: weekly
 redirect_from:
   - /pages/about/
@@ -59,9 +59,9 @@ When ordered by the Adjutant General, provide an organized, trained, disciplined
 								
 The Georgia State Defense Force is a legally constituted element of the Georgia Department of Defense, serving in support of the national and state constitutions under direction of the Governor and the Adjutant General of the State of Georgia.
 
-<a href="https://law.justia.com/codes/us/2018/title-32/chapter-1/sec-109/">32 U.S.C. § 109 (2018)</a>
+<a href="https://law.justia.com/codes/us/title-32/chapter-1/sec-109/">32 U.S.C. § 109 (2012)</a>
 
-<a href="https://law.justia.com/codes/georgia/2019/title-38/chapter-2/article-1/part-3/section-38-2-50/">GA Code § 38-2-50 (2019)</a>
+<a href="https://law.justia.com/codes/georgia/title-38/chapter-2/article-1/part-3/section-38-2-50//">GA Code § 38-2-50 (2023)</a>
 
    
 ---
