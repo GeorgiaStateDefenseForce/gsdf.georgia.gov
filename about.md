@@ -61,7 +61,7 @@ The Georgia State Defense Force is a legally constituted element of the Georgia 
 
 <a href="https://law.justia.com/codes/us/title-32/chapter-1/sec-109/">32 U.S.C. § 109 (2012)</a>
 
-<a href="https://law.justia.com/codes/georgia/title-38/chapter-2/article-1/part-3/section-38-2-50//">GA Code § 38-2-50 (2023)</a>
+<a href="https://law.justia.com/codes/georgia/title-38/chapter-2/article-1/part-3/section-38-2-50/">GA Code § 38-2-50 (2023)</a>
 
    
 ---
