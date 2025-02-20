@@ -13,7 +13,7 @@ sitemap:
 
 GFAB North is the operational headquarters for north Georgia. 
 
-GFAB North supports various Georgia Army National Guard units. This includes GFAB North 1st Battalion (OPFOR) attachment to the Georgia Army National Guard  3rd Battalion, 121st Regiment, 48th Infantry Brigade Combat Team. The GFAB North 4th Battalion is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). Some of these cadets serve in the Georgia National Guard while attending the university, with the goal of graduating as officers serving in the Georgia Army National Guard or other U.S. military component.
+GFAB North supports various Georgia Army National Guard units. This includes GFAB North 1st Battalion attachment to the Georgia Army National Guard  3rd Battalion, 121st Regiment, 48th Infantry Brigade Combat Team. The GFAB North 4th Battalion is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). Some of these cadets serve in the Georgia National Guard while attending the university, with the goal of graduating as officers serving in the Georgia Army National Guard or other U.S. military component.
 
 GFAB North battalions are listed below.
 
