@@ -26,7 +26,7 @@ GFAB North battalions are listed below.
     </thead>
     <tbody>
         <tr>
-            <td>1st Battalion (OPFOR)</td>
+            <td>1st Battalion</td>
             <td>The 1st Battalion, headquartered in Cumming, GA.</td>
         </tr>
         <tr>
@@ -38,7 +38,7 @@ GFAB North battalions are listed below.
             <td>The 3rd Battalion is headquartered in Winder, Ga.</td>
         </tr>
         <tr>
-            <td>4th Battalion (Wilderness SAR)</td>
+            <td>4th Battalion</td>
             <td>The 4th Battalion is headquartered in Dahlonega, Ga.</td>
         </tr>
     </tbody>
