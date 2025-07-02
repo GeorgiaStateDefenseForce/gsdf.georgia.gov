@@ -17,7 +17,7 @@ GFAB South supports various Georgia Army National Guard units across its  area o
 
 Each company in GFAB South is comprised of teams.  The team structure will resemble this: 
 
-<img src"/images/team_structure.png" alt="team structure" />
+<img height=180px src="{{ "/images/team_structure.png" | absolute_url }}" alt="team structure" />
 
 GFAB South companies are listed below.
 
