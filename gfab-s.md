@@ -31,11 +31,11 @@ GFAB South companies are listed below.
     <tbody>
         <tr>
             <td>Alpha Co</td>
-            <td>Drills on Charlie Weekend at Ft. Stewart</td>
+            <td>Drills on Charlie (3rd) Weekend at Ft. Stewart</td>
         </tr>
         <tr>
             <td>Bravo Co</td>
-            <td>Drills on Charlie Weekend at Ft. Stewart</td>
+            <td>Drills on Charlie (3rd) Weekend at Ft. Stewart</td>
         </tr>
     </tbody>
 </table>
