@@ -53,7 +53,7 @@ All personnel will be evaluated by the medical staff to determine their eligibil
 
 2. The height and weight table below prescribes maximum allowable weight for GSDF personnel based on height. Measurements will be taken without shoes. Height will be rounded to the nearest inch. Three pounds credit may be given for regular street clothing.
 
-3. Applicants who do not meet these standards are strongly encouraged to contact their personal physician who can make recommendations regarding diet and exercise programs to bring weight into acceptable and healthful limits.  Once within the standards reapply.  
+3. Applicants who do not meet these standards are strongly encouraged to contact their personal physician who can make recommendations regarding diet and exercise programs to bring weight into acceptable and healthful limits.  Reapply once within the Height and Weight standards.  
 
 4. The standards contained here exceed those allowed for active/reserve component personnel and take into account the nature of GSDF duties. They are designed to ensure that GSDF personnel present minimum acceptable appearance when in uniform.
 

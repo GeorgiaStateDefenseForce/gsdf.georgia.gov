@@ -18,7 +18,7 @@ redirect_from:
 
 ## Phone: 833-715-GSDF(4733)
 
-## General Inquiries (PAO,JAG,Other)
+## General Inquiries
 Email: gsdf@gsdf.ga.gov
 
 ## Recruiting Questions
