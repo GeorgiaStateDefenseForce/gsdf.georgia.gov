@@ -1,5 +1,28 @@
     <form id="join" action="/api/cform" method="post">
       <div class="field">
+        <label>I am an American Citizen or permanent resident (you have a Green Card).*</label>
+        <div>
+          <input type="radio" name="american" id="american_yes" value="yes" required />
+          <label for="american_yes">Yes</label>
+        </div>
+        <div>
+          <input type="radio" name="american" id="american_no" value="no" />
+          <label for="american_no">No</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I am a legal resident of one of the following states:  Georgia, Florida, Tennessee, Alabama, South Carolina, North Carolina.*</label>
+        <div>
+          <input type="radio" name="inState" id="inState_yes" value="yes" required />
+          <label for="inState_yes">Yes</label>
+        </div>
+        <div>
+          <input type="radio" name="inState" id="inState_no" value="no" />
+          <label for="inState_no">No</label>
+        </div>
+      </div>
+
+      <div class="field">
         <label for="fname">First Name*</label>
         <input type="text" name="fname" id="fname" required />
       </div>
