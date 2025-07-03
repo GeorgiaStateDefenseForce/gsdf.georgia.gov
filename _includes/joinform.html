@@ -1,5 +1,90 @@
     <form id="join" action="/api/cform" method="post">
       <div class="field">
+        <label>I am an American Citizen or permanent resident (you have a Green Card).*</label>
+        <div>
+          <input type="checkbox" name="american" id="american_yes" value="yes" required />
+          <label for="american_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I am a legal resident of one of the following states:  Georgia, Florida, Tennessee, Alabama, South Carolina, North Carolina.*</label>
+        <div>
+          <input type="checkbox" name="inState" id="inState_yes" value="yes" required />
+          <label for="inState_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I am between the ages of 18-64.*</label>
+        <div>
+          <input type="checkbox" name="inAge" id="inAge_yes" value="yes" required />
+          <label for="inAge_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I meet the height and weight requirements established by the Georgia State Defense Force.  (See chart below)*</label>
+        <div>
+          <input type="checkbox" name="heightWieght" id="heightWieght_yes" value="yes" required />
+          <label for="heightWieght_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I will provide a copy of my GED/high school diploma, or an official transcript or college diploma/official transcript.*</label>
+        <div>
+          <input type="checkbox" name="diploma" id="diploma_yes" value="yes" required />
+          <label for="diploma_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>If prior military service, I can provide a copy of my Member 4, DD214.*</label>
+        <div>
+          <input type="checkbox" name="dd214" id="dd214_yes" value="yes" />
+          <label for="dd214_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I willingly commit to serve two years in the GSDF.*</label>
+        <div>
+          <input type="checkbox" name="twoYears" id="twoYears_yes" value="yes" required />
+          <label for="twoYears_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I willingly commit to at least 10 of the 12 monthly (two-day) drills.  (One weekend every month)*</label>
+        <div>
+          <input type="checkbox" name="drills" id="drills_yes" value="yes" required />
+          <label for="drills_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I will be honest and upfront with any information relating to my criminal record.*</label>
+        <div>
+          <input type="checkbox" name="criminal" id="criminal_yes" value="yes" required />
+          <label for="criminal_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I understand this is a volunteer position, and there is no monetary compensation.*</label>
+        <div>
+          <input type="checkbox" name="monetary" id="monetary_yes" value="yes" required />
+          <label for="monetary_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>For my safety and the safety of others during deployment within the state, I confirm I speak fluent English.*</label>
+        <div>
+          <input type="checkbox" name="english" id="english_yes" value="yes" required />
+          <label for="english_yes">Yes</label>
+        </div>
+      </div>
+      <div class="field">
+        <label>I confirm I do not have any tattoos that are against the AR 670-1 listed below.*</label>
+        <div>
+          <input type="checkbox" name="tattoos" id="tattoos_yes" value="yes" required />
+          <label for="tattoos_yes">Yes</label>
+        </div>
+      </div>
+
+      <div class="field">
         <label for="fname">First Name*</label>
         <input type="text" name="fname" id="fname" required />
       </div>

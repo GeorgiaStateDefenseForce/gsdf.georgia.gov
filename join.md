@@ -19,7 +19,7 @@ redirect_from:
 # Join us today
 
 <div class="box">
-While there are minimum requirements to join the GSDF, it is recommended to speak with a recruiter even if you think you may not be eligible. Often candidates who assume they are ineligible are eligible. 
+To confirm eligibility and speak with a Recruiter, complete the following questions.  
 </div>
 
 <section>
@@ -53,11 +53,9 @@ All personnel will be evaluated by the medical staff to determine their eligibil
 
 2. The height and weight table below prescribes maximum allowable weight for GSDF personnel based on height. Measurements will be taken without shoes. Height will be rounded to the nearest inch. Three pounds credit may be given for regular street clothing.
 
-3. Personnel who do not meet these standards are strongly encouraged to contact their personal physician who can make recommendations regarding diet and exercise programs to bring weight into acceptable and healthful limits. The GSDF Surgeon and GSDF medical personnel are also available to provide dietary and exercise advice.
+3. Applicants who do not meet these standards are strongly encouraged to contact their personal physician who can make recommendations regarding diet and exercise programs to bring weight into acceptable and healthful limits.  Reapply once within the Height and Weight standards.  
 
-4. Personnel who do not meet the standards prescribed in the accompanying table may not be allowed to wear the Class A, B, or dress uniforms. Brigade Commanders have the latitude to determine if personnel exceeding the standards present an acceptable appearance in these uniforms.
-
-5. The standards contained here exceed those allowed for active/reserve component personnel and take into account the nature of GSDF duties. They are designed to ensure that GSDF personnel present minimum acceptable appearance when in uniform.
+4. The standards contained here exceed those allowed for active/reserve component personnel and take into account the nature of GSDF duties. They are designed to ensure that GSDF personnel present minimum acceptable appearance when in uniform.
 
 Maximum Allowable Weight in pounds for Age (Male/Female):
 
@@ -260,10 +258,17 @@ Maximum Allowable Weight in pounds for Age (Male/Female):
 		</table>
 	</div>
 
+## TATTOO POLICY
 
-     	 	
-
-
-
-
+1. Hand tattoos:
+Soldiers can now have one ring tattoo on each hand, and a limited number of tattoos between the fingers, provided they are not visible when the fingers are closed. Also, one visible tattoo, not exceeding one inch in measurement, is permitted on each hand, including the palm.
+2. Neck tattoos:
+A tattoo on the back of the neck, not exceeding 2 inches in length, is permitted, but it cannot extend to the sides of the neck or be visible from the front or sides.
+3. Tattoos behind the ears:
+One tattoo behind each ear, not exceeding 1 inch in measurement, is allowed, but it cannot extend forward or below the earlobe.
+4. Face and Head:
+Tattoos on the head and face remain prohibited, with the exception of permanent makeup, like eyebrow darkening or eyeliner.
+5. Content Restrictions:
+Tattoos must not be extremist, indecent, sexist, racist, or depict violence, nudity, or explicit language.
+     	
  
