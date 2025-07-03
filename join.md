@@ -260,10 +260,17 @@ Maximum Allowable Weight in pounds for Age (Male/Female):
 		</table>
 	</div>
 
+## TATTOO POLICY
 
-     	 	
-
-
-
-
+1. Hand tattoos:
+Soldiers can now have one ring tattoo on each hand, and a limited number of tattoos between the fingers, provided they are not visible when the fingers are closed. Also, one visible tattoo, not exceeding one inch in measurement, is permitted on each hand, including the palm.
+2. Neck tattoos:
+A tattoo on the back of the neck, not exceeding 2 inches in length, is permitted, but it cannot extend to the sides of the neck or be visible from the front or sides.
+3. Tattoos behind the ears:
+One tattoo behind each ear, not exceeding 1 inch in measurement, is allowed, but it cannot extend forward or below the earlobe.
+4. Face and Head:
+Tattoos on the head and face remain prohibited, with the exception of permanent makeup, like eyebrow darkening or eyeliner.
+5. Content Restrictions:
+Tattoos must not be extremist, indecent, sexist, racist, or depict violence, nudity, or explicit language.
+     	
  

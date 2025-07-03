@@ -18,5 +18,8 @@ redirect_from:
 
 ## Phone: 833-715-GSDF(4733)
 
+## General Inquiries
+Email: gsdf@gsdf.ga.gov
 
-## Email: gsdf@gsdf.ga.gov
+## Reqruiting Questions
+Email: questions@gsdf.ga.gov
