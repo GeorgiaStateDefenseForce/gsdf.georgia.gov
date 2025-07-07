@@ -13,7 +13,7 @@ sitemap:
 
 GFAB North is the operational headquarters for north Georgia. 
 
-GFAB North supports various Georgia Army National Guard units. This includes GFAB North attachment to the Georgia Army National Guard, 121st Regiment, 48th Infantry Brigade Combat Team. 
+GFAB North supports various Georgia Army National Guard units. This includes GFAB North attachment to the Georgia Army National Guard, 121st Regiment, 48th Infantry Brigade Combat Team amoungst others. 
 
 GFAB North companies are listed below.
 
@@ -31,7 +31,7 @@ GFAB North companies are listed below.
         </tr>
         <tr>
             <td>Bravo Company</td>
-            <td>Our monthly drill locations depend on the team you belong to. Teams 1,2,3 drill in Rome, GA.  Teams drill in Winder, GA. Drills are normally the third full weekend of the month (Charlie weekend).</td>
+            <td>Our monthly drill locations depend on the team you belong to. Teams 1,2,3 drill in Rome, GA.  Teams 4,5,6 drill in Winder, GA. Drills are normally the third full weekend of the month (Charlie weekend).</td>
         </tr>
     </tbody>
 </table>
