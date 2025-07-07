@@ -13,33 +13,25 @@ sitemap:
 
 GFAB North is the operational headquarters for north Georgia. 
 
-GFAB North supports various Georgia Army National Guard units. This includes GFAB North 1st Battalion attachment to the Georgia Army National Guard  3rd Battalion, 121st Regiment, 48th Infantry Brigade Combat Team. The GFAB North 4th Battalion is officially attached to the University of North Georgia Corps of Cadets (the Boar’s Head Brigade). Some of these cadets serve in the Georgia National Guard while attending the university, with the goal of graduating as officers serving in the Georgia Army National Guard or other U.S. military component.
+GFAB North supports various Georgia Army National Guard units. This includes GFAB North attachment to the Georgia Army National Guard, 121st Regiment, 48th Infantry Brigade Combat Team. 
 
-GFAB North battalions are listed below.
+GFAB North companies are listed below.
 
 <table style="width: 100%;">
     <thead>
         <tr>
-            <th style="width: 50%;">Battalion</th>
+            <th style="width: 50%;">Company</th>
             <th style="width: 50%;">Description</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>1st Battalion</td>
-            <td>The 1st Battalion, headquartered in Cumming, GA.</td>
+            <td>Alpha Company</td>
+            <td>Monthly drill locations vary with the planned training. Locations include, Dawson Forest (Atlanta Tract), Pine Valley Recreation Center (Dahlonega), Yonah Preserve (Cleveland) as well as more remote areas in the North Georgia Mountains. Able Company training consists of all the METL for the GSDF but has a focus on Wilderness Search and Rescue because of our proximity to the mountains, Appalachian Trail system and other hiking trails. Drills are normally the third full weekend of the month (Charlie weekend), physical by the nature of our training and usually include a bivouac between day one and two of training. If you are looking for a way to serve the citizens of Georgia that is both demanding and rewarding, Able Company might be the challenge you are looking for. </td>
         </tr>
         <tr>
-            <td>2nd Battalion</td>
-            <td>The 2nd Battalion, headquartered in Marietta, GA and has a location in Rome.</td>
-        </tr>
-        <tr>
-            <td>3rd Battalion</td>
-            <td>The 3rd Battalion is headquartered in Winder, Ga.</td>
-        </tr>
-        <tr>
-            <td>4th Battalion</td>
-            <td>The 4th Battalion is headquartered in Dahlonega, Ga.</td>
+            <td>Bravo Company</td>
+            <td>Our monthly drill locations depend on the team you belong to. Teams 1,2,3 drill in Rome, GA.  Teams drill in Winder, GA. Drills are normally the third full weekend of the month (Charlie weekend).</td>
         </tr>
     </tbody>
 </table>
