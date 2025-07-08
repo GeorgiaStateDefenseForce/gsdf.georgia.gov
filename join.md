@@ -77,72 +77,71 @@ Maximum Allowable Weight in pounds for Age (Male/Female):
 			<thead>
 				<tr>
 					<th>Height (Ft, In)</th>
-					<th>Height (In)</th>
 					<th>21 – 27</th>
 					<th>28 – 39</th>
                     <th>40 – 51</th>
-                    <th>>52</th>
+                    <th>>=52</th>
 				</tr>
 			</thead>
 			<tbody>
                  <tr>
-        <td>4,10</td>
+        <td>4' 10"</td>
         <td>na/120</td>
         <td>na/124</td>
         <td>na/131</td>
         <td>na/137</td>
     </tr>
     <tr>
-        <td>4,11</td>
+        <td>4' 11"</td>
         <td>na/124</td>
         <td>na/128</td>
         <td>na/135</td>
         <td>na/142</td>
     </tr>
     <tr>
-        <td>5,0</td>
+        <td>5' 0"</td>
         <td>148/132</td>
         <td>153/135</td>
         <td>157/142</td>
         <td>160/147</td>
     </tr>
     <tr>
-        <td>5,1</td>
+        <td>5' 1"</td>
         <td>154/136</td>
         <td>158/139</td>
         <td>162/146</td>
         <td>165/151</td>
     </tr>
     <tr>
-        <td>5,2</td>
+        <td>5' 2"</td>
         <td>158/142</td>
         <td>162/145</td>
         <td>168/153</td>
         <td>170/159</td>
     </tr>
     <tr>
-        <td>5,3</td>
+        <td>5' 3"</td>
         <td>164/146</td>
         <td>168/150</td>
         <td>173/157</td>
         <td>175/162</td>
     </tr>
     <tr>
-        <td>5,4</td>
+        <td>5' 4"</td>
         <td>169/150</td>
         <td>173/155</td>
         <td>179/162</td>
         <td>181/166</td>
     </tr>
     <tr>
-        <td>5,5</td>
+        <td>5' 5"</td>
         <td>175/155</td>
         <td>179/159</td>
         <td>184/166</td>
         <td>187/171</td>
     </tr>
     <tr>
-        <td>5,6</td>
+        <td>5' 6"</td>
         <td>179/162</td>
         <td>184/165</td>
         <td>189/172</td>
