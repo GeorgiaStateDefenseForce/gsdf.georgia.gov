@@ -80,7 +80,7 @@ Maximum Allowable Weight in pounds for Age (Male/Female):
 					<th>Age 21 – 27 (m/f)</th>
 					<th>Age 28 – 39 (m/f)</th>
                     <th>Age 40 – 51 (m/f)</th>
-                    <th>Age >=52 (m/f)</th>
+                    <th>Age 52 - 64 (m/f)</th>
 				</tr>
 			</thead>
 			<tbody>
