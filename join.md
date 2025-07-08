@@ -76,11 +76,11 @@ Maximum Allowable Weight in pounds for Age (Male/Female):
 		<table>
 			<thead>
 				<tr>
-					<th>Height (Ft, In)</th>
-					<th>21 – 27</th>
-					<th>28 – 39</th>
-                    <th>40 – 51</th>
-                    <th>>=52</th>
+					<th>Height</th>
+					<th>21 – 27 (m/f)</th>
+					<th>28 – 39 (m/f)</th>
+                    <th>40 – 51 (m/f)</th>
+                    <th>>=52 (m/f)</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -148,21 +148,21 @@ Maximum Allowable Weight in pounds for Age (Male/Female):
         <td>192/176</td>
     </tr>
     <tr>
-        <td>5,7</td>
+        <td>5' 7"</td>
         <td>186/164</td>
         <td>191/169</td>
         <td>197/178</td>
         <td>203/183</td>
     </tr>
     <tr>
-        <td>5,8</td>
+        <td>5' 8"</td>
         <td>191/169</td>
         <td>197/175</td>
         <td>202/183</td>
         <td>206/189</td>
     </tr>
     <tr>
-        <td>5,9</td>
+        <td>5' 9"</td>
         <td>197/173</td>
         <td>202/179</td>
         <td>209/188</td>
