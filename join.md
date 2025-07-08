@@ -76,171 +76,170 @@ Maximum Allowable Weight in pounds for Age (Male/Female):
 		<table>
 			<thead>
 				<tr>
-					<th>Height (Ft, In)</th>
-					<th>Height (In)</th>
-					<th>21 – 27</th>
-					<th>28 – 39</th>
-                    <th>40 – 51</th>
-                    <th>>52</th>
+					<th>Height</th>
+					<th>Age 21 – 27 (m/f)</th>
+					<th>Age 28 – 39 (m/f)</th>
+                    <th>Age 40 – 51 (m/f)</th>
+                    <th>Age 52 - 64 (m/f)</th>
 				</tr>
 			</thead>
 			<tbody>
                  <tr>
-        <td>4,10</td>
+        <td>4' 10"</td>
         <td>na/120</td>
         <td>na/124</td>
         <td>na/131</td>
         <td>na/137</td>
     </tr>
     <tr>
-        <td>4,11</td>
+        <td>4' 11"</td>
         <td>na/124</td>
         <td>na/128</td>
         <td>na/135</td>
         <td>na/142</td>
     </tr>
     <tr>
-        <td>5,0</td>
+        <td>5' 0"</td>
         <td>148/132</td>
         <td>153/135</td>
         <td>157/142</td>
         <td>160/147</td>
     </tr>
     <tr>
-        <td>5,1</td>
+        <td>5' 1"</td>
         <td>154/136</td>
         <td>158/139</td>
         <td>162/146</td>
         <td>165/151</td>
     </tr>
     <tr>
-        <td>5,2</td>
+        <td>5' 2"</td>
         <td>158/142</td>
         <td>162/145</td>
         <td>168/153</td>
         <td>170/159</td>
     </tr>
     <tr>
-        <td>5,3</td>
+        <td>5' 3"</td>
         <td>164/146</td>
         <td>168/150</td>
         <td>173/157</td>
         <td>175/162</td>
     </tr>
     <tr>
-        <td>5,4</td>
+        <td>5' 4"</td>
         <td>169/150</td>
         <td>173/155</td>
         <td>179/162</td>
         <td>181/166</td>
     </tr>
     <tr>
-        <td>5,5</td>
+        <td>5' 5"</td>
         <td>175/155</td>
         <td>179/159</td>
         <td>184/166</td>
         <td>187/171</td>
     </tr>
     <tr>
-        <td>5,6</td>
+        <td>5' 6"</td>
         <td>179/162</td>
         <td>184/165</td>
         <td>189/172</td>
         <td>192/176</td>
     </tr>
     <tr>
-        <td>5,7</td>
+        <td>5' 7"</td>
         <td>186/164</td>
         <td>191/169</td>
         <td>197/178</td>
         <td>203/183</td>
     </tr>
     <tr>
-        <td>5,8</td>
+        <td>5' 8"</td>
         <td>191/169</td>
         <td>197/175</td>
         <td>202/183</td>
         <td>206/189</td>
     </tr>
     <tr>
-        <td>5,9</td>
+        <td>5' 9"</td>
         <td>197/173</td>
         <td>202/179</td>
         <td>209/188</td>
         <td>215/193</td>
     </tr>
     <tr>
-        <td>5,10</td>
+        <td>5' 10"</td>
         <td>203/179</td>
         <td>208/184</td>
         <td>215/193</td>
         <td>218/199</td>
     </tr>
     <tr>
-        <td>5,11</td>
+        <td>5' 11"</td>
         <td>208/183</td>
         <td>213/189</td>
         <td>220/198</td>
         <td>226/203</td>
     </tr>
     <tr>
-        <td>6,0</td>
+        <td>6' 0"</td>
         <td>214/189</td>
         <td>220/194</td>
         <td>227/204</td>
         <td>230/211</td>
     </tr>
     <tr>
-        <td>6,1</td>
+        <td>6' 1"</td>
         <td>220/194</td>
         <td>225/200</td>
         <td>232/210</td>
         <td>236/217</td>
     </tr>
     <tr>
-        <td>6,2</td>
+        <td>6' 2"</td>
         <td>226/201</td>
         <td>232/207</td>
         <td>239/217</td>
         <td>245/222</td>
     </tr>
     <tr>
-        <td>6,3</td>
+        <td>6' 3"</td>
         <td>233/206</td>
         <td>238/213</td>
         <td>246/224</td>
         <td>249/230</td>
     </tr>
     <tr>
-        <td>6,4</td>
+        <td>6' 4"</td>
         <td>238/213</td>
         <td>245/220</td>
         <td>251/230</td>
         <td>254/237</td>
     </tr>
     <tr>
-        <td>6,5</td>
+        <td>6' 5"</td>
         <td>245/219</td>
         <td>252/225</td>
         <td>259/236</td>
         <td>263/243</td>
     </tr>
     <tr>
-        <td>6,6</td>
+        <td>6' 6"</td>
         <td>252/224</td>
         <td>258/231</td>
         <td>266/241</td>
         <td>269/248</td>
     </tr>
     <tr>
-        <td>6,7</td>
+        <td>6' 7"</td>
         <td>258/230</td>
         <td>265/236</td>
         <td>273/248</td>
         <td>276/256</td>
     </tr>
     <tr>
-        <td>6,8</td>
+        <td>6' 8"</td>
         <td>264/235</td>
         <td>271/242</td>
         <td>280/254</td>
@@ -249,12 +248,11 @@ Maximum Allowable Weight in pounds for Age (Male/Female):
 			</tbody>
 			<tfoot>
 				<tr>
-					<th>Height (Ft, In)</th>
-					<th>Height (In)</th>
-					<th>21 – 27</th>
-					<th>28 – 39</th>
-                    <th>40 – 51</th>
-                    <th>>52</th>
+					<th>Height</th>
+					<th>Age 21 – 27 (m/f)</th>
+					<th>Age 28 – 39 (m/f)</th>
+                    <th>Age 40 – 51 (m/f)</th>
+                    <th>Age >=52 (m/f)</th>
 				</tr>
 			</tfoot>
 		</table>
