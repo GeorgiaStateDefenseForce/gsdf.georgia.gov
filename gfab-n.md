@@ -31,7 +31,9 @@ GFAB North companies are listed below.
         </tr>
         <tr>
             <td>Bravo Company</td>
-            <td>Our monthly drill locations depend on the team you belong to. Teams 1,2,3 drill in Rome, GA.  Teams 4,5,6 drill in Winder, GA. Drills are normally the third full weekend of the month (Charlie weekend).</td>
+            <td>Baker (B) Company stands as a pillar of strength and service in our communities. From disaster relief and search & rescue to medical support and military operations, our volunteers are always mission-ready. Whether it's supporting the National Guard, aiding law enforcement, or stepping up in times of crisis, we are the boots on the ground when Georgia needs us most. Teams 1,2,3 drill in Rome, GA. Teams 4,5,6 drill in Winder, GA. Teams will occasionally drill in other locations based on training needs. Drills occur normally on the third full weekend of the month (Charlie weekend).
+<br />
+Join a team where purpose meets action. Baker Company is more than a unit — it's a family with a mission.</td>
         </tr>
     </tbody>
 </table>
