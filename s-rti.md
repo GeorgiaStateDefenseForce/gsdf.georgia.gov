@@ -15,7 +15,7 @@ sitemap:
 * The RTI trains new Soldiers and ensures that they are mentally and physically prepared and administratively correct before they are assigned to their new unit.
 * In addition to training new recruits, Southern RTI Soldiers are cross-trained in GFAB specialty fields and must be ready to meet the needs of the State in the event of emergency mobilization or special missions as directed by the Adjutant General. 
 
-# The Following roles/positions are currently available within the RTI:
+## The Following roles/positions are currently available within the RTI:
 * Instructor 
 * Logistics Specialist
 * Administrative and Personnel Specialist
