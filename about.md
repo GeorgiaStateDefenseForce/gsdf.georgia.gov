@@ -80,6 +80,7 @@ Click on a component name to learn more.
 | <img src="{{ "/images/76thCoin-e1605320174988.jpg" | absolute_url }}" alt="" style="width: 50px;" /> | [76th Support Brigade](/76bde) |
 | <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [Georgia Force Assistance Brigade North](/gfab-n) |
 | <img src="{{ "/images/logo_tr_bg_sm1.png" | absolute_url }}" alt="" style="width: 50px;" /> | [Georgia Force Assistance Brigade South](/gfab-s) |
+| <img src="{{ "/images/Logo_Spartan_RTI.jpg" | absolute_url }}" alt="" style="width: 50px;" /> | [Southern Regional Training Institute](/s-rti) |
 
 
 {: #unit-table }
