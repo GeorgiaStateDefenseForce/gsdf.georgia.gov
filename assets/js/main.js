@@ -92,7 +92,7 @@
 
 		$window
 			.off('load._parallax resize._parallax')
-			.on('load._parallax resize._parallax', function() {
+			.on('resize._parallax', function() {
 				$window.trigger('scroll');
 			});
 
@@ -109,6 +109,12 @@
 			$nav = $('#nav'),
 			$main = $('#main'),
 			$navPanelToggle, $navPanel, $navPanelInner;
+
+		// Ensure page loads at top (prevent browser scroll restoration)
+		if ('scrollRestoration' in history) {
+			history.scrollRestoration = 'manual';
+		}
+		window.scrollTo(0, 0);
 
 		// Disable animations/transitions until the page has loaded.
 			$window.on('load', function() {
