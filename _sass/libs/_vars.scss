@@ -29,7 +29,7 @@
 
 // Palette.
 	$palette: (
-		wrapper-bg:			#212931,
+		wrapper-bg:			#000000,
 
 		bg:					#ffffff,
 		fg:					#212931,
@@ -37,7 +37,7 @@
 		fg-light:			mix(#212931, #ffffff, 50%),
 		border:				mix(#dcdcdc, #ffffff, 50%),
 		border-bg:			rgba(#dcdcdc, 0.25),
-		accent:				#18bfef,
+		accent:				#FFC72C, // Army gold/yellow
 
 		alt: (
 			bg:				#f5f5f5,
@@ -46,17 +46,17 @@
 			fg-light:		mix(#717981, #f5f5f5, 50%),
 			border:			mix(#dcdcdc, #f5f5f5, 75%),
 			border-bg:		rgba(#dcdcdc, 0.5),
-			accent:			#18bfef,
+			accent:			#FFC72C,
 		),
 
 		invert: (
-			bg:				#1e252d,
-			bg-alt:			#1e252d,
+			bg:				#000000,
+			bg-alt:			#000000,
 			fg:				#ffffff,
 			fg-bold:		#ffffff,
 			fg-light:		rgba(#ffffff, 0.5),
 			border:			#ffffff,
 			border-bg:		rgba(#ffffff,0.075),
-			accent:			#18bfef,
+			accent:			#FFC72C, // Army gold/yellow
 		),
 	);

@@ -30,10 +30,6 @@ body.is-loading {
     padding-top: 0px;
     padding-bottom: 0px;
 }
-#intro {
-
-}
-
 
 a.logo {
     text-shadow: 3px 3px 3px #000000;
@@ -45,6 +41,38 @@ h1.intro-title {
 
 p.intro-subtitle {
     text-shadow: 2px 2px 4px #000000;
+}
+
+// Hero CTA button styling (goarmy.com style)
+#intro {
+    .actions {
+        margin-top: 2rem;
+
+        .button.primary.large {
+            background-color: #FFC72C;
+            color: #000000;
+            font-size: 1.1rem;
+            font-weight: 900;
+            padding: 1.25rem 2.5rem;
+            border: none;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            line-height: 1;
+
+            &:hover {
+                background-color: #ffffff;
+                color: #000000;
+                transform: translateY(-2px);
+                box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+            }
+        }
+    }
 }
 
 img.full {

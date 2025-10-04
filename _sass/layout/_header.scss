@@ -1,63 +1,313 @@
 ///
-/// Massively by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+/// GoArmy.com Style Header
+/// Modern, clean header with fixed positioning
 ///
 
-/* Header */
+/* Main Header */
 
-	#header {
-		@include color-typography(invert);
-		@include vendor('align-items', 'center');
-		@include vendor('display', 'flex');
-		@include vendor('flex-direction', 'column');
-		@include vendor('justify-content', 'flex-end');
-		@include vendor('pointer-events', 'none');
-		@include vendor('user-select', 'none');
-		height: 18rem;
-		padding-bottom: (_size(padding) * 4);
-		position: relative;
-		text-align: center;
-		z-index: 2;
+.site-header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1000;
+	background: rgba(0, 0, 0, 0.85);
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter: blur(10px);
+	transition: background 0.3s ease;
 
-		.logo {
-			@include vendor('transition', (
-				'border-color #{_duration(transition)} ease-in-out',
-				'color #{_duration(transition)} ease-in-out',
-				'opacity 0.5s ease',
-				'transform 0.5s ease',
-				'visibility 0.5s'
-			));
-			@include vendor('pointer-events', 'auto');
-			border-style: solid;
-			border-color: _palette(invert, border);
-			border-width: 5px !important;
-			font-family: _font(family-heading);
-			font-size: 2.25rem;
-			font-weight: _font(weight-heading);
-			letter-spacing: 0.075em;
-			line-height: 1;
-			padding: 1rem 1.75rem;
-			text-transform: uppercase;
-			visibility: visible;
+	&.scrolled {
+		background: rgba(0, 0, 0, 0.95);
+	}
+
+	.header-container {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		max-width: 1400px;
+		margin: 0 auto;
+		padding: 1rem 2rem;
+		gap: 2rem;
+	}
+
+	.header-logo {
+		flex-shrink: 0;
+		display: flex;
+		align-items: center;
+
+		a {
+			display: flex;
+			align-items: center;
+			line-height: 0;
+		}
+
+		img {
+			height: 50px;
+			width: auto;
+			display: block;
+			transition: transform 0.3s ease;
 
 			&:hover {
-				border-color: _palette(invert, accent) !important;
-				color: _palette(invert, accent) !important;
-			}
-		}
-
-		@include breakpoint(medium) {
-			height: 14rem;
-			padding-bottom: (_size(padding) * 2);
-		}
-
-		@include breakpoint(small) {
-			padding-bottom: (_size(padding) * 1.5);
-
-			.logo {
-				font-size: 1.75rem;
-				border-width: 3px !important;
+				transform: scale(1.05);
 			}
 		}
 	}
+
+	// Main Navigation
+	.main-navigation {
+		flex-grow: 1;
+		display: flex;
+		justify-content: center;
+
+		.nav-links {
+			display: flex;
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			gap: 0.5rem;
+		}
+
+		.nav-item {
+			margin: 0;
+		}
+
+		.nav-link {
+			display: block;
+			padding: 0.75rem 1.5rem;
+			color: #ffffff;
+			font-family: _font(family-heading);
+			font-size: 0.95rem;
+			font-weight: 600;
+			text-transform: uppercase;
+			letter-spacing: 0.05em;
+			text-decoration: none;
+			transition: all 0.3s ease;
+			position: relative;
+			white-space: nowrap;
+
+			span {
+				position: relative;
+			}
+
+			&::after {
+				content: '';
+				position: absolute;
+				bottom: 0.5rem;
+				left: 1.5rem;
+				right: 1.5rem;
+				height: 2px;
+				background: _palette(accent);
+				transform: scaleX(0);
+				transition: transform 0.3s ease;
+			}
+
+			&:hover {
+				color: _palette(accent);
+
+				&::after {
+					transform: scaleX(1);
+				}
+			}
+		}
+
+		.nav-item.active .nav-link {
+			color: _palette(accent);
+
+			&::after {
+				transform: scaleX(1);
+			}
+		}
+	}
+
+	// Utility Navigation
+	.header-utilities {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		flex-shrink: 0;
+	}
+
+	.utility-btn {
+		background: transparent;
+		border: none;
+		color: #ffffff;
+		cursor: pointer;
+		padding: 0.5rem;
+		transition: color 0.3s ease;
+
+		&:hover {
+			color: _palette(accent);
+		}
+
+		svg {
+			display: block;
+		}
+	}
+
+	// Mobile Menu Toggle
+	.mobile-menu-toggle {
+		display: none;
+		background: transparent;
+		border: none;
+		cursor: pointer;
+		padding: 0.5rem;
+		flex-direction: column;
+		gap: 4px;
+
+		.hamburger-line {
+			width: 24px;
+			height: 2px;
+			background: #ffffff;
+			transition: all 0.3s ease;
+		}
+
+		&:hover .hamburger-line {
+			background: _palette(accent);
+		}
+	}
+
+	// Responsive
+	@include breakpoint(medium) {
+		.main-navigation {
+			display: none;
+		}
+
+		.mobile-menu-toggle {
+			display: flex;
+		}
+
+		.header-logo img {
+			height: 40px;
+		}
+
+		.header-container {
+			padding: 0.75rem 1.5rem;
+		}
+	}
+
+	@include breakpoint(small) {
+		.header-container {
+			padding: 0.75rem 1rem;
+		}
+
+		.header-logo img {
+			height: 35px;
+		}
+	}
+}
+
+// Mobile Navigation Overlay
+.mobile-nav-overlay {
+	position: fixed;
+	top: 0;
+	right: -100%;
+	width: 100%;
+	max-width: 400px;
+	height: 100vh;
+	background: #000000;
+	z-index: 1001;
+	transition: right 0.3s ease;
+	overflow-y: auto;
+
+	&.active {
+		right: 0;
+	}
+
+	.mobile-nav-content {
+		padding: 2rem;
+		position: relative;
+	}
+
+	.mobile-nav-close {
+		position: absolute;
+		top: 1rem;
+		right: 1rem;
+		background: transparent;
+		border: none;
+		color: #ffffff;
+		font-size: 2rem;
+		cursor: pointer;
+		padding: 0.5rem;
+		line-height: 1;
+		transition: color 0.3s ease;
+
+		&:hover {
+			color: _palette(accent);
+		}
+	}
+
+	.mobile-navigation {
+		margin-top: 3rem;
+	}
+
+	.mobile-nav-links {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.mobile-nav-item {
+		margin: 0;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+	}
+
+	.mobile-nav-link {
+		display: block;
+		padding: 1rem 0;
+		color: #ffffff;
+		font-family: _font(family-heading);
+		font-size: 1.1rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		text-decoration: none;
+		transition: color 0.3s ease;
+
+		&:hover {
+			color: _palette(accent);
+		}
+	}
+
+	.mobile-social {
+		margin-top: 3rem;
+		padding-top: 2rem;
+		border-top: 1px solid rgba(255, 255, 255, 0.1);
+
+		h3 {
+			color: #ffffff;
+			font-size: 0.9rem;
+			text-transform: uppercase;
+			letter-spacing: 0.05em;
+			margin-bottom: 1rem;
+		}
+
+		.mobile-social-links {
+			display: flex;
+			gap: 1rem;
+			list-style: none;
+			margin: 0;
+			padding: 0;
+
+			a {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 40px;
+				height: 40px;
+				background: rgba(255, 255, 255, 0.1);
+				color: #ffffff;
+				border-radius: 50%;
+				transition: all 0.3s ease;
+
+				&:hover {
+					background: _palette(accent);
+					color: #000000;
+				}
+
+				i {
+					font-size: 1.2rem;
+				}
+			}
+		}
+	}
+}

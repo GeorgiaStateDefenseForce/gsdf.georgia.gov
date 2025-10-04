@@ -24,6 +24,7 @@ email: join@gsdf.ga.gov
 
 # Other
 background_image: /images/bgv2.jpg
+background_video: "https://www.youtube.com/embed/42CCmfA8chM?autoplay=1&mute=1&loop=1&playlist=42CCmfA8chM&controls=0&showinfo=0&rel=0&modestbranding=1"
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 

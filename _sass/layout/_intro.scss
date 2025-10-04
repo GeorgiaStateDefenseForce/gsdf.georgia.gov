@@ -10,24 +10,41 @@
 		@include color-typography(invert);
 		@include color-button(invert);
 		@include padding(_size(padding) * 4, _size(padding) * 2);
-		@include vendor('align-items', 'center');
+		@include vendor('align-items', 'flex-start');
 		@include vendor('display', 'flex');
 		@include vendor('flex-direction', 'column');
-		@include vendor('justify-content', 'flex-end');
+		@include vendor('justify-content', 'center');
 		@include vendor('transition', (
 			'opacity 1s ease',
 			'transform 1s ease'
 		));
 		position: relative;
 		cursor: default;
-		text-align: center;
+		text-align: left;
 		z-index: 1;
 		min-height: 100vh;
+		padding-left: 10%;
 
 		h1 {
 			font-size: 5rem;
 			line-height: 1;
 
+		}
+
+		// Hero text styling (goarmy.com style)
+		h1.hero-text {
+			font-size: 5.5rem;
+			font-weight: 900;
+			line-height: 0.95;
+			margin-bottom: 3rem;
+			text-transform: uppercase;
+			letter-spacing: -0.02em;
+
+			.hero-line {
+				display: block;
+				color: #FFC72C; // Army gold/yellow
+				text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8);
+			}
 		}
 
 		p {
@@ -83,6 +100,11 @@
 		@include breakpoint(medium) {
 			@include padding(_size(padding) * 2, _size(padding) * 2);
 			min-height: 90vh;
+			padding-left: 5%;
+
+			h1.hero-text {
+				font-size: 4rem;
+			}
 
 			p {
 				br {
@@ -98,11 +120,19 @@
 		@include breakpoint(small) {
 			@include padding(_size(padding) * 1.5, _size(padding) * 1);
 			min-height: 80vh;
+			padding-left: _size(padding);
+			@include vendor('align-items', 'center');
+			text-align: center;
 
 			h1 {
 				font-size: 3.25rem;
 				line-height: 1.1;
 				margin-bottom: _size(element-margin) * 0.5;
+			}
+
+			h1.hero-text {
+				font-size: 2.5rem;
+				margin-bottom: 2rem;
 			}
 
 			p {
@@ -111,7 +141,12 @@
 			}
 
 			.actions {
-				display: none;
+				li {
+					.button {
+						font-size: 0.9rem;
+						padding: 0.75rem 1.5rem;
+					}
+				}
 			}
 		}
 	}

@@ -1,0 +1,69 @@
+<header id="main-header" class="site-header">
+	<div class="header-container">
+		<!-- Logo -->
+		<div class="header-logo">
+			<a href="{{ "/" | absolute_url }}" aria-label="Georgia State Defense Force Home">
+				<img src="{{ "/images/logo.gif" | absolute_url }}" alt="GSDF Logo" height="60" />
+			</a>
+		</div>
+
+		<!-- Main Navigation -->
+		<nav class="main-navigation" aria-label="Main Navigation">
+			<ul class="nav-links">
+				{% for item in site.data.navigation.items %}
+				<li class="nav-item {% if page.url == item.link %}active{% endif %}">
+					<a href="{{ site.baseurl }}{{ item.link }}" class="nav-link">
+						<span>{{ item.name }}</span>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</nav>
+
+		<!-- Utility Navigation -->
+		<div class="header-utilities">
+			<button class="utility-btn search-btn" aria-label="Search">
+				<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path d="M9 17A8 8 0 1 0 9 1a8 8 0 0 0 0 16z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+					<path d="M19 19l-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+				</svg>
+			</button>
+
+			<!-- Mobile Menu Toggle -->
+			<button class="mobile-menu-toggle" aria-label="Toggle Menu" aria-expanded="false">
+				<span class="hamburger-line"></span>
+				<span class="hamburger-line"></span>
+				<span class="hamburger-line"></span>
+			</button>
+		</div>
+	</div>
+</header>
+
+<!-- Mobile Navigation Overlay -->
+<div class="mobile-nav-overlay">
+	<div class="mobile-nav-content">
+		<button class="mobile-nav-close" aria-label="Close Menu">&times;</button>
+		<nav class="mobile-navigation" aria-label="Mobile Navigation">
+			<ul class="mobile-nav-links">
+				{% for item in site.data.navigation.items %}
+				<li class="mobile-nav-item">
+					<a href="{{ site.baseurl }}{{ item.link }}" class="mobile-nav-link">
+						{{ item.name }}
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+
+			<!-- Mobile Social Links -->
+			<div class="mobile-social">
+				<h3>Follow Us</h3>
+				<ul class="mobile-social-links">
+					<li><a href="https://facebook.com/{{site.facebook}}" aria-label="Facebook"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="https://instagram.com/{{site.instagram}}" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="https://www.youtube.com/@georgiasdf" aria-label="YouTube"><i class="fa fa-youtube"></i></a></li>
+					<li><a href="https://www.flickr.com/photos/{{site.flickr}}/albums" aria-label="Flickr"><i class="fa fa-flickr"></i></a></li>
+				</ul>
+			</div>
+		</nav>
+	</div>
+</div>

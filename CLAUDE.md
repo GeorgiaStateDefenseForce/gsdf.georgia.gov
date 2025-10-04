@@ -121,3 +121,6 @@ This project uses [Conventional Commits](https://www.conventionalcommits.org/en/
 - MailChannels integration code exists but is commented out in `functions/_middleware.ts`
 - Jekyll pagination is enabled with 6 posts per page
 - The site uses Jekyll plugins: jekyll-mentions, jekyll-sitemap, jekyll-feed, jekyll-gist, jekyll-paginate, jekyll-redirect-from
+
+
+Use the playwrite MCP for end to end testing.
