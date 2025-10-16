@@ -15,7 +15,7 @@ redirect_from:
 
 | Link |
 |---|
-|[Request Supplies] (https://docs.google.com/spreadsheets/d/12jEW7afF6lGGGUmsZyNeEqDKPswBSNLr/edit?usp=drive_link&ouid=107913765895326983665&rtpof=true&sd=true)|
+|[Request Supplies](https://docs.google.com/spreadsheets/d/12jEW7afF6lGGGUmsZyNeEqDKPswBSNLr/edit?usp=drive_link&ouid=107913765895326983665&rtpof=true&sd=true)|
 |[Request Reimbursement](https://docs.google.com/spreadsheets/d/1adYuCeXoDflfchNXxsew-f583YMH3YtB/edit?usp=drive_link&ouid=107913765895326983665&rtpof=true&sd=true)|
 |[Document Control](https://sites.google.com/gasdf.us/gsdfdocumentcontrol/home)|
 | 
