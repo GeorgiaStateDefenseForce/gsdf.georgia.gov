@@ -19,7 +19,8 @@ redirect_from:
 # Join us today
 
 <div class="box">
-To confirm eligibility and speak with a Recruiter, complete the following questions.  
+To confirm eligibility and speak with a Recruiter, complete the following questions. <br />
+Not ready to join but have questions?  Email your questions to questions@gsdf.ga.gov
 </div>
 
 <section>
