@@ -19,8 +19,8 @@ redirect_from:
 # Join us today
 
 <div class="box">
-To confirm eligibility and speak with a Recruiter, complete the following questions. <br />
-Not ready to join but have questions?  Email your questions to questions@gsdf.ga.gov
+To confirm your eligibility and speak with a recruiter, complete the following questions. <br />
+Not ready to join but have questions? Email us at questions@gsdf.ga.gov.
 </div>
 
 <section>
@@ -36,27 +36,26 @@ Not ready to join but have questions?  Email your questions to questions@gsdf.ga
 
 ## CANDIDATE REQUIREMENTS
 
-All GSDF recruits are required to undergo a background check. This information will be kept confidential. All applications will be handled on an individual basis. While certain convictions do not bar entry, it will be very important to be honest when filling out the security packet as falsification of information will be grounds for dismissal.
+All GSDF recruits are required to undergo a background check. This information will be kept confidential. All applications are reviewed on an
+individual basis. While certain convictions do not bar entry, it is essential to be honest when filling out the security packet as falsification of information will be grounds for dismissal.
 
-All members of the GSDF are required to posses a high school diploma or equivalent, are between the ages of 18 and 64, a US Citizen or Legal Resident. Due to the cost of training and processing time of new personnel, the GSDF requires a minimum two (2) years commitment to serve.
+All members of the GSDF are required to possess a high school diploma or equivalent, be between the ages of 18 and 64, and be a U.S. citizen or legal resident. Due to the cost of training and processing time of new personnel, the GSDF requires a minimum two (2)-year commitment to serve.
 
-The GSDF will prohibit any form of discrimination based on race, religion, national origin or gender in conduct of the activities of the command. The GSDF will provide an equal opportunity for advancement or selection to position. The GSDF policy on sexual harassment is clear and unequivocal. All GSDF members are entitled to serve in an environment free from any form of sexual harassment.
+The GSDF prohibits any form of discrimination based on race, religion, national origin or gender in the conduct of command activities. The GSDF provides an equal opportunity for advancement or selection to positions. The GSDF policy on sexual harassment is clear and unequivocal. All GSDF members are entitled to serve in an environment free from any form of sexual harassment.
 
-All personnel will be evaluated by the medical staff to determine their eligibility to serve in the GSDF.
+All personnel are evaluated Height and Weight Section by the medical staff to determine their eligibility to serve in the GSDF.
 
 
 
 ## HEIGHT AND WEIGHT STANDARDS
 
-(GSDF Soldier’s Handbook: “Appendix B”)
+1. The maintenance of appropriate height and weight standards is important not only to general health but also to ensure the safe performance of GSDF duties and acceptable appearance in uniform.
 
-1. The maintenance of appropriate height and weight standards is important not only to general health but to ensure safe performance of GSDF duties and acceptable appearance in uniform.
+2. The height and weight table below prescribes maximum allowable weight for GSDF personnel based on height. Measurements will be taken without shoes. Height will be rounded to the nearest inch. Three pounds of credit may be given for regular street clothing.
 
-2. The height and weight table below prescribes maximum allowable weight for GSDF personnel based on height. Measurements will be taken without shoes. Height will be rounded to the nearest inch. Three pounds credit may be given for regular street clothing.
+3. Applicants who do not meet these standards are strongly encouraged to contact their personal physician who can make recommendations regarding diet and exercise programs to bring weight into acceptable and healthful limits. Reapply once within the height and weight standards.  
 
-3. Applicants who do not meet these standards are strongly encouraged to contact their personal physician who can make recommendations regarding diet and exercise programs to bring weight into acceptable and healthful limits.  Reapply once within the Height and Weight standards.  
-
-4. The standards contained here exceed those allowed for active/reserve component personnel and take into account the nature of GSDF duties. They are designed to ensure that GSDF personnel present minimum acceptable appearance when in uniform.
+4. The standards contained here exceed those allowed for active/reserve component personnel and reflect the GSDF’s requirement to field personnel across a wide range of mission sets, including physically demanding operational roles and critical support functions. They are designed to ensure that GSDF personnel present a minimum acceptable appearance Tattoo Policy when in uniform.
 
 Maximum Allowable Weight in pounds for Age (Male/Female):
 
@@ -267,8 +266,8 @@ Soldiers can now have one ring tattoo on each hand, and a limited number of tatt
 A tattoo on the back of the neck, not exceeding 2 inches in length, is permitted, but it cannot extend to the sides of the neck or be visible from the front or sides.
 3. Tattoos behind the ears:
 One tattoo behind each ear, not exceeding 1 inch in measurement, is allowed, but it cannot extend forward or below the earlobe.
-4. Face and Head:
-Tattoos on the head and face remain prohibited, with the exception of permanent makeup, like eyebrow darkening or eyeliner.
+4. Face and head:
+Tattoos on the head and face remain prohibited, with the exception of permanent makeup, such as eyebrow darkening.
 5. Content Restrictions:
 Tattoos must not be extremist, indecent, sexist, racist, or depict violence, nudity, or explicit language.
      	
